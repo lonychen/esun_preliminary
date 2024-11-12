@@ -1,0 +1,15 @@
+# Python 3.8.10
+jieba
+pandas
+tqdm
+rank_bm25
+torch
+transformers
+python-dotenv
+langchain
+langchain_openai
+pdfplumber
+PyPDF2
+fitz
+frontend
+google-generativeai
