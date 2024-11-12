@@ -1,3 +1,14 @@
+"""
+BM25-based Retrieval Script for Finance, Insurance, and FAQ Categories.
+
+This script provides the functionality to load text data, apply tokenization,
+use custom dictionaries, manage company data, and retrieve relevant text documents
+based on the BM25 algorithm.
+
+Modules:
+    - BM25Retriever: Class to handle document retrieval.
+    - load_stopwords: Loads stopwords from a file.
+"""
 import os
 import json
 import re
@@ -382,27 +393,26 @@ equity_change_statement_items = [
     "合併權益總額",
     
     #直
-    #"法定盈餘公積",
-    #"普通股股東現金股利",
-    #"特別股現金股利",
-    #"普通股股票股利",
-    
     "淨利",
     "本期淨利",
-    #"其他綜合損益",
-    
     "採用認列關聯企業及合資股權淨值之變動數",
     "對子公司所有權權益變動",
     "庫藏股轉讓員工認購之酬勞成本",
     "庫藏股轉讓員工",
     "庫藏股註銷",
     "處分已重估之資產迴轉特別盈餘公積",
-   
-    
 ]
     
 # 读取停用词列表
 def load_stopwords(stopwords_path):
+    """從指定路徑讀取停用詞列表，返回一個包含所有停用詞的集合。
+    
+    Args:
+        stopwords_path (str): 停用詞文件的路徑。
+    
+    Returns:
+        set: 包含停用詞的集合。如果文件不存在，返回空集合。
+    """
     if not os.path.exists(stopwords_path):
         print(f"Warning: 停用词文件 {stopwords_path} 不存在，返回空的停用词集合。")
         return set()  # 返回空集合
@@ -412,17 +422,31 @@ def load_stopwords(stopwords_path):
 
     # 打印所有加载的停用词
     print(f"Loaded stopwords from {stopwords_path}:")
-    #print(stopwords)
 
     return stopwords
 
 # 判断一个词是否由数字和符号组成
 def is_number_or_symbol(token):
-    #return False
+    """檢查詞是否僅包含數字和符號。
+    
+    Args:
+        token (str): 要檢查的詞。
+    
+    Returns:
+        bool: 如果詞僅包含數字和符號，返回 True；否則返回 False。
+    """
     return re.match(r'^[\d\W]+$', token) is not None
 
 # 读取同義词列表
 def load_synonyms(synonyms_path):
+    """從指定路徑讀取同義詞列表，並返回一個包含同義詞對應的字典。
+    
+    Args:
+        synonyms_path (str): 同義詞文件的路徑。
+    
+    Returns:
+        dict: 包含同義詞的字典，格式為 {詞: [同義詞列表]}。
+    """
     synonyms_dict = {}
     if not os.path.exists(synonyms_path):
         print(f"Warning: 同義詞檔案 {synonyms_path} 不存在。")
@@ -440,6 +464,14 @@ def load_synonyms(synonyms_path):
 
 # 读取公司名称文件
 def load_company_names(company_output_path):
+    """從指定路徑讀取公司名稱對應文件，並返回公司名稱對應的字典。
+    
+    Args:
+        company_output_path (str): 公司名稱文件的路徑。
+    
+    Returns:
+        dict: 包含公司名稱的字典，格式為 {公司代碼: 公司名稱}。
+    """
     if os.path.exists(company_output_path):
         with open(company_output_path, 'r', encoding='utf8') as f:
             return json.load(f)
@@ -448,6 +480,14 @@ def load_company_names(company_output_path):
         return {}
 
 def load_finance_mapping(finance_mapping_path):
+    """從 CSV 文件中讀取財務文件映射，並返回文件 ID 到股票代碼和文件路徑的對應字典。
+    
+    Args:
+        finance_mapping_path (str): 財務映射文件的路徑。
+    
+    Returns:
+        dict: 包含文件映射的字典，格式為 {文件ID: {'stock_code': 股票代碼, 'file_path': 文件路徑, 'docType': 文檔類型}}。
+    """
     if not os.path.exists(finance_mapping_path):
         print(f"Warning: Finance mapping file {finance_mapping_path} not found.")
         return {}
@@ -473,11 +513,27 @@ def load_finance_mapping(finance_mapping_path):
 
 # 根据股票代码获取公司名称
 def get_company_name_by_code(stock_code, company_code_mapping):
-    # 返回映射中的公司名称，如果找不到则返回 "未知公司"
+    """根據股票代碼返回公司名稱，若找不到則返回 '未知公司'。
+    
+    Args:
+        stock_code (str): 股票代碼。
+        company_code_mapping (dict): 股票代碼到公司名稱的映射字典。
+    
+    Returns:
+        str: 公司名稱或 '未知公司'。
+    """
     return company_code_mapping.get(stock_code, "未知公司")
 
 # Load additional text for insurance files
 def load_insurance_insertions(insurance_insertions_path):
+    """從指定路徑加載保險文件插入文本，返回文件名到插入文本的字典。
+    
+    Args:
+        insurance_insertions_path (str): 插入文本的文件路徑。
+    
+    Returns:
+        dict: 包含插入文本的字典，格式為 {文件名: 插入文本}。
+    """
     if not os.path.exists(insurance_insertions_path):
         print(f"Warning: Insurance insertions file {insurance_insertions_path} not found.")
         return {}
@@ -488,6 +544,17 @@ def load_insurance_insertions(insurance_insertions_path):
     return insertions_dict
 
 def load_data_from_text_with_insertion(source_path, insertion_dict, max_file_length=1000, chunk_overlap=0):
+    """從文本文件中加載數據並插入特定資料，返回一個包含文件 ID 和文本內容的字典。
+    
+    Args:
+        source_path (str): 文本文件的路徑。
+        insertion_dict (dict): 插入文本的字典，格式為 {文件名: 插入文本}。
+        max_file_length (int): 文件的最大長度。
+        chunk_overlap (int): 每個分塊間的重疊部分。
+    
+    Returns:
+        dict: 包含文件ID和對應文本內容的字典。
+    """
     corpus_dict = {}
     for file_name in tqdm(os.listdir(source_path), desc=f'Loading data from {source_path}'):
         if not file_name.endswith('.txt'):
@@ -516,6 +583,17 @@ def load_data_from_text_with_insertion(source_path, insertion_dict, max_file_len
 
 # 加载参考资料，返回一个字典，key为文件名，value为提取的文本内容
 def load_data_from_text(source_path, process_text=False, max_file_length=1000, chunk_overlap=0):
+    """從文本文件中加載數據，並返回一個包含文件 ID 和處理後文本內容的字典。
+    
+    Args:
+        source_path (str): 文本文件的路徑。
+        process_text (bool): 是否處理文本（去除換行符、重複特定內容）。
+        max_file_length (int): 文件的最大長度。
+        chunk_overlap (int): 每個分塊間的重疊部分。
+    
+    Returns:
+        dict: 包含文件 ID 和文本內容的字典，根據長度可能分成多部分。
+    """
     corpus_dict = {}
     for file_name in tqdm(os.listdir(source_path), desc=f'Loading data from {source_path}'):
         if not file_name.endswith('.txt'):
@@ -560,6 +638,19 @@ def load_data_from_text_with_finance_info(
     max_file_length=1000,
     chunk_overlap=0
 ):
+    """從文本文件中加載數據，並附加財務資訊，返回包含文件 ID 和文本內容的字典。
+    
+    Args:
+        source_path (str): 文本文件的路徑。
+        finance_mapping (dict): 財務映射的字典，用於附加財務信息。
+        company_code_mapping (dict): 公司代碼對應公司名稱的字典。
+        process_text (bool): 是否處理文本（去除換行符）。
+        max_file_length (int): 文件的最大長度。
+        chunk_overlap (int): 每個分塊間的重疊部分。
+    
+    Returns:
+        dict: 包含文件ID和財務資訊的文本內容字典。
+    """
     corpus_dict = {}
     sorted_files = sorted(os.listdir(source_path))
 
@@ -643,6 +734,15 @@ def load_data_from_text_with_finance_info(
     return corpus_dict
     
 def expand_query_with_synonyms(query_tokens, synonyms_dict):
+    """根據同義詞字典擴展查詢中的詞彙。
+    
+    Args:
+        query_tokens (list): 要擴展的查詢詞彙列表。
+        synonyms_dict (dict): 同義詞字典。
+    
+    Returns:
+        list: 包含原始詞彙及其同義詞的擴展查詢。
+    """
     expanded_query = []
 
     for token in query_tokens:
@@ -653,7 +753,8 @@ def expand_query_with_synonyms(query_tokens, synonyms_dict):
     return expanded_query
 
 def clear_dictionary():
-    """ 清除自定義詞典 """
+    """清空 Jieba 的自定義詞典，包括詞頻字典和總詞頻計數，並將初始化標誌設為 False。"""
+
     jieba.dt.FREQ = {}  # 清空詞頻字典
     jieba.dt.total = 0  # 重置總詞頻計數
     jieba.dt.initialized = False  # 標記為未初始化，這樣在下次使用時會重新加載默認詞典
@@ -661,6 +762,11 @@ def clear_dictionary():
     print("Custom dictionaries have been cleared.")
 
 def load_dictionary(paths):
+    """從指定路徑加載自定義詞典。
+    
+    Args:
+        paths (list): 包含詞典文件路徑的列表。
+    """
     for path in paths:
         print(f"Loaded dictionary from {path}")
         jieba.load_userdict(path)
@@ -680,7 +786,14 @@ def load_dictionary(paths):
 
 
 def switch_dictionary(category):
-    """ 根據類型切換詞彙表 """
+    """根據指定類別切換詞彙表。
+    
+    Args:
+        category (str): 類別名稱，用於選擇對應的詞彙表。
+    
+    Raises:
+        ValueError: 如果指定的類別沒有對應的詞典，則引發此異常。
+    """
 
     if category in category_dict_paths:
         clear_dictionary()
@@ -693,10 +806,11 @@ def switch_dictionary(category):
 
 # 定義輸出檔案的函數
 def export_retrieved_documents(output_file, retrieval_data):
-    """
-    匯出 BM25 檢索後的結果到 JSON 或 CSV 檔案
-    :param output_file: 要儲存的檔案路徑 (e.g., 'retrieval_output.csv')
-    :param retrieval_data: 包含題號、題目、文本等資訊的列表
+    """匯出 BM25 檢索後的結果到 JSON 或 CSV 檔案。
+
+    Args:
+        output_file (str): 要儲存的檔案路徑 (如 'retrieval_output.csv')。
+        retrieval_data (list): 包含題號、題目、文本等資訊的列表。
     """
     df = pd.DataFrame(retrieval_data)
     if output_file.endswith('.csv'):
@@ -707,6 +821,14 @@ def export_retrieved_documents(output_file, retrieval_data):
         print(f"Unsupported file format: {output_file}")
 
 def get_docType(doc_info):
+    """從文件信息中提取並返回文檔類型。
+
+    Args:
+        doc_info (dict): 包含文檔相關資訊的字典。
+    
+    Returns:
+        str: 文檔類型，默認為空字串。
+    """
     docType = doc_info.get('docType', '')
     if not isinstance(docType, str):
         if isinstance(docType, float) and math.isnan(docType):
@@ -715,12 +837,17 @@ def get_docType(doc_info):
             docType = str(docType)
     return docType.strip()
 
-
-
 class BM25Retriever:
     def __init__(self, corpus_dict, stopwords, synonyms, tokenizer_type='search', pre_tokenized=False, finance_mapping=None):
-        """
-        Initialize BM25 Retriever.
+        """初始化 BM25 檢索器類別。
+
+        Args:
+            corpus_dict (dict): 包含文件ID和文本內容的字典。
+            stopwords (set): 停用詞集合。
+            synonyms (dict): 同義詞字典。
+            tokenizer_type (str): 分詞器類型（'standard'、'search' 或 'all'）。
+            pre_tokenized (bool): 是否預先分詞。
+            finance_mapping (dict, optional): 財務映射，用於附加財務資訊。
         """
         self.corpus_dict = corpus_dict
         self.stopwords = stopwords
@@ -735,6 +862,14 @@ class BM25Retriever:
 
 
     def tokenize(self, text):
+        """將文本進行分詞並過濾停用詞和符號。
+
+        Args:
+            text (str): 要分詞的文本。
+
+        Returns:
+            list: 包含分詞結果的列表。
+        """
         if self.pre_tokenized:
             tokens = [token for token in text.split() if token.strip() and token not in self.stopwords]
         else:
@@ -761,6 +896,8 @@ class BM25Retriever:
         return tokens
 
     def build_model(self):
+        """基於語料庫構建 BM25 模型，將每個文檔進行分詞並存入模型中。"""
+
         for doc_id, doc_text in tqdm(self.corpus_dict.items(), desc='Building BM25 model'):
             tokens = self.tokenize(doc_text)
             self.tokenized_corpus.append(tokens)
@@ -769,6 +906,18 @@ class BM25Retriever:
         self.bm25 = BM25Okapi(self.tokenized_corpus)
     
     def retrieve(self, query, source, n=3, m=2, category=""):
+        """根據查詢從特定來源中檢索最相關的文件ID。
+
+        Args:
+            query (str): 用於檢索的查詢字串。
+            source (list): 文檔來源的 ID 列表。
+            n (int): 檢索的文檔數量。
+            m (int): 每個文檔的最大分頁數。
+            category (str): 類別名稱，用於特殊處理如財務查詢。
+
+        Returns:
+            list: 檢索到的最相關文件 ID 列表。
+        """
         query = filter_query(query)
         
         # 提取指定来源的文档
@@ -812,12 +961,7 @@ class BM25Retriever:
         source_scores = [(i, scores[i]) for i in source_indices]
         source_scores.sort(key=lambda x: x[1], reverse=True)
 
-        # 列印所有分頁及其分數
-        #print(f"\nScores for query '{query}':")
-        #for i, score in source_scores:
-        #    print(f"Doc ID: {self.doc_id_list[i]}, Score: {score}")
-        
-            # 將分數結果按文檔分組
+        # 將分數結果按文檔分組
         doc_scores = {}
         for i, score in source_scores:
             doc_id = self.doc_id_list[i]
@@ -1025,19 +1169,6 @@ for category, questions in questions_by_category.items():
         tokenized_query = retriever.tokenize(query)
         tokenized_query = expand_query_with_synonyms(tokenized_query, retriever.synonyms)
 
-#        if not bm25_correct:
-#          print(f"\n題號: {qid}")
-#          print(f"題目: {query}")
-#          print(f"題目分詞結果: {tokenized_query}")
-#          print(f"正確答案ID: {ground_truth}")
-#          print(f"BM25的前{n}個文本ID: {', '.join(retrieved_list)}")
-
-          # 為前三個文檔列出前30個分詞
-#          for doc_id in retrieved_list[:n]:
-#            doc_text = retriever.corpus_dict.get(doc_id, "")
-#            first_30_tokens = retriever.tokenize(doc_text)[:50]
-#            print(f"文本ID {doc_id} 的前30個分詞: {first_30_tokens}")
-
         answer_dict['answers'].append({
             "qid": qid,
             "retrieve": most_relevant_doc_id
@@ -1063,8 +1194,16 @@ with open(output_truth_path, 'w', encoding='utf8') as f:
     json.dump(truth_dict, f, ensure_ascii=False, indent=4)
 
 def append_results_to_html(total_questions, accuracy_bm25, accuracy_llm, categories, total_questions_per_category, correct_answers_per_category, max_file_length, chunk_overlap):
-    """
-    将每次运行结果追加为指定的 HTML 文件中的表格行。
+    """將每次運行結果追加為 HTML 文件中的表格行。
+
+    Args:
+        total_questions (int): 總問題數。
+        accuracy_bm25 (float): BM25 準確率。
+        categories (list): 問題類別列表。
+        total_questions_per_category (dict): 每個類別的問題總數。
+        correct_answers_per_category (dict): 每個類別的正確答案數量。
+        max_file_length (int): 文檔的最大長度。
+        chunk_overlap (int): 每個分塊間的重疊部分。
     """
     # HTML 表格行内容
     table_row = f"""
@@ -1102,6 +1241,7 @@ def append_results_to_html(total_questions, accuracy_bm25, accuracy_llm, categor
 
 # 在所有运行完成后，仅添加关闭标签
 def close_html_table():
+    """在 HTML 文件中添加結束的表格和 HTML 標籤。"""
     with open(results_file_path, 'a', encoding='utf-8') as f:
         f.write("</table></body></html>")
 

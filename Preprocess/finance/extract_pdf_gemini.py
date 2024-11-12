@@ -8,17 +8,28 @@ import sys
 
 dotenv_path = "../../.env"
 load_dotenv(dotenv_path=dotenv_path)
-# Load environment variables from .env file
-#load_dotenv()
+
 
 def upload_to_gemini(path, mime_type="application/pdf"):
-    """Uploads the given file to Gemini."""
+    """上傳指定文件到 Gemini 平台。
+
+    Args:
+        path (str): 文件路徑。
+        mime_type (str): 文件的 MIME 類型，預設為 PDF 格式。
+
+    Returns:
+        file: 上傳後的文件物件。
+    """
     file = genai.upload_file(path, mime_type=mime_type)
     print(f"Uploaded file '{file.display_name}' as: {file.uri}")
     return file
 
 def wait_for_files_active(files):
-    """Waits for the given files to be active."""
+    """等待指定的文件狀態變為 active。
+
+    Args:
+        files (list): 要等待處理完成的文件列表。
+    """
     print("Waiting for file processing...")
     for file in files:
         while file.state.name == "PROCESSING":
@@ -41,7 +52,11 @@ generation_config = {
 model = None
 
 def configure_model(api_key):
-    """Configures the model with the provided API key."""
+    """配置生成模型，設定 API 金鑰和生成參數。
+
+    Args:
+        api_key (str): 用於配置生成模型的 API 金鑰。
+    """
     global model
     genai.configure(api_key=api_key)
     model = genai.GenerativeModel(
@@ -50,7 +65,14 @@ def configure_model(api_key):
     )
 
 def load_target_pdfs(csv_file="finance_mapping_sort.csv"):
-    """Loads target PDFs for processing based on CSV file content."""
+    """根據 CSV 文件內容載入目標 PDF 文件的名稱和報告類型。
+
+    Args:
+        csv_file (str): 包含 PDF 檔名和類型的 CSV 文件路徑。
+
+    Returns:
+        list: 包含 (pdf_name, report_type) 元組的列表。
+    """
     target_pdfs = []
     with open(csv_file, "r", encoding="utf-8") as file:
         reader = csv.reader(file)
@@ -61,7 +83,13 @@ def load_target_pdfs(csv_file="finance_mapping_sort.csv"):
     return target_pdfs
 
 def process_and_save_files(start_file_num=1, input_folder="pdf", output_folder="gemini_pro3"):
-    """Processes each PDF file in the input folder starting from start_file_num and saves results in output folder."""
+    """處理指定資料夾中的每個 PDF 文件，並將結果儲存在輸出資料夾中。
+
+    Args:
+        start_file_num (int): 開始處理的文件編號。
+        input_folder (str): 輸入文件的資料夾。
+        output_folder (str): 儲存處理後文件的資料夾。
+    """
     os.makedirs(output_folder, exist_ok=True)
     
     # Load only the target PDF files based on CSV
@@ -171,7 +199,6 @@ def process_and_save_files(start_file_num=1, input_folder="pdf", output_folder="
                 "請跳過pdf的前兩頁不用提取。"
             )
         else:
-            continue
             prompt = (
                 "請從 PDF 文件中提取所有文字，並保持與原始文本的格式一致，以便後續進行精準檢索。"
                 "若 PDF 中包含表格，請完全避免使用表格格式進行描述。每個項目及其對應數據分行顯示，按以下格式描述："

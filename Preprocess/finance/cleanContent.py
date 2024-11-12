@@ -3,7 +3,15 @@ import re
 import argparse
 
 def search_and_replace_patterns_in_files(folder_path, patterns, replacements, replace=False, output_folder="clean_gemini"):
-    # 確保目錄存在
+    """在指定的資料夾中搜尋並替換文件中的模式。
+
+    Args:
+        folder_path (str): 資料夾路徑。
+        patterns (list): 正則表達式模式的列表。
+        replacements (list): 用於替換的內容列表。
+        replace (bool): 是否替換匹配的模式。若為 False 則僅顯示匹配內容。
+        output_folder (str): 儲存替換後文件的資料夾路徑。
+    """
     if not os.path.isdir(folder_path):
         print("資料夾不存在！")
         return

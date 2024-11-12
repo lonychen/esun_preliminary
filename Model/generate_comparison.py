@@ -10,17 +10,41 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from shared_functions import filter_query
 
 def load_answers(file_path):
+    """從指定的文件中載入答案資料並返回以 QID 為鍵的字典。
+
+    Args:
+        file_path (str): 文件的路徑。
+
+    Returns:
+        dict: 以 QID 為鍵的答案資料字典。
+    """
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return {str(item['qid']): item for item in data['ground_truths']}
 
 def load_bm25_output(file_path):
+    """從指定的 BM25 輸出文件中載入資料並返回以 QID 為鍵的字典。
+
+    Args:
+        file_path (str): 文件的路徑。
+
+    Returns:
+        dict: 以 QID 為鍵的資料字典。
+    """
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     # Convert data to a dictionary with qid as the key
     return {str(item['qid']): item for item in data}
 
 def load_sources(file_path):
+    """從指定的源文件中載入問題的來源並返回以 QID 為鍵的字典。
+
+    Args:
+        file_path (str): 文件的路徑。
+
+    Returns:
+        dict: 以 QID 為鍵的來源資料字典。
+    """
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
     return {str(item['qid']): item['source'] for item in data['questions']}
@@ -29,7 +53,17 @@ def generate_comparison_html(model_names: List[str], output_html="output/compari
                              bm25_output_path="output/bm25_retrieval_output.json",
                              sources_path="output/sources.json",
                              insurance_method="BM25", finance_method="BGE_Reranker", faq_method="GPT"):
-    # Load BM25 output to get questions and document contents
+    """生成一個 HTML 文件，用於比較不同方法的答案。
+
+    Args:
+        model_names (List[str]): 模型名稱列表。
+        output_html (str): 輸出 HTML 文件的路徑。
+        bm25_output_path (str): BM25 輸出文件的路徑。
+        sources_path (str): 問題來源文件的路徑。
+        insurance_method (str): 用於保險類別的檢索方法。
+        finance_method (str): 用於金融類別的檢索方法。
+        faq_method (str): 用於 FAQ 類別的檢索方法。
+    """
     bm25_data = load_bm25_output(bm25_output_path)
     sources_data = load_sources(sources_path)
     

@@ -98,7 +98,7 @@ if __name__ == "__main__":
     
     # 設定命令列引數
     parser = argparse.ArgumentParser(description="搜尋並替換 txt 檔案中的模式")
-    parser.add_argument("folder_path", type=str, help="資料夾路徑")
+    parser.add_argument("folder_path", nargs="?", default="gemini_pro", type=str, help="資料夾路徑，預設為 gemini_pro")
     parser.add_argument("--replace", action="store_true", help="是否替換匹配的模式並儲存到 clean_gemini 資料夾")
 
     args = parser.parse_args()

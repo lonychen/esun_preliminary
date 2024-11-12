@@ -129,19 +129,17 @@ def process_and_save_files(start_file_num=1, input_folder="1_input_pdfs", output
        
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python script.py <api_key_index> [start_file_num]")
-        sys.exit(1)
+
     
     # Retrieve the API key index from command-line arguments
-    api_key_index = sys.argv[1]
-    api_key_env_var = f"GEMINI_API_KEY_{api_key_index}"
+
+    api_key_env_var = f"GEMINI_API_KEY"
     api_key = os.getenv(api_key_env_var)
     
     if api_key is None:
         print(f"Error: Environment variable '{api_key_env_var}' not found.")
         sys.exit(1)
 
-    start_file_num = int(sys.argv[2]) if len(sys.argv) > 2 else 1
+    start_file_num = 1
     configure_model(api_key)
     process_and_save_files(start_file_num=start_file_num)

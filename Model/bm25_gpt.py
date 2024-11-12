@@ -22,13 +22,27 @@ bm25_output_path = os.path.join(base_path, 'output/bm25_retrieval_output.json')
 bm25_truth_path = os.path.join(base_path, 'output/truth_bm25.json')
 
 def get_output_paths(model_name):
-    """Dynamically set output paths based on model name."""
+    """根據模型名稱動態設置輸出路徑。
+    
+    Args:
+        model_name (str): 模型名稱，用於設置輸出文件路徑。
+    
+    Returns:
+        tuple: 包含 OpenAI 輸出路徑和標準答案輸出路徑的元組。
+    """
     openai_output_path = os.path.join(base_path, f'output/pred_retrieve_{model_name}.json')
     openai_truth_output_path = os.path.join(base_path, f'output/truth_{model_name}.json')
     return openai_output_path, openai_truth_output_path
 
 def initialize_llm(model_name):
-    """Initialize the LLM model based on the model name."""
+    """根據模型名稱初始化 LLM 模型。
+    
+    Args:
+        model_name (str): 模型名稱。
+    
+    Returns:
+        ChatOpenAI: 已初始化的 LLM 模型。
+    """
     if model_name == "grok-beta":
         llm = ChatOpenAI(
             model=model_name,
@@ -50,20 +64,42 @@ def initialize_llm(model_name):
     return llm
   
 def load_existing_answers(output_path):
-    """Load existing answers from file if it exists."""
+    """從文件中載入現有的答案（如果文件存在）。
+    
+    Args:
+        output_path (str): 輸出文件的路徑。
+    
+    Returns:
+        dict: 已存在的答案字典，如果文件不存在，則返回空字典。
+    """
     if os.path.exists(output_path):
         with open(output_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     return {}  # Return an empty dictionary instead of an empty list
 
 def save_updated_answers(output_path, answers):
-    """Save updated answers back to the file."""
+    """將更新後的答案保存回文件中。
+    
+    Args:
+        output_path (str): 輸出文件的路徑。
+        answers (dict): 要儲存的答案字典。
+    """
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(answers, f, ensure_ascii=False, indent=4)
 
 def find_most_relevant_doc(query, documents, qid, retrieved_list, llm, retries=2):
-    """
-    Uses the OpenAI Chat model to find the most relevant document for the query.
+    """使用 OpenAI Chat 模型找到與查詢最相關的文件。
+    
+    Args:
+        query (str): 查詢字串。
+        documents (list): 文件列表。
+        qid (int): 問題 ID。
+        retrieved_list (list): 檢索到的文件 ID 列表。
+        llm (ChatOpenAI): LLM 模型實例。
+        retries (int): 重試次數。
+
+    Returns:
+        int: 最相關文件的索引，若無相關文件則返回 -1。
     """
     print(f"\nProcessing QID {qid} with query: '{query}'")
     print(f"Number of documents to evaluate: {len(documents)}")
@@ -118,8 +154,18 @@ def find_most_relevant_doc(query, documents, qid, retrieved_list, llm, retries=2
             sys.exit(1)
 
 def find_most_relevant_doc_delete_method(query, documents, qid, retrieved_list, llm, retries=2):
-    """
-    Uses the OpenAI Chat model to find the most relevant document for the query.
+    """使用 OpenAI Chat 模型逐步刪除最不相關的文件，最終找到最相關的文件。
+    
+    Args:
+        query (str): 查詢字串。
+        documents (list): 文件列表。
+        qid (int): 問題 ID。
+        retrieved_list (list): 檢索到的文件 ID 列表。
+        llm (ChatOpenAI): LLM 模型實例。
+        retries (int): 重試次數。
+    
+    Returns:
+        int: 最後剩餘文件的索引。
     """
     print(f"\nProcessing QID {qid} with query: '{query}'")
     
@@ -178,6 +224,12 @@ def find_most_relevant_doc_delete_method(query, documents, qid, retrieved_list, 
 
 
 def process_retrieval_output(start_qid, model_name):
+    """處理檢索輸出並從 QID 開始檢索最相關的文件。
+    
+    Args:
+        start_qid (int): 開始的問題 ID。
+        model_name (str): 要使用的模型名稱。
+    """
     print(f"Starting retrieval output processing from QID {start_qid} using model {model_name}...")
     openai_output_path, openai_truth_output_path = get_output_paths(model_name)
     llm = initialize_llm(model_name)
