@@ -1,0 +1,4 @@
+Question: 補件後多久能完成審核?
+Answers: 3~5個工作天內
+Question: 審核結果如何通知?
+Answers: 簡訊及Email通知

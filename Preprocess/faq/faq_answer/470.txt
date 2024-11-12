@@ -1,0 +1,4 @@
+Question: 無卡交易密碼錯誤上限是幾次？
+Answers: 三次
+Question: 達到無卡交易密碼錯誤上限後應該怎麼辦？
+Answers: 請持晶片金融卡至玉山ATM重設無卡交易密碼。

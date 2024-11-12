@@ -1,0 +1,8 @@
+Question: 什麼是QR Code轉帳？
+Answers: QR Code轉帳可透過玉山行動銀行內QR Code掃描器，掃描本行與支援台灣Pay合作銀行之QR Code轉帳收款碼，取得收款者的銀行代碼、銀行帳號、轉帳金額(限有設定金額的QR Code)，並進行轉帳。
+Question: 透過什麼方式可以進行QR Code轉帳？
+Answers: 玉山行動銀行內QR Code掃描器
+Question: QR Code轉帳可以取得哪些資訊？
+Answers: 收款者的銀行代碼、銀行帳號、轉帳金額
+Question: QR Code轉帳適用於哪些銀行的收款碼？
+Answers: 本行與支援台灣Pay合作銀行之QR Code轉帳收款碼

@@ -1,0 +1,10 @@
+Question: 如何查詢信用卡持卡狀況?
+Answers: 登入 電腦版個人網路銀行，點選信用卡，即會顯示卡片狀態。
+Answers: 登入玉山Wallet→我的→我的卡片查詢卡片持卡狀況。
+Answers: 每日08:30~19:30透過[智能客服](https://esun.co/PfOKa)《轉接文字專員》，查詢卡片持卡狀況。
+Answers: 可本人致電客服中心(02)2182-1313或0800-30-1313(限市話) #10 轉接專人查詢。
+Question: 信用卡持卡狀況可以透過哪些方式查詢?
+Answers: 電腦版個人網路銀行
+Answers: 玉山Wallet
+Answers: 智能客服
+Answers: 致電客服中心

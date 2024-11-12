@@ -1,0 +1,6 @@
+Question: 為什麼會收到「玉山電子支付身分驗證尚未完成」的簡訊通知?
+Answers: 當您使用玉山電支服務(含跨境網購)時，若您已達一年以上未使用本服務、定期審查未完成、手機號碼被他人使用、姓名需重新驗證等情況下，為保障您的電子支付帳戶使用權益及符合相關法令規範，系統將會暫停交易
+Question: 如何解決「玉山電子支付身分驗證尚未完成」的問題?
+Answers: 請您至[玉山電子支付網站](https://web.esunbank.com.tw/ECPay/WebPage/Login.aspx)登入後重新進行身分證認證
+Question: 如果忘記玉山電子支付帳戶的會員序號該怎麼辦?
+Answers: 請參考「[忘記玉山電子支付網站帳戶登入的會員序號怎麼辦？](https://www.esunbank.com.tw/bank/about/faq/content?q=crossboarding/012)」

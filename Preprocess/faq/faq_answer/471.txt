@@ -1,0 +1,4 @@
+Question: 如何在貸款前知道每月應繳款金額?
+Answers: 透過[月付金試算](https://www.esunbank.com/zh-tw/personal/loan/tools/info/loan-calculation)，簡單試算出每月應繳款金額。
+Question: 貸款後如何知道每月應繳款金額?
+Answers: 可透過網路銀行、行動銀行查詢每月應繳款金額，亦可以開啟行動銀行的通知訊息或LINE的個人化設定通知，提醒您每個月應繳款金額資訊。

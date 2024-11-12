@@ -1,0 +1,6 @@
+Question: 使用兩岸支付通收款需要有支付寶帳號嗎？
+Answers: 不需申請支付寶帳號。
+Question: 開立什麼帳戶可以使用兩岸支付通收款？
+Answers: 玉山銀行臺幣帳戶
+Question: 使用兩岸支付通收款需要完成什麼申請？
+Answers: 完成相關申請

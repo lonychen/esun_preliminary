@@ -1,0 +1,8 @@
+Question: 如何查詢信用卡未入帳單交易？
+Answers: 網路銀行
+Answers: 行動銀行
+Answers: 玉山Wallet
+Question: 使用網路銀行查詢信用卡未入帳單交易的步驟是什麼？
+Answers: 登入網路銀行→信用卡→信用卡消費明細查詢→依已入帳/未入帳→可查詢商店已請款但尚未入帳單的刷卡明細。
+Question: 玉山Wallet如何查詢未入帳單交易？
+Answers: 登入玉山Wallet→帳務→查看明細→未入帳明細→可查詢商店已請款但尚未入帳單的刷卡明細。

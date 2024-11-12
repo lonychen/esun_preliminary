@@ -1,0 +1,6 @@
+Question: 「台灣Pay」的功能是否有額度限制?
+Answers: 是
+Question: 「台灣Pay」付款碼的每日最高限額是多少?
+Answers: 等值新臺幣15萬元
+Question: 「台灣Pay」QR Code繳費的每筆和每日限額分別是多少?
+Answers: 每筆限額200萬，每日限額300萬

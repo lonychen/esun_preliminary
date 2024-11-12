@@ -1,0 +1,10 @@
+Question: 未掛牌外幣匯款支援多少種幣別?
+Answers: 117種
+Question: 未掛牌外幣匯款支援多少個國家?
+Answers: 140多個國家
+Question: 未掛牌外幣匯款的兌換匯率是如何計算的?
+Answers: 依照未掛牌外幣與美金間的兌換匯率
+Question: 未掛牌外幣匯款如何減少匯率風險?
+Answers: 顧客僅需交付等值美金即可轉換成當地貨幣匯出，以當地貨幣全額到行
+Question: 如何獲得更多未掛牌外幣匯款的詳細資訊?
+Answers: 詳細說明請參考[多幣別環球匯](https://www.esunbank.com.tw/event/b2b/morecoin/index.html?newweb)

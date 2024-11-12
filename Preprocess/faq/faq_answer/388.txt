@@ -1,0 +1,6 @@
+Question: 什麼是 PayPal？
+Answers: PayPal 為更簡單、安全的跨國線上交易支付平台。透過 PayPal ，買家和賣家即可更簡單、安全地進行跨國購物與銷售。
+Question: PayPal 提供哪些服務？
+Answers: 買家和賣家即可更簡單、安全地進行跨國購物與銷售。
+Question: 如何了解 PayPal 的詳細服務內容？
+Answers: PayPal 詳細之服務內容，請參考[PayPal 官方網站說明](https://www.paypal.com/tw/webapps/mpp/merchant)。

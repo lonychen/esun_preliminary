@@ -1,0 +1,10 @@
+Question: 結帳日及繳款截止日可以更改嗎?
+Answers: 可以
+Question: 信用卡有哪些結帳日可選擇?
+Answers: 3、5、7、11、13、15、21、25、27、28
+Question: 結帳日後多久是繳款截止日?
+Answers: 結帳日加 15 天
+Question: 一年內能變更結帳日及繳款截止日幾次?
+Answers: 一次
+Question: 如何申請變更結帳日及繳款截止日?
+Answers: 透過智能客服或致電客服中心

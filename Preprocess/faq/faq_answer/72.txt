@@ -1,0 +1,6 @@
+Question: 無卡提款序號逾時應如何處理?
+Answers: 若仍需提款只要在APP上重新預約一組提款序號即可。
+Question: 無卡提款序號逾時後該筆序號會怎樣?
+Answers: 則該筆序號將失效。
+Question: 無卡提款序號逾時是多久?
+Answers: 30分鐘

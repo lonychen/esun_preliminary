@@ -1,0 +1,8 @@
+Question: 網路投保的交易時間是多少?
+Answers: 365天24小時
+Question: 網路投保無法進行的情況有哪些?
+Answers: 特殊事由或不可抗力之因素
+Question: 若網路投保無法進行，玉山銀行會如何通知?
+Answers: 另行公告於玉山銀行官方網站
+Question: 玉山銀行對於網路投保有哪些權利?
+Answers: 保留受理與否之一切權利

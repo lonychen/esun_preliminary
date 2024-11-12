@@ -1,0 +1,2 @@
+Question: 如何查詢玉山Wallet電子支付繳費紀錄？
+Answers: 至玉山Wallet「生活繳費」>點選「繳費紀錄」查詢。

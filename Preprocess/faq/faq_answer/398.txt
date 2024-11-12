@@ -1,0 +1,4 @@
+Question: 可以透過哪些方式辦理匯出匯款交易？
+Answers: 臨櫃
+Answers: 全球智匯網
+Answers: 傳真

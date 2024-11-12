@@ -1,0 +1,8 @@
+Question: 什麼是「玉山銀行人臉辨識」？
+Answers: 「玉山銀行人臉辨識服務」為玉山銀行所提供的臉部辨識服務
+Question: 如何使用「玉山銀行人臉辨識」？
+Answers: 您只要持具備前鏡頭的手機裝置，即可進行註冊，並可於非約定轉帳交易中，使用「玉山銀行人臉辨識」作為驗證方式
+Question: 「玉山銀行人臉辨識」可以用於哪些交易？
+Answers: 非約定轉帳交易中
+Question: 如何註冊「玉山銀行人臉辨識服務」？
+Answers: [「玉山銀行人臉辨識服務」註冊說明](https://www.esunbank.com.tw/bank/marketing/digital/BiometricsRecognition#3)

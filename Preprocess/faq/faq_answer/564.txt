@@ -1,0 +1,6 @@
+Question: 補件照片檔案大小限制是多少?
+Answers: 10MB/張
+Question: 補件照片支持哪些檔案格式?
+Answers: .png、.jpg檔
+Question: 補件照片的證件資料要求是什麼?
+Answers: 限彩色清晰可辨識，避免反光、模糊或資訊不完整，不接受影本翻拍。

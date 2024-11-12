@@ -1,0 +1,2 @@
+Question: 如何取消「加入Siri」功能？
+Answers: 點擊右上角「加入Siri」按鈕，並點擊下方「Delete Shortcut」

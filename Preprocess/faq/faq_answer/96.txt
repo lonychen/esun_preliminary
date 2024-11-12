@@ -1,0 +1,10 @@
+Question: 數位帳戶是否提供金融卡？
+Answers: 提供多種簽帳金融卡供您選擇
+Question: 簽帳金融卡寄送需要多久時間？
+Answers: 審核通過後7個工作日內
+Question: 金融卡寄送時會有哪些通知方式？
+Answers: 發送通知簡訊
+Question: 如何查詢金融卡的寄送進度？
+Answers: 使用簡訊中的掛號編號至中華郵政查詢
+Question: 哪裡可以找到更多關於數位帳戶簽帳金融卡的資訊？
+Answers: [https://www.esunbank.com.tw/bank/personal/credit-card/intro/debit-card](https://www.esunbank.com.tw/bank/personal/credit-card/intro/debit-card)

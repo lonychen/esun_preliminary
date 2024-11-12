@@ -1,0 +1,7 @@
+Question: 語音密碼忘記或鎖住應如何處理?
+Answers: 請本人攜帶身分證正本、原留印鑑至各分行辦理語音密碼重設。
+Question: 語音密碼累計錯誤達幾次會被註銷?
+Answers: 三次
+Question: 辦理語音密碼重設需要攜帶哪些文件?
+Answers: 身分證正本
+Answers: 原留印鑑

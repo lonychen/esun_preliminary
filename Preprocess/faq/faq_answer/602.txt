@@ -1,0 +1,7 @@
+Question: 行動無卡提款的單日最高限額是多少?
+Answers: 新台幣3萬元
+Question: 行動無卡提款的每月最高限額是多少?
+Answers: 等值新台幣20萬元
+Question: 行動無卡提款的限額與哪些功能併計?
+Answers: 刷臉提款
+Answers: 晶片金融卡提款

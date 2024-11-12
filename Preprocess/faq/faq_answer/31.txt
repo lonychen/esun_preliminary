@@ -1,0 +1,5 @@
+Question: 如何上傳照片檔？
+Answers: 顧客可透過檔案上傳，或持行動裝置掃描證件上傳頁面之QR Code，再以拍照方式上傳檔案。
+Question: 上傳照片檔的方法有哪些？
+Answers: 檔案上傳
+Answers: 掃描證件上傳頁面之QR Code後拍照上傳

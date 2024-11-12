@@ -1,0 +1,7 @@
+Question: 強制汽/機車責任保險有哪些商品?
+Answers: 強制汽車責任保險：一年期
+Answers: 強制機車責任保險：一年期、二年期
+Question: 強制汽車責任保險的年期有哪些?
+Answers: 一年期
+Question: 強制機車責任保險的年期有哪些?
+Answers: 一年期、二年期

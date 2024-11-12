@@ -1,0 +1,14 @@
+Question: 哪裡可以查詢信用卡優惠活動內容?
+Answers: 熱門卡片
+Answers: 刷卡優惠
+Question: 有哪些熱門信用卡?
+Answers: [U Bear信用卡](https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/u-bear)
+Answers: [Only卡](https://www.esunbank.com.tw/bank/personal/credit-card/intro/bank-card/only-card)
+Answers: [玉山 Pi 拍錢包信用卡](https://www.esunbank.com.tw/bank/personal/credit-card/intro/co-branded-card/pi-card)
+Answers: [熊本熊卡](https://www.esunbank.com/zh-tw/personal/credit-card/intro/bank-card/kumamon_card)
+Answers: [更多熱門卡片](https://www.esunbank.com.tw/bank/personal/credit-card/intro#1)
+Question: 信用卡刷卡優惠有哪些類別?
+Answers: [本月熱門推薦](https://www.esunbank.com.tw/event/credit/1050202card/index.htm?ven=credit-card&type=discount_a300)
+Answers: [線上購物](https://www.esunbank.com.tw/bank/personal/credit-card/discount/shops/onlineshop)
+Answers: [百貨購物](https://www.esunbank.com.tw/bank/personal/credit-card/discount/shops/deptstore)
+Answers: [更多刷卡優惠](https://www.esunbank.com.tw/bank/personal/credit-card/discount/shops)

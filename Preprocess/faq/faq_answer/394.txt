@@ -1,0 +1,4 @@
+Question: MyData服務在系統異常時應如何處理?
+Answers: 您可透過使用本行其他通路進行補件(拍照上傳、郵寄或傳真等)。
+Question: MyData服務暫停的原因是什麼?
+Answers: 因系統異常或系統維護而暫停服務提供

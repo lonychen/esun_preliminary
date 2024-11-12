@@ -1,0 +1,6 @@
+Question: 如何決定海外ETF/股票的委託價格?
+Answers: 透過本行特定金錢信託投資海外ETF/股票可採「限價交易(Limit Order)」及「市價交易(Market Order)」二種，惟「市價交易」僅適用於美國市場賣出委託交易。
+Question: 市價交易適用於哪個市場?
+Answers: 美國市場
+Question: 限價交易和市價交易有什麼不同?
+Answers: 「限價交易(Limit Order)」允許設定特定價格進行交易，而「市價交易(Market Order)」則是以當前市場價格進行交易，但市價交易僅適用於美國市場賣出委託交易。

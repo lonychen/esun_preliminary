@@ -1,0 +1,10 @@
+Question: 如何在Linux作業系統上確認WebATM元件已安裝成功？
+Answers: 下載元件後須手動啟動程式或重啟電腦以完成安裝程序。
+Answers: 點選程式集的 ESunATM。
+Answers: 登出或重新開機。
+Answers: 上方功能列顯示玉山銀行LOGO即表示安裝成功。
+Question: Linux作業系統安裝WebATM元件後如何啟動？
+Answers: 點選程式集的 ESunATM。
+Answers: 登出或重新開機。
+Question: 安裝WebATM元件成功的標誌是什麼？
+Answers: 上方功能列顯示玉山銀行LOGO即表示安裝成功。

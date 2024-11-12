@@ -1,0 +1,10 @@
+Question: 如何設定預借現金密碼?
+Answers: 網路設定
+Answers: 智能客服
+Answers: 網路銀行
+Question: 網路設定預借現金密碼的步驟是什麼?
+Answers: 點選[線上設定預借現金密碼](https://card.esunbank.com.tw/EsunCreditweb/txnservice/identify?PRJCD=UPDCSHADV#b)→依指示輸入基本資料及動態驗證碼→手機簡訊驗證→選擇信用卡、輸入卡片背後末三碼並輸入預借新密碼→完成
+Question: 如何透過智能客服設定預借現金密碼?
+Answers: 致電(02)2182-1313→133→輸入手機號碼→發送智能客服簡訊→連結網址設定預借現金密碼
+Question: 網路銀行設定預借現金密碼的步驟是什麼?
+Answers: 登錄網路銀行→選擇信用卡→信貸/預借現金→ATM預借現金密碼設定

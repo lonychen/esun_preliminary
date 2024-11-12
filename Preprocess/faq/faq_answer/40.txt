@@ -1,0 +1,7 @@
+Question: Windows 7元件亂碼如何解決?
+Answers: 至控制台 → 地區及語言 的系統管理中的 非Unicode程式的語言，用變更系統地區設定將英文改為中文(繁體，台灣) 即可。
+Question: 解決Windows 7亂碼需要改變哪些設定?
+Answers: 非Unicode程式的語言設定
+Answers: 系統地區設定
+Question: 將Windows 7的系統地區設定改為什麼語言可以解決亂碼問題?
+Answers: 中文(繁體，台灣)

@@ -1,0 +1,13 @@
+Question: 基金淨值適用日是如何決定的?
+Answers: 依基金公司之公開說明書或投資人須知所載內容為主
+Question: 哪些因素會影響基金淨值計價?
+Answers: 基金公司所在國家休假
+Answers: 基金註冊地所屬國家休市
+Answers: 資產比重達一定以上之證券市場休市
+Answers: 不可抗力事件
+Question: 如何查詢基金最新淨值?
+Answers: 透過[本行網頁](https://www.esunbank.com.tw/bank/personal/wealth/fund)
+Answers: [行動銀行](https://www.esunbank.com.tw/bank/digital/life/mobile/mobile-bank)
+Answers: 相關網站
+Answers: 報紙刊登之資料
+Answers: 電詢基金公司

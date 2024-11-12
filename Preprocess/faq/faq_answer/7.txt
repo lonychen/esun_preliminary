@@ -1,0 +1,4 @@
+Question: 玉山掃碼通App無法登入應該怎麼辦?
+Answers: 請您確認網路訊號及輸入之帳密是否有誤(大小寫)，如仍無法登入請寄信至「ESUN-O2O@email.esunbank.com.tw」信箱洽詢。
+Question: 若玉山掃碼通App登入時顯示無法登入，該聯絡哪個信箱?
+Answers: ESUN-O2O@email.esunbank.com.tw

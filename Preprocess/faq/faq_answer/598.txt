@@ -1,0 +1,7 @@
+Question: 國外票據託收是否有受理的限制?
+Answers: 有
+Question: 國外票據託收不受理的情形有哪些?
+Answers: 過期之票據
+Answers: 空白抬頭支票
+Answers: 經背書轉讓之票據
+Answers: 禁止國外流通之票據

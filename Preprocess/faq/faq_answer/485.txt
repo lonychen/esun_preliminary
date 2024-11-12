@@ -1,0 +1,4 @@
+Question: 哪些銀行APP可以掃描玉山行動銀行的QR Code進行轉帳？
+Answers: 支援台灣Pay QR Code轉帳之行動銀行APP
+Question: 如何查詢支援台灣Pay QR Code轉帳的行動銀行APP名單？
+Answers: 詳細行動銀行APP名單請參考[台灣Pay官方網站>開辦銀行>QRCode支付>行動銀行APP](https://www.taiwanpay.com.tw/content/info/bank_c.aspx)

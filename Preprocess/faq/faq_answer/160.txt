@@ -1,0 +1,6 @@
+Question: 玉山銀行存戶能否申請使用PayPal跨行提領服務?
+Answers: 不可以
+Question: 非本行存戶能否申請PayPal跨行提領服務?
+Answers: 可以
+Question: 本行存戶應如何進行PayPal提領?
+Answers: 請您使用個人網路銀行/行動銀行APP/全球智匯網，連結PayPal帳戶後，進行提領。

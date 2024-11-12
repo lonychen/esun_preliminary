@@ -1,0 +1,6 @@
+Question: 如何開始使用非約定轉帳?
+Answers: 請先開通「簡訊密碼」服務
+Answers: 完成行動裝置綁定
+Question: 非約定轉帳需要哪些前置作業?
+Answers: 開通「簡訊密碼」服務
+Answers: 完成行動裝置綁定

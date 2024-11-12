@@ -1,0 +1,10 @@
+Question: 金融卡每日轉帳上限是多少?
+Answers: 203萬元
+Question: 金融卡每日提款上限是多少?
+Answers: 15萬元
+Question: 非約定轉帳的每日上限是多少?
+Answers: 3萬元
+Question: 約定帳號轉帳的每日上限是多少?
+Answers: 200萬元
+Question: 跨行ATM一次提領限額是多少?
+Answers: 2萬元

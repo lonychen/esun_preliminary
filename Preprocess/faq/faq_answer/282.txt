@@ -1,0 +1,4 @@
+Question: 如何註冊玉山電子支付帳戶？
+Answers: 歡迎下載 [玉山Wallet](https://card.esunbank.com.tw/EsunCreditweb/txnservice/esunwallet/card?a=xxxx)，準備好身分證，同步啟用玉山電子支付，依步驟完成註冊流程即可，詳見 [註冊教學](https://www.esunbank.com.tw/event/credit/1070425wallet/tutorial.html)。
+Question: 如果已是玉山電子支付會員，註冊玉山電子支付帳戶需要做什麼？
+Answers: 若您於玉山Wallet開通電子支付帳戶前已是玉山電子支付會員，您仍須完成相關驗證，以享受更多元的行動支付服務。

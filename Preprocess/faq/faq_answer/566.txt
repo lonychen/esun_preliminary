@@ -1,0 +1,4 @@
+Question: 外幣活期存款起存額是多少？
+Answers: 外幣存款起存額公告。
+Question: 外幣定期存款起存額是多少？
+Answers: 外幣存款起存額公告。

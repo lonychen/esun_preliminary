@@ -1,0 +1,4504 @@
+{
+    "ground_truths": [
+        {
+            "qid": 1,
+            "retrieve": 334,
+            "category": "insurance"
+        },
+        {
+            "qid": 2,
+            "retrieve": 512,
+            "category": "insurance"
+        },
+        {
+            "qid": 3,
+            "retrieve": 600,
+            "category": "insurance"
+        },
+        {
+            "qid": 4,
+            "retrieve": 81,
+            "category": "insurance"
+        },
+        {
+            "qid": 5,
+            "retrieve": 30,
+            "category": "insurance"
+        },
+        {
+            "qid": 6,
+            "retrieve": 30,
+            "category": "insurance"
+        },
+        {
+            "qid": 7,
+            "retrieve": 30,
+            "category": "insurance"
+        },
+        {
+            "qid": 8,
+            "retrieve": 641,
+            "category": "insurance"
+        },
+        {
+            "qid": 9,
+            "retrieve": 419,
+            "category": "insurance"
+        },
+        {
+            "qid": 10,
+            "retrieve": 271,
+            "category": "insurance"
+        },
+        {
+            "qid": 11,
+            "retrieve": 288,
+            "category": "insurance"
+        },
+        {
+            "qid": 12,
+            "retrieve": 68,
+            "category": "insurance"
+        },
+        {
+            "qid": 13,
+            "retrieve": 409,
+            "category": "insurance"
+        },
+        {
+            "qid": 14,
+            "retrieve": 251,
+            "category": "insurance"
+        },
+        {
+            "qid": 15,
+            "retrieve": 205,
+            "category": "insurance"
+        },
+        {
+            "qid": 16,
+            "retrieve": 237,
+            "category": "insurance"
+        },
+        {
+            "qid": 17,
+            "retrieve": 328,
+            "category": "insurance"
+        },
+        {
+            "qid": 18,
+            "retrieve": 403,
+            "category": "insurance"
+        },
+        {
+            "qid": 19,
+            "retrieve": 9,
+            "category": "insurance"
+        },
+        {
+            "qid": 20,
+            "retrieve": 9,
+            "category": "insurance"
+        },
+        {
+            "qid": 21,
+            "retrieve": 523,
+            "category": "insurance"
+        },
+        {
+            "qid": 22,
+            "retrieve": 509,
+            "category": "insurance"
+        },
+        {
+            "qid": 23,
+            "retrieve": 42,
+            "category": "insurance"
+        },
+        {
+            "qid": 24,
+            "retrieve": 507,
+            "category": "insurance"
+        },
+        {
+            "qid": 25,
+            "retrieve": 16,
+            "category": "insurance"
+        },
+        {
+            "qid": 26,
+            "retrieve": 512,
+            "category": "insurance"
+        },
+        {
+            "qid": 27,
+            "retrieve": 192,
+            "category": "insurance"
+        },
+        {
+            "qid": 28,
+            "retrieve": 467,
+            "category": "insurance"
+        },
+        {
+            "qid": 29,
+            "retrieve": 380,
+            "category": "insurance"
+        },
+        {
+            "qid": 30,
+            "retrieve": 96,
+            "category": "insurance"
+        },
+        {
+            "qid": 31,
+            "retrieve": 271,
+            "category": "insurance"
+        },
+        {
+            "qid": 32,
+            "retrieve": 118,
+            "category": "insurance"
+        },
+        {
+            "qid": 33,
+            "retrieve": 523,
+            "category": "insurance"
+        },
+        {
+            "qid": 34,
+            "retrieve": 250,
+            "category": "insurance"
+        },
+        {
+            "qid": 35,
+            "retrieve": 52,
+            "category": "insurance"
+        },
+        {
+            "qid": 36,
+            "retrieve": 520,
+            "category": "insurance"
+        },
+        {
+            "qid": 37,
+            "retrieve": 138,
+            "category": "insurance"
+        },
+        {
+            "qid": 38,
+            "retrieve": 138,
+            "category": "insurance"
+        },
+        {
+            "qid": 39,
+            "retrieve": 458,
+            "category": "insurance"
+        },
+        {
+            "qid": 40,
+            "retrieve": 274,
+            "category": "insurance"
+        },
+        {
+            "qid": 41,
+            "retrieve": 187,
+            "category": "insurance"
+        },
+        {
+            "qid": 42,
+            "retrieve": 187,
+            "category": "insurance"
+        },
+        {
+            "qid": 43,
+            "retrieve": -1,
+            "category": "insurance"
+        },
+        {
+            "qid": 44,
+            "retrieve": 501,
+            "category": "insurance"
+        },
+        {
+            "qid": 45,
+            "retrieve": 369,
+            "category": "insurance"
+        },
+        {
+            "qid": 46,
+            "retrieve": 16,
+            "category": "insurance"
+        },
+        {
+            "qid": 47,
+            "retrieve": 305,
+            "category": "insurance"
+        },
+        {
+            "qid": 48,
+            "retrieve": 467,
+            "category": "insurance"
+        },
+        {
+            "qid": 49,
+            "retrieve": 307,
+            "category": "insurance"
+        },
+        {
+            "qid": 50,
+            "retrieve": 181,
+            "category": "insurance"
+        },
+        {
+            "qid": 51,
+            "retrieve": 181,
+            "category": "insurance"
+        },
+        {
+            "qid": 52,
+            "retrieve": 541,
+            "category": "insurance"
+        },
+        {
+            "qid": 53,
+            "retrieve": 612,
+            "category": "insurance"
+        },
+        {
+            "qid": 54,
+            "retrieve": 378,
+            "category": "insurance"
+        },
+        {
+            "qid": 55,
+            "retrieve": 633,
+            "category": "insurance"
+        },
+        {
+            "qid": 56,
+            "retrieve": 369,
+            "category": "insurance"
+        },
+        {
+            "qid": 57,
+            "retrieve": 247,
+            "category": "insurance"
+        },
+        {
+            "qid": 58,
+            "retrieve": 334,
+            "category": "insurance"
+        },
+        {
+            "qid": 59,
+            "retrieve": 52,
+            "category": "insurance"
+        },
+        {
+            "qid": 60,
+            "retrieve": 2,
+            "category": "insurance"
+        },
+        {
+            "qid": 61,
+            "retrieve": 538,
+            "category": "insurance"
+        },
+        {
+            "qid": 62,
+            "retrieve": 551,
+            "category": "insurance"
+        },
+        {
+            "qid": 63,
+            "retrieve": 372,
+            "category": "insurance"
+        },
+        {
+            "qid": 64,
+            "retrieve": 372,
+            "category": "insurance"
+        },
+        {
+            "qid": 65,
+            "retrieve": 41,
+            "category": "insurance"
+        },
+        {
+            "qid": 66,
+            "retrieve": 41,
+            "category": "insurance"
+        },
+        {
+            "qid": 67,
+            "retrieve": 235,
+            "category": "insurance"
+        },
+        {
+            "qid": 68,
+            "retrieve": 235,
+            "category": "insurance"
+        },
+        {
+            "qid": 69,
+            "retrieve": 9,
+            "category": "insurance"
+        },
+        {
+            "qid": 70,
+            "retrieve": 130,
+            "category": "insurance"
+        },
+        {
+            "qid": 71,
+            "retrieve": 599,
+            "category": "insurance"
+        },
+        {
+            "qid": 72,
+            "retrieve": 474,
+            "category": "insurance"
+        },
+        {
+            "qid": 73,
+            "retrieve": 474,
+            "category": "insurance"
+        },
+        {
+            "qid": 74,
+            "retrieve": 24,
+            "category": "insurance"
+        },
+        {
+            "qid": 75,
+            "retrieve": 460,
+            "category": "insurance"
+        },
+        {
+            "qid": 76,
+            "retrieve": 87,
+            "category": "insurance"
+        },
+        {
+            "qid": 77,
+            "retrieve": 87,
+            "category": "insurance"
+        },
+        {
+            "qid": 78,
+            "retrieve": 331,
+            "category": "insurance"
+        },
+        {
+            "qid": 79,
+            "retrieve": 349,
+            "category": "insurance"
+        },
+        {
+            "qid": 80,
+            "retrieve": 369,
+            "category": "insurance"
+        },
+        {
+            "qid": 81,
+            "retrieve": 304,
+            "category": "insurance"
+        },
+        {
+            "qid": 82,
+            "retrieve": 59,
+            "category": "insurance"
+        },
+        {
+            "qid": 83,
+            "retrieve": 570,
+            "category": "insurance"
+        },
+        {
+            "qid": 84,
+            "retrieve": 465,
+            "category": "insurance"
+        },
+        {
+            "qid": 85,
+            "retrieve": 268,
+            "category": "insurance"
+        },
+        {
+            "qid": 86,
+            "retrieve": 105,
+            "category": "insurance"
+        },
+        {
+            "qid": 87,
+            "retrieve": 176,
+            "category": "insurance"
+        },
+        {
+            "qid": 88,
+            "retrieve": 473,
+            "category": "insurance"
+        },
+        {
+            "qid": 89,
+            "retrieve": 473,
+            "category": "insurance"
+        },
+        {
+            "qid": 90,
+            "retrieve": 609,
+            "category": "insurance"
+        },
+        {
+            "qid": 91,
+            "retrieve": 588,
+            "category": "insurance"
+        },
+        {
+            "qid": 92,
+            "retrieve": 285,
+            "category": "insurance"
+        },
+        {
+            "qid": 93,
+            "retrieve": 624,
+            "category": "insurance"
+        },
+        {
+            "qid": 94,
+            "retrieve": 340,
+            "category": "insurance"
+        },
+        {
+            "qid": 95,
+            "retrieve": 57,
+            "category": "insurance"
+        },
+        {
+            "qid": 96,
+            "retrieve": 72,
+            "category": "insurance"
+        },
+        {
+            "qid": 97,
+            "retrieve": 374,
+            "category": "insurance"
+        },
+        {
+            "qid": 98,
+            "retrieve": 374,
+            "category": "insurance"
+        },
+        {
+            "qid": 99,
+            "retrieve": 534,
+            "category": "insurance"
+        },
+        {
+            "qid": 100,
+            "retrieve": 140,
+            "category": "insurance"
+        },
+        {
+            "qid": 101,
+            "retrieve": 448,
+            "category": "insurance"
+        },
+        {
+            "qid": 102,
+            "retrieve": 529,
+            "category": "insurance"
+        },
+        {
+            "qid": 103,
+            "retrieve": 163,
+            "category": "insurance"
+        },
+        {
+            "qid": 104,
+            "retrieve": 95,
+            "category": "insurance"
+        },
+        {
+            "qid": 105,
+            "retrieve": 59,
+            "category": "insurance"
+        },
+        {
+            "qid": 106,
+            "retrieve": 611,
+            "category": "insurance"
+        },
+        {
+            "qid": 107,
+            "retrieve": 453,
+            "category": "insurance"
+        },
+        {
+            "qid": 108,
+            "retrieve": 453,
+            "category": "insurance"
+        },
+        {
+            "qid": 109,
+            "retrieve": 240,
+            "category": "insurance"
+        },
+        {
+            "qid": 110,
+            "retrieve": 468,
+            "category": "insurance"
+        },
+        {
+            "qid": 111,
+            "retrieve": -1,
+            "category": "insurance"
+        },
+        {
+            "qid": 112,
+            "retrieve": 124,
+            "category": "insurance"
+        },
+        {
+            "qid": 113,
+            "retrieve": 552,
+            "category": "insurance"
+        },
+        {
+            "qid": 114,
+            "retrieve": 564,
+            "category": "insurance"
+        },
+        {
+            "qid": 115,
+            "retrieve": 496,
+            "category": "insurance"
+        },
+        {
+            "qid": 116,
+            "retrieve": 206,
+            "category": "insurance"
+        },
+        {
+            "qid": 117,
+            "retrieve": 530,
+            "category": "insurance"
+        },
+        {
+            "qid": 118,
+            "retrieve": 466,
+            "category": "insurance"
+        },
+        {
+            "qid": 119,
+            "retrieve": 632,
+            "category": "insurance"
+        },
+        {
+            "qid": 120,
+            "retrieve": 632,
+            "category": "insurance"
+        },
+        {
+            "qid": 121,
+            "retrieve": 574,
+            "category": "insurance"
+        },
+        {
+            "qid": 122,
+            "retrieve": 371,
+            "category": "insurance"
+        },
+        {
+            "qid": 123,
+            "retrieve": 332,
+            "category": "insurance"
+        },
+        {
+            "qid": 124,
+            "retrieve": 167,
+            "category": "insurance"
+        },
+        {
+            "qid": 125,
+            "retrieve": 129,
+            "category": "insurance"
+        },
+        {
+            "qid": 126,
+            "retrieve": 303,
+            "category": "insurance"
+        },
+        {
+            "qid": 127,
+            "retrieve": 416,
+            "category": "insurance"
+        },
+        {
+            "qid": 128,
+            "retrieve": 416,
+            "category": "insurance"
+        },
+        {
+            "qid": 129,
+            "retrieve": 300,
+            "category": "insurance"
+        },
+        {
+            "qid": 130,
+            "retrieve": 296,
+            "category": "insurance"
+        },
+        {
+            "qid": 131,
+            "retrieve": 296,
+            "category": "insurance"
+        },
+        {
+            "qid": 132,
+            "retrieve": 135,
+            "category": "insurance"
+        },
+        {
+            "qid": 133,
+            "retrieve": 584,
+            "category": "insurance"
+        },
+        {
+            "qid": 134,
+            "retrieve": 15,
+            "category": "insurance"
+        },
+        {
+            "qid": 135,
+            "retrieve": 222,
+            "category": "insurance"
+        },
+        {
+            "qid": 136,
+            "retrieve": 390,
+            "category": "insurance"
+        },
+        {
+            "qid": 137,
+            "retrieve": 634,
+            "category": "insurance"
+        },
+        {
+            "qid": 138,
+            "retrieve": 84,
+            "category": "insurance"
+        },
+        {
+            "qid": 139,
+            "retrieve": 463,
+            "category": "insurance"
+        },
+        {
+            "qid": 140,
+            "retrieve": 602,
+            "category": "insurance"
+        },
+        {
+            "qid": 141,
+            "retrieve": 514,
+            "category": "insurance"
+        },
+        {
+            "qid": 142,
+            "retrieve": 382,
+            "category": "insurance"
+        },
+        {
+            "qid": 143,
+            "retrieve": 131,
+            "category": "insurance"
+        },
+        {
+            "qid": 144,
+            "retrieve": 471,
+            "category": "insurance"
+        },
+        {
+            "qid": 145,
+            "retrieve": 197,
+            "category": "insurance"
+        },
+        {
+            "qid": 146,
+            "retrieve": 18,
+            "category": "insurance"
+        },
+        {
+            "qid": 147,
+            "retrieve": 360,
+            "category": "insurance"
+        },
+        {
+            "qid": 148,
+            "retrieve": 335,
+            "category": "insurance"
+        },
+        {
+            "qid": 149,
+            "retrieve": 423,
+            "category": "insurance"
+        },
+        {
+            "qid": 150,
+            "retrieve": 143,
+            "category": "insurance"
+        },
+        {
+            "qid": 151,
+            "retrieve": 500,
+            "category": "insurance"
+        },
+        {
+            "qid": 152,
+            "retrieve": 377,
+            "category": "insurance"
+        },
+        {
+            "qid": 153,
+            "retrieve": 336,
+            "category": "insurance"
+        },
+        {
+            "qid": 154,
+            "retrieve": 336,
+            "category": "insurance"
+        },
+        {
+            "qid": 155,
+            "retrieve": 336,
+            "category": "insurance"
+        },
+        {
+            "qid": 156,
+            "retrieve": 448,
+            "category": "insurance"
+        },
+        {
+            "qid": 157,
+            "retrieve": 225,
+            "category": "insurance"
+        },
+        {
+            "qid": 158,
+            "retrieve": 135,
+            "category": "insurance"
+        },
+        {
+            "qid": 159,
+            "retrieve": 166,
+            "category": "insurance"
+        },
+        {
+            "qid": 160,
+            "retrieve": 333,
+            "category": "insurance"
+        },
+        {
+            "qid": 161,
+            "retrieve": 549,
+            "category": "insurance"
+        },
+        {
+            "qid": 162,
+            "retrieve": 610,
+            "category": "insurance"
+        },
+        {
+            "qid": 163,
+            "retrieve": 517,
+            "category": "insurance"
+        },
+        {
+            "qid": 164,
+            "retrieve": 106,
+            "category": "insurance"
+        },
+        {
+            "qid": 165,
+            "retrieve": 57,
+            "category": "insurance"
+        },
+        {
+            "qid": 166,
+            "retrieve": 59,
+            "category": "insurance"
+        },
+        {
+            "qid": 167,
+            "retrieve": 73,
+            "category": "insurance"
+        },
+        {
+            "qid": 168,
+            "retrieve": 621,
+            "category": "insurance"
+        },
+        {
+            "qid": 169,
+            "retrieve": 313,
+            "category": "insurance"
+        },
+        {
+            "qid": 170,
+            "retrieve": 209,
+            "category": "insurance"
+        },
+        {
+            "qid": 171,
+            "retrieve": 638,
+            "category": "insurance"
+        },
+        {
+            "qid": 172,
+            "retrieve": 225,
+            "category": "insurance"
+        },
+        {
+            "qid": 173,
+            "retrieve": 204,
+            "category": "insurance"
+        },
+        {
+            "qid": 174,
+            "retrieve": 206,
+            "category": "insurance"
+        },
+        {
+            "qid": 175,
+            "retrieve": 318,
+            "category": "insurance"
+        },
+        {
+            "qid": 176,
+            "retrieve": 570,
+            "category": "insurance"
+        },
+        {
+            "qid": 177,
+            "retrieve": 522,
+            "category": "insurance"
+        },
+        {
+            "qid": 178,
+            "retrieve": 291,
+            "category": "insurance"
+        },
+        {
+            "qid": 179,
+            "retrieve": 480,
+            "category": "insurance"
+        },
+        {
+            "qid": 180,
+            "retrieve": 480,
+            "category": "insurance"
+        },
+        {
+            "qid": 181,
+            "retrieve": 480,
+            "category": "insurance"
+        },
+        {
+            "qid": 182,
+            "retrieve": 448,
+            "category": "insurance"
+        },
+        {
+            "qid": 183,
+            "retrieve": 590,
+            "category": "insurance"
+        },
+        {
+            "qid": 184,
+            "retrieve": 609,
+            "category": "insurance"
+        },
+        {
+            "qid": 185,
+            "retrieve": 206,
+            "category": "insurance"
+        },
+        {
+            "qid": 186,
+            "retrieve": 149,
+            "category": "insurance"
+        },
+        {
+            "qid": 187,
+            "retrieve": 99,
+            "category": "insurance"
+        },
+        {
+            "qid": 188,
+            "retrieve": 357,
+            "category": "insurance"
+        },
+        {
+            "qid": 189,
+            "retrieve": 69,
+            "category": "insurance"
+        },
+        {
+            "qid": 190,
+            "retrieve": 236,
+            "category": "insurance"
+        },
+        {
+            "qid": 191,
+            "retrieve": 348,
+            "category": "insurance"
+        },
+        {
+            "qid": 192,
+            "retrieve": 441,
+            "category": "insurance"
+        },
+        {
+            "qid": 193,
+            "retrieve": 182,
+            "category": "insurance"
+        },
+        {
+            "qid": 194,
+            "retrieve": 182,
+            "category": "insurance"
+        },
+        {
+            "qid": 195,
+            "retrieve": 20,
+            "category": "insurance"
+        },
+        {
+            "qid": 196,
+            "retrieve": 431,
+            "category": "insurance"
+        },
+        {
+            "qid": 197,
+            "retrieve": 431,
+            "category": "insurance"
+        },
+        {
+            "qid": 198,
+            "retrieve": 431,
+            "category": "insurance"
+        },
+        {
+            "qid": 199,
+            "retrieve": 379,
+            "category": "insurance"
+        },
+        {
+            "qid": 200,
+            "retrieve": 379,
+            "category": "insurance"
+        },
+        {
+            "qid": 201,
+            "retrieve": 379,
+            "category": "insurance"
+        },
+        {
+            "qid": 202,
+            "retrieve": 317,
+            "category": "insurance"
+        },
+        {
+            "qid": 203,
+            "retrieve": 80,
+            "category": "insurance"
+        },
+        {
+            "qid": 204,
+            "retrieve": 531,
+            "category": "insurance"
+        },
+        {
+            "qid": 205,
+            "retrieve": 319,
+            "category": "insurance"
+        },
+        {
+            "qid": 206,
+            "retrieve": 483,
+            "category": "insurance"
+        },
+        {
+            "qid": 207,
+            "retrieve": 623,
+            "category": "insurance"
+        },
+        {
+            "qid": 208,
+            "retrieve": 242,
+            "category": "insurance"
+        },
+        {
+            "qid": 209,
+            "retrieve": 14,
+            "category": "insurance"
+        },
+        {
+            "qid": 210,
+            "retrieve": 14,
+            "category": "insurance"
+        },
+        {
+            "qid": 211,
+            "retrieve": -1,
+            "category": "insurance"
+        },
+        {
+            "qid": 212,
+            "retrieve": 207,
+            "category": "insurance"
+        },
+        {
+            "qid": 213,
+            "retrieve": 186,
+            "category": "insurance"
+        },
+        {
+            "qid": 214,
+            "retrieve": 186,
+            "category": "insurance"
+        },
+        {
+            "qid": 215,
+            "retrieve": 282,
+            "category": "insurance"
+        },
+        {
+            "qid": 216,
+            "retrieve": 244,
+            "category": "insurance"
+        },
+        {
+            "qid": 217,
+            "retrieve": 91,
+            "category": "insurance"
+        },
+        {
+            "qid": 218,
+            "retrieve": 116,
+            "category": "insurance"
+        },
+        {
+            "qid": 219,
+            "retrieve": 116,
+            "category": "insurance"
+        },
+        {
+            "qid": 220,
+            "retrieve": 518,
+            "category": "insurance"
+        },
+        {
+            "qid": 221,
+            "retrieve": 518,
+            "category": "insurance"
+        },
+        {
+            "qid": 222,
+            "retrieve": 407,
+            "category": "insurance"
+        },
+        {
+            "qid": 223,
+            "retrieve": 546,
+            "category": "insurance"
+        },
+        {
+            "qid": 224,
+            "retrieve": 531,
+            "category": "insurance"
+        },
+        {
+            "qid": 225,
+            "retrieve": 319,
+            "category": "insurance"
+        },
+        {
+            "qid": 226,
+            "retrieve": 114,
+            "category": "insurance"
+        },
+        {
+            "qid": 227,
+            "retrieve": 125,
+            "category": "insurance"
+        },
+        {
+            "qid": 228,
+            "retrieve": 258,
+            "category": "insurance"
+        },
+        {
+            "qid": 229,
+            "retrieve": 606,
+            "category": "insurance"
+        },
+        {
+            "qid": 230,
+            "retrieve": 51,
+            "category": "insurance"
+        },
+        {
+            "qid": 231,
+            "retrieve": 47,
+            "category": "insurance"
+        },
+        {
+            "qid": 232,
+            "retrieve": 540,
+            "category": "insurance"
+        },
+        {
+            "qid": 233,
+            "retrieve": 36,
+            "category": "insurance"
+        },
+        {
+            "qid": 234,
+            "retrieve": 476,
+            "category": "insurance"
+        },
+        {
+            "qid": 235,
+            "retrieve": 66,
+            "category": "insurance"
+        },
+        {
+            "qid": 236,
+            "retrieve": 121,
+            "category": "insurance"
+        },
+        {
+            "qid": 237,
+            "retrieve": 99,
+            "category": "insurance"
+        },
+        {
+            "qid": 238,
+            "retrieve": 32,
+            "category": "insurance"
+        },
+        {
+            "qid": 239,
+            "retrieve": 32,
+            "category": "insurance"
+        },
+        {
+            "qid": 240,
+            "retrieve": 66,
+            "category": "insurance"
+        },
+        {
+            "qid": 241,
+            "retrieve": 439,
+            "category": "insurance"
+        },
+        {
+            "qid": 242,
+            "retrieve": 93,
+            "category": "insurance"
+        },
+        {
+            "qid": 243,
+            "retrieve": 591,
+            "category": "insurance"
+        },
+        {
+            "qid": 244,
+            "retrieve": 486,
+            "category": "insurance"
+        },
+        {
+            "qid": 245,
+            "retrieve": 325,
+            "category": "insurance"
+        },
+        {
+            "qid": 246,
+            "retrieve": 476,
+            "category": "insurance"
+        },
+        {
+            "qid": 247,
+            "retrieve": 440,
+            "category": "insurance"
+        },
+        {
+            "qid": 248,
+            "retrieve": 440,
+            "category": "insurance"
+        },
+        {
+            "qid": 249,
+            "retrieve": 66,
+            "category": "insurance"
+        },
+        {
+            "qid": 250,
+            "retrieve": 539,
+            "category": "insurance"
+        },
+        {
+            "qid": 251,
+            "retrieve": 344,
+            "category": "insurance"
+        },
+        {
+            "qid": 252,
+            "retrieve": 185,
+            "category": "insurance"
+        },
+        {
+            "qid": 253,
+            "retrieve": 60,
+            "category": "insurance"
+        },
+        {
+            "qid": 254,
+            "retrieve": 319,
+            "category": "insurance"
+        },
+        {
+            "qid": 255,
+            "retrieve": 338,
+            "category": "insurance"
+        },
+        {
+            "qid": 256,
+            "retrieve": 174,
+            "category": "insurance"
+        },
+        {
+            "qid": 257,
+            "retrieve": 568,
+            "category": "insurance"
+        },
+        {
+            "qid": 258,
+            "retrieve": 408,
+            "category": "insurance"
+        },
+        {
+            "qid": 259,
+            "retrieve": 256,
+            "category": "insurance"
+        },
+        {
+            "qid": 260,
+            "retrieve": 254,
+            "category": "insurance"
+        },
+        {
+            "qid": 261,
+            "retrieve": 531,
+            "category": "insurance"
+        },
+        {
+            "qid": 262,
+            "retrieve": 231,
+            "category": "insurance"
+        },
+        {
+            "qid": 263,
+            "retrieve": 435,
+            "category": "insurance"
+        },
+        {
+            "qid": 264,
+            "retrieve": 435,
+            "category": "insurance"
+        },
+        {
+            "qid": 265,
+            "retrieve": 322,
+            "category": "insurance"
+        },
+        {
+            "qid": 266,
+            "retrieve": 524,
+            "category": "insurance"
+        },
+        {
+            "qid": 267,
+            "retrieve": 524,
+            "category": "insurance"
+        },
+        {
+            "qid": 268,
+            "retrieve": 524,
+            "category": "insurance"
+        },
+        {
+            "qid": 269,
+            "retrieve": 415,
+            "category": "insurance"
+        },
+        {
+            "qid": 270,
+            "retrieve": 351,
+            "category": "insurance"
+        },
+        {
+            "qid": 271,
+            "retrieve": 337,
+            "category": "insurance"
+        },
+        {
+            "qid": 272,
+            "retrieve": 362,
+            "category": "insurance"
+        },
+        {
+            "qid": 273,
+            "retrieve": 275,
+            "category": "insurance"
+        },
+        {
+            "qid": 274,
+            "retrieve": 568,
+            "category": "insurance"
+        },
+        {
+            "qid": 275,
+            "retrieve": 528,
+            "category": "insurance"
+        },
+        {
+            "qid": 276,
+            "retrieve": 528,
+            "category": "insurance"
+        },
+        {
+            "qid": 277,
+            "retrieve": 37,
+            "category": "insurance"
+        },
+        {
+            "qid": 278,
+            "retrieve": 384,
+            "category": "insurance"
+        },
+        {
+            "qid": 279,
+            "retrieve": 199,
+            "category": "insurance"
+        },
+        {
+            "qid": 280,
+            "retrieve": -1,
+            "category": "insurance"
+        },
+        {
+            "qid": 281,
+            "retrieve": 179,
+            "category": "insurance"
+        },
+        {
+            "qid": 282,
+            "retrieve": 186,
+            "category": "insurance"
+        },
+        {
+            "qid": 283,
+            "retrieve": 603,
+            "category": "insurance"
+        },
+        {
+            "qid": 284,
+            "retrieve": 150,
+            "category": "insurance"
+        },
+        {
+            "qid": 285,
+            "retrieve": 495,
+            "category": "insurance"
+        },
+        {
+            "qid": 286,
+            "retrieve": 368,
+            "category": "insurance"
+        },
+        {
+            "qid": 287,
+            "retrieve": 368,
+            "category": "insurance"
+        },
+        {
+            "qid": 288,
+            "retrieve": 508,
+            "category": "insurance"
+        },
+        {
+            "qid": 289,
+            "retrieve": 547,
+            "category": "insurance"
+        },
+        {
+            "qid": 290,
+            "retrieve": 136,
+            "category": "insurance"
+        },
+        {
+            "qid": 291,
+            "retrieve": 489,
+            "category": "insurance"
+        },
+        {
+            "qid": 292,
+            "retrieve": 581,
+            "category": "insurance"
+        },
+        {
+            "qid": 293,
+            "retrieve": 153,
+            "category": "insurance"
+        },
+        {
+            "qid": 294,
+            "retrieve": 499,
+            "category": "insurance"
+        },
+        {
+            "qid": 295,
+            "retrieve": 499,
+            "category": "insurance"
+        },
+        {
+            "qid": 296,
+            "retrieve": 284,
+            "category": "insurance"
+        },
+        {
+            "qid": 297,
+            "retrieve": 227,
+            "category": "insurance"
+        },
+        {
+            "qid": 298,
+            "retrieve": 226,
+            "category": "insurance"
+        },
+        {
+            "qid": 299,
+            "retrieve": 583,
+            "category": "insurance"
+        },
+        {
+            "qid": 300,
+            "retrieve": 547,
+            "category": "insurance"
+        },
+        {
+            "qid": 301,
+            "retrieve": 328,
+            "category": "finance"
+        },
+        {
+            "qid": 302,
+            "retrieve": 902,
+            "category": "finance"
+        },
+        {
+            "qid": 303,
+            "retrieve": 366,
+            "category": "finance"
+        },
+        {
+            "qid": 304,
+            "retrieve": 142,
+            "category": "finance"
+        },
+        {
+            "qid": 305,
+            "retrieve": 820,
+            "category": "finance"
+        },
+        {
+            "qid": 306,
+            "retrieve": 786,
+            "category": "finance"
+        },
+        {
+            "qid": 307,
+            "retrieve": 309,
+            "category": "finance"
+        },
+        {
+            "qid": 308,
+            "retrieve": 54,
+            "category": "finance"
+        },
+        {
+            "qid": 309,
+            "retrieve": 818,
+            "category": "finance"
+        },
+        {
+            "qid": 310,
+            "retrieve": 456,
+            "category": "finance"
+        },
+        {
+            "qid": 311,
+            "retrieve": 545,
+            "category": "finance"
+        },
+        {
+            "qid": 312,
+            "retrieve": 72,
+            "category": "finance"
+        },
+        {
+            "qid": 313,
+            "retrieve": 337,
+            "category": "finance"
+        },
+        {
+            "qid": 314,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 315,
+            "retrieve": 969,
+            "category": "finance"
+        },
+        {
+            "qid": 316,
+            "retrieve": 265,
+            "category": "finance"
+        },
+        {
+            "qid": 317,
+            "retrieve": 89,
+            "category": "finance"
+        },
+        {
+            "qid": 318,
+            "retrieve": 325,
+            "category": "finance"
+        },
+        {
+            "qid": 319,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 320,
+            "retrieve": 193,
+            "category": "finance"
+        },
+        {
+            "qid": 321,
+            "retrieve": 708,
+            "category": "finance"
+        },
+        {
+            "qid": 322,
+            "retrieve": 26,
+            "category": "finance"
+        },
+        {
+            "qid": 323,
+            "retrieve": 621,
+            "category": "finance"
+        },
+        {
+            "qid": 324,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 325,
+            "retrieve": 196,
+            "category": "finance"
+        },
+        {
+            "qid": 326,
+            "retrieve": 735,
+            "category": "finance"
+        },
+        {
+            "qid": 327,
+            "retrieve": 305,
+            "category": "finance"
+        },
+        {
+            "qid": 328,
+            "retrieve": 462,
+            "category": "finance"
+        },
+        {
+            "qid": 329,
+            "retrieve": 460,
+            "category": "finance"
+        },
+        {
+            "qid": 330,
+            "retrieve": 252,
+            "category": "finance"
+        },
+        {
+            "qid": 331,
+            "retrieve": 740,
+            "category": "finance"
+        },
+        {
+            "qid": 332,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 333,
+            "retrieve": 203,
+            "category": "finance"
+        },
+        {
+            "qid": 334,
+            "retrieve": 751,
+            "category": "finance"
+        },
+        {
+            "qid": 335,
+            "retrieve": 27,
+            "category": "finance"
+        },
+        {
+            "qid": 336,
+            "retrieve": 733,
+            "category": "finance"
+        },
+        {
+            "qid": 337,
+            "retrieve": 956,
+            "category": "finance"
+        },
+        {
+            "qid": 338,
+            "retrieve": 10,
+            "category": "finance"
+        },
+        {
+            "qid": 339,
+            "retrieve": 350,
+            "category": "finance"
+        },
+        {
+            "qid": 340,
+            "retrieve": 868,
+            "category": "finance"
+        },
+        {
+            "qid": 341,
+            "retrieve": 112,
+            "category": "finance"
+        },
+        {
+            "qid": 342,
+            "retrieve": 771,
+            "category": "finance"
+        },
+        {
+            "qid": 343,
+            "retrieve": 436,
+            "category": "finance"
+        },
+        {
+            "qid": 344,
+            "retrieve": 907,
+            "category": "finance"
+        },
+        {
+            "qid": 345,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 346,
+            "retrieve": 317,
+            "category": "finance"
+        },
+        {
+            "qid": 347,
+            "retrieve": 38,
+            "category": "finance"
+        },
+        {
+            "qid": 348,
+            "retrieve": 18,
+            "category": "finance"
+        },
+        {
+            "qid": 349,
+            "retrieve": 445,
+            "category": "finance"
+        },
+        {
+            "qid": 350,
+            "retrieve": 562,
+            "category": "finance"
+        },
+        {
+            "qid": 351,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 352,
+            "retrieve": 465,
+            "category": "finance"
+        },
+        {
+            "qid": 353,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 354,
+            "retrieve": 809,
+            "category": "finance"
+        },
+        {
+            "qid": 355,
+            "retrieve": 247,
+            "category": "finance"
+        },
+        {
+            "qid": 356,
+            "retrieve": 804,
+            "category": "finance"
+        },
+        {
+            "qid": 357,
+            "retrieve": 400,
+            "category": "finance"
+        },
+        {
+            "qid": 358,
+            "retrieve": 287,
+            "category": "finance"
+        },
+        {
+            "qid": 359,
+            "retrieve": 707,
+            "category": "finance"
+        },
+        {
+            "qid": 360,
+            "retrieve": 814,
+            "category": "finance"
+        },
+        {
+            "qid": 361,
+            "retrieve": 826,
+            "category": "finance"
+        },
+        {
+            "qid": 362,
+            "retrieve": 149,
+            "category": "finance"
+        },
+        {
+            "qid": 363,
+            "retrieve": 249,
+            "category": "finance"
+        },
+        {
+            "qid": 364,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 365,
+            "retrieve": 719,
+            "category": "finance"
+        },
+        {
+            "qid": 366,
+            "retrieve": 530,
+            "category": "finance"
+        },
+        {
+            "qid": 367,
+            "retrieve": 722,
+            "category": "finance"
+        },
+        {
+            "qid": 368,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 369,
+            "retrieve": 464,
+            "category": "finance"
+        },
+        {
+            "qid": 370,
+            "retrieve": 642,
+            "category": "finance"
+        },
+        {
+            "qid": 371,
+            "retrieve": 249,
+            "category": "finance"
+        },
+        {
+            "qid": 372,
+            "retrieve": 1030,
+            "category": "finance"
+        },
+        {
+            "qid": 373,
+            "retrieve": 50,
+            "category": "finance"
+        },
+        {
+            "qid": 374,
+            "retrieve": 434,
+            "category": "finance"
+        },
+        {
+            "qid": 375,
+            "retrieve": 1000,
+            "category": "finance"
+        },
+        {
+            "qid": 376,
+            "retrieve": 378,
+            "category": "finance"
+        },
+        {
+            "qid": 377,
+            "retrieve": 293,
+            "category": "finance"
+        },
+        {
+            "qid": 378,
+            "retrieve": 275,
+            "category": "finance"
+        },
+        {
+            "qid": 379,
+            "retrieve": 60,
+            "category": "finance"
+        },
+        {
+            "qid": 380,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 381,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 382,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 383,
+            "retrieve": 956,
+            "category": "finance"
+        },
+        {
+            "qid": 384,
+            "retrieve": 800,
+            "category": "finance"
+        },
+        {
+            "qid": 385,
+            "retrieve": 58,
+            "category": "finance"
+        },
+        {
+            "qid": 386,
+            "retrieve": 429,
+            "category": "finance"
+        },
+        {
+            "qid": 387,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 388,
+            "retrieve": 393,
+            "category": "finance"
+        },
+        {
+            "qid": 389,
+            "retrieve": 688,
+            "category": "finance"
+        },
+        {
+            "qid": 390,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 391,
+            "retrieve": 1029,
+            "category": "finance"
+        },
+        {
+            "qid": 392,
+            "retrieve": 930,
+            "category": "finance"
+        },
+        {
+            "qid": 393,
+            "retrieve": 892,
+            "category": "finance"
+        },
+        {
+            "qid": 394,
+            "retrieve": 481,
+            "category": "finance"
+        },
+        {
+            "qid": 395,
+            "retrieve": 158,
+            "category": "finance"
+        },
+        {
+            "qid": 396,
+            "retrieve": 1017,
+            "category": "finance"
+        },
+        {
+            "qid": 397,
+            "retrieve": 450,
+            "category": "finance"
+        },
+        {
+            "qid": 398,
+            "retrieve": 992,
+            "category": "finance"
+        },
+        {
+            "qid": 399,
+            "retrieve": 342,
+            "category": "finance"
+        },
+        {
+            "qid": 400,
+            "retrieve": 970,
+            "category": "finance"
+        },
+        {
+            "qid": 401,
+            "retrieve": 177,
+            "category": "finance"
+        },
+        {
+            "qid": 402,
+            "retrieve": 816,
+            "category": "finance"
+        },
+        {
+            "qid": 403,
+            "retrieve": 529,
+            "category": "finance"
+        },
+        {
+            "qid": 404,
+            "retrieve": 975,
+            "category": "finance"
+        },
+        {
+            "qid": 405,
+            "retrieve": 331,
+            "category": "finance"
+        },
+        {
+            "qid": 406,
+            "retrieve": 732,
+            "category": "finance"
+        },
+        {
+            "qid": 407,
+            "retrieve": 230,
+            "category": "finance"
+        },
+        {
+            "qid": 408,
+            "retrieve": 988,
+            "category": "finance"
+        },
+        {
+            "qid": 409,
+            "retrieve": 963,
+            "category": "finance"
+        },
+        {
+            "qid": 410,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 411,
+            "retrieve": 367,
+            "category": "finance"
+        },
+        {
+            "qid": 412,
+            "retrieve": 816,
+            "category": "finance"
+        },
+        {
+            "qid": 413,
+            "retrieve": 584,
+            "category": "finance"
+        },
+        {
+            "qid": 414,
+            "retrieve": 792,
+            "category": "finance"
+        },
+        {
+            "qid": 415,
+            "retrieve": 783,
+            "category": "finance"
+        },
+        {
+            "qid": 416,
+            "retrieve": 650,
+            "category": "finance"
+        },
+        {
+            "qid": 417,
+            "retrieve": 910,
+            "category": "finance"
+        },
+        {
+            "qid": 418,
+            "retrieve": 697,
+            "category": "finance"
+        },
+        {
+            "qid": 419,
+            "retrieve": 282,
+            "category": "finance"
+        },
+        {
+            "qid": 420,
+            "retrieve": 1011,
+            "category": "finance"
+        },
+        {
+            "qid": 421,
+            "retrieve": 249,
+            "category": "finance"
+        },
+        {
+            "qid": 422,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 423,
+            "retrieve": 527,
+            "category": "finance"
+        },
+        {
+            "qid": 424,
+            "retrieve": 899,
+            "category": "finance"
+        },
+        {
+            "qid": 425,
+            "retrieve": 588,
+            "category": "finance"
+        },
+        {
+            "qid": 426,
+            "retrieve": 802,
+            "category": "finance"
+        },
+        {
+            "qid": 427,
+            "retrieve": 985,
+            "category": "finance"
+        },
+        {
+            "qid": 428,
+            "retrieve": 315,
+            "category": "finance"
+        },
+        {
+            "qid": 429,
+            "retrieve": 915,
+            "category": "finance"
+        },
+        {
+            "qid": 430,
+            "retrieve": 75,
+            "category": "finance"
+        },
+        {
+            "qid": 431,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 432,
+            "retrieve": 120,
+            "category": "finance"
+        },
+        {
+            "qid": 433,
+            "retrieve": 272,
+            "category": "finance"
+        },
+        {
+            "qid": 434,
+            "retrieve": 443,
+            "category": "finance"
+        },
+        {
+            "qid": 435,
+            "retrieve": 938,
+            "category": "finance"
+        },
+        {
+            "qid": 436,
+            "retrieve": 680,
+            "category": "finance"
+        },
+        {
+            "qid": 437,
+            "retrieve": 93,
+            "category": "finance"
+        },
+        {
+            "qid": 438,
+            "retrieve": 648,
+            "category": "finance"
+        },
+        {
+            "qid": 439,
+            "retrieve": 732,
+            "category": "finance"
+        },
+        {
+            "qid": 440,
+            "retrieve": 1028,
+            "category": "finance"
+        },
+        {
+            "qid": 441,
+            "retrieve": 808,
+            "category": "finance"
+        },
+        {
+            "qid": 442,
+            "retrieve": 376,
+            "category": "finance"
+        },
+        {
+            "qid": 443,
+            "retrieve": 222,
+            "category": "finance"
+        },
+        {
+            "qid": 444,
+            "retrieve": 806,
+            "category": "finance"
+        },
+        {
+            "qid": 445,
+            "retrieve": 838,
+            "category": "finance"
+        },
+        {
+            "qid": 446,
+            "retrieve": 586,
+            "category": "finance"
+        },
+        {
+            "qid": 447,
+            "retrieve": 917,
+            "category": "finance"
+        },
+        {
+            "qid": 448,
+            "retrieve": 729,
+            "category": "finance"
+        },
+        {
+            "qid": 449,
+            "retrieve": 336,
+            "category": "finance"
+        },
+        {
+            "qid": 450,
+            "retrieve": 127,
+            "category": "finance"
+        },
+        {
+            "qid": 451,
+            "retrieve": 721,
+            "category": "finance"
+        },
+        {
+            "qid": 452,
+            "retrieve": 523,
+            "category": "finance"
+        },
+        {
+            "qid": 453,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 454,
+            "retrieve": 254,
+            "category": "finance"
+        },
+        {
+            "qid": 455,
+            "retrieve": 405,
+            "category": "finance"
+        },
+        {
+            "qid": 456,
+            "retrieve": 813,
+            "category": "finance"
+        },
+        {
+            "qid": 457,
+            "retrieve": 243,
+            "category": "finance"
+        },
+        {
+            "qid": 458,
+            "retrieve": 419,
+            "category": "finance"
+        },
+        {
+            "qid": 459,
+            "retrieve": 913,
+            "category": "finance"
+        },
+        {
+            "qid": 460,
+            "retrieve": 704,
+            "category": "finance"
+        },
+        {
+            "qid": 461,
+            "retrieve": 600,
+            "category": "finance"
+        },
+        {
+            "qid": 462,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 463,
+            "retrieve": 847,
+            "category": "finance"
+        },
+        {
+            "qid": 464,
+            "retrieve": 411,
+            "category": "finance"
+        },
+        {
+            "qid": 465,
+            "retrieve": 251,
+            "category": "finance"
+        },
+        {
+            "qid": 466,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 467,
+            "retrieve": 971,
+            "category": "finance"
+        },
+        {
+            "qid": 468,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 469,
+            "retrieve": 13,
+            "category": "finance"
+        },
+        {
+            "qid": 470,
+            "retrieve": 921,
+            "category": "finance"
+        },
+        {
+            "qid": 471,
+            "retrieve": 246,
+            "category": "finance"
+        },
+        {
+            "qid": 472,
+            "retrieve": 12,
+            "category": "finance"
+        },
+        {
+            "qid": 473,
+            "retrieve": 408,
+            "category": "finance"
+        },
+        {
+            "qid": 474,
+            "retrieve": 635,
+            "category": "finance"
+        },
+        {
+            "qid": 475,
+            "retrieve": 337,
+            "category": "finance"
+        },
+        {
+            "qid": 476,
+            "retrieve": 504,
+            "category": "finance"
+        },
+        {
+            "qid": 477,
+            "retrieve": 924,
+            "category": "finance"
+        },
+        {
+            "qid": 478,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 479,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 480,
+            "retrieve": 870,
+            "category": "finance"
+        },
+        {
+            "qid": 481,
+            "retrieve": 168,
+            "category": "finance"
+        },
+        {
+            "qid": 482,
+            "retrieve": 576,
+            "category": "finance"
+        },
+        {
+            "qid": 483,
+            "retrieve": 605,
+            "category": "finance"
+        },
+        {
+            "qid": 484,
+            "retrieve": 1011,
+            "category": "finance"
+        },
+        {
+            "qid": 485,
+            "retrieve": 205,
+            "category": "finance"
+        },
+        {
+            "qid": 486,
+            "retrieve": 866,
+            "category": "finance"
+        },
+        {
+            "qid": 487,
+            "retrieve": 767,
+            "category": "finance"
+        },
+        {
+            "qid": 488,
+            "retrieve": 727,
+            "category": "finance"
+        },
+        {
+            "qid": 489,
+            "retrieve": 620,
+            "category": "finance"
+        },
+        {
+            "qid": 490,
+            "retrieve": 901,
+            "category": "finance"
+        },
+        {
+            "qid": 491,
+            "retrieve": 324,
+            "category": "finance"
+        },
+        {
+            "qid": 492,
+            "retrieve": 999,
+            "category": "finance"
+        },
+        {
+            "qid": 493,
+            "retrieve": 837,
+            "category": "finance"
+        },
+        {
+            "qid": 494,
+            "retrieve": 742,
+            "category": "finance"
+        },
+        {
+            "qid": 495,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 496,
+            "retrieve": 870,
+            "category": "finance"
+        },
+        {
+            "qid": 497,
+            "retrieve": 16,
+            "category": "finance"
+        },
+        {
+            "qid": 498,
+            "retrieve": 760,
+            "category": "finance"
+        },
+        {
+            "qid": 499,
+            "retrieve": 224,
+            "category": "finance"
+        },
+        {
+            "qid": 500,
+            "retrieve": 916,
+            "category": "finance"
+        },
+        {
+            "qid": 501,
+            "retrieve": 94,
+            "category": "finance"
+        },
+        {
+            "qid": 502,
+            "retrieve": 696,
+            "category": "finance"
+        },
+        {
+            "qid": 503,
+            "retrieve": 199,
+            "category": "finance"
+        },
+        {
+            "qid": 504,
+            "retrieve": 882,
+            "category": "finance"
+        },
+        {
+            "qid": 505,
+            "retrieve": 208,
+            "category": "finance"
+        },
+        {
+            "qid": 506,
+            "retrieve": 766,
+            "category": "finance"
+        },
+        {
+            "qid": 507,
+            "retrieve": 34,
+            "category": "finance"
+        },
+        {
+            "qid": 508,
+            "retrieve": 67,
+            "category": "finance"
+        },
+        {
+            "qid": 509,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 510,
+            "retrieve": 513,
+            "category": "finance"
+        },
+        {
+            "qid": 511,
+            "retrieve": 598,
+            "category": "finance"
+        },
+        {
+            "qid": 512,
+            "retrieve": 887,
+            "category": "finance"
+        },
+        {
+            "qid": 513,
+            "retrieve": 31,
+            "category": "finance"
+        },
+        {
+            "qid": 514,
+            "retrieve": 543,
+            "category": "finance"
+        },
+        {
+            "qid": 515,
+            "retrieve": 786,
+            "category": "finance"
+        },
+        {
+            "qid": 516,
+            "retrieve": 731,
+            "category": "finance"
+        },
+        {
+            "qid": 517,
+            "retrieve": 137,
+            "category": "finance"
+        },
+        {
+            "qid": 518,
+            "retrieve": 296,
+            "category": "finance"
+        },
+        {
+            "qid": 519,
+            "retrieve": 989,
+            "category": "finance"
+        },
+        {
+            "qid": 520,
+            "retrieve": 506,
+            "category": "finance"
+        },
+        {
+            "qid": 521,
+            "retrieve": 175,
+            "category": "finance"
+        },
+        {
+            "qid": 522,
+            "retrieve": 250,
+            "category": "finance"
+        },
+        {
+            "qid": 523,
+            "retrieve": 121,
+            "category": "finance"
+        },
+        {
+            "qid": 524,
+            "retrieve": 113,
+            "category": "finance"
+        },
+        {
+            "qid": 525,
+            "retrieve": 985,
+            "category": "finance"
+        },
+        {
+            "qid": 526,
+            "retrieve": 1027,
+            "category": "finance"
+        },
+        {
+            "qid": 527,
+            "retrieve": 473,
+            "category": "finance"
+        },
+        {
+            "qid": 528,
+            "retrieve": 297,
+            "category": "finance"
+        },
+        {
+            "qid": 529,
+            "retrieve": 616,
+            "category": "finance"
+        },
+        {
+            "qid": 530,
+            "retrieve": 749,
+            "category": "finance"
+        },
+        {
+            "qid": 531,
+            "retrieve": 867,
+            "category": "finance"
+        },
+        {
+            "qid": 532,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 533,
+            "retrieve": 750,
+            "category": "finance"
+        },
+        {
+            "qid": 534,
+            "retrieve": 581,
+            "category": "finance"
+        },
+        {
+            "qid": 535,
+            "retrieve": 379,
+            "category": "finance"
+        },
+        {
+            "qid": 536,
+            "retrieve": 809,
+            "category": "finance"
+        },
+        {
+            "qid": 537,
+            "retrieve": 92,
+            "category": "finance"
+        },
+        {
+            "qid": 538,
+            "retrieve": 905,
+            "category": "finance"
+        },
+        {
+            "qid": 539,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 540,
+            "retrieve": 779,
+            "category": "finance"
+        },
+        {
+            "qid": 541,
+            "retrieve": 1008,
+            "category": "finance"
+        },
+        {
+            "qid": 542,
+            "retrieve": 844,
+            "category": "finance"
+        },
+        {
+            "qid": 543,
+            "retrieve": 564,
+            "category": "finance"
+        },
+        {
+            "qid": 544,
+            "retrieve": 909,
+            "category": "finance"
+        },
+        {
+            "qid": 545,
+            "retrieve": 294,
+            "category": "finance"
+        },
+        {
+            "qid": 546,
+            "retrieve": 426,
+            "category": "finance"
+        },
+        {
+            "qid": 547,
+            "retrieve": 887,
+            "category": "finance"
+        },
+        {
+            "qid": 548,
+            "retrieve": 933,
+            "category": "finance"
+        },
+        {
+            "qid": 549,
+            "retrieve": 194,
+            "category": "finance"
+        },
+        {
+            "qid": 550,
+            "retrieve": 772,
+            "category": "finance"
+        },
+        {
+            "qid": 551,
+            "retrieve": 25,
+            "category": "finance"
+        },
+        {
+            "qid": 552,
+            "retrieve": 621,
+            "category": "finance"
+        },
+        {
+            "qid": 553,
+            "retrieve": 556,
+            "category": "finance"
+        },
+        {
+            "qid": 554,
+            "retrieve": 585,
+            "category": "finance"
+        },
+        {
+            "qid": 555,
+            "retrieve": 363,
+            "category": "finance"
+        },
+        {
+            "qid": 556,
+            "retrieve": 174,
+            "category": "finance"
+        },
+        {
+            "qid": 557,
+            "retrieve": 861,
+            "category": "finance"
+        },
+        {
+            "qid": 558,
+            "retrieve": 21,
+            "category": "finance"
+        },
+        {
+            "qid": 559,
+            "retrieve": 865,
+            "category": "finance"
+        },
+        {
+            "qid": 560,
+            "retrieve": 503,
+            "category": "finance"
+        },
+        {
+            "qid": 561,
+            "retrieve": 757,
+            "category": "finance"
+        },
+        {
+            "qid": 562,
+            "retrieve": 214,
+            "category": "finance"
+        },
+        {
+            "qid": 563,
+            "retrieve": 289,
+            "category": "finance"
+        },
+        {
+            "qid": 564,
+            "retrieve": 161,
+            "category": "finance"
+        },
+        {
+            "qid": 565,
+            "retrieve": 342,
+            "category": "finance"
+        },
+        {
+            "qid": 566,
+            "retrieve": 935,
+            "category": "finance"
+        },
+        {
+            "qid": 567,
+            "retrieve": 261,
+            "category": "finance"
+        },
+        {
+            "qid": 568,
+            "retrieve": 196,
+            "category": "finance"
+        },
+        {
+            "qid": 569,
+            "retrieve": 665,
+            "category": "finance"
+        },
+        {
+            "qid": 570,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 571,
+            "retrieve": 46,
+            "category": "finance"
+        },
+        {
+            "qid": 572,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 573,
+            "retrieve": 934,
+            "category": "finance"
+        },
+        {
+            "qid": 574,
+            "retrieve": 150,
+            "category": "finance"
+        },
+        {
+            "qid": 575,
+            "retrieve": 850,
+            "category": "finance"
+        },
+        {
+            "qid": 576,
+            "retrieve": 967,
+            "category": "finance"
+        },
+        {
+            "qid": 577,
+            "retrieve": 335,
+            "category": "finance"
+        },
+        {
+            "qid": 578,
+            "retrieve": 108,
+            "category": "finance"
+        },
+        {
+            "qid": 579,
+            "retrieve": 1003,
+            "category": "finance"
+        },
+        {
+            "qid": 580,
+            "retrieve": 548,
+            "category": "finance"
+        },
+        {
+            "qid": 581,
+            "retrieve": 535,
+            "category": "finance"
+        },
+        {
+            "qid": 582,
+            "retrieve": 737,
+            "category": "finance"
+        },
+        {
+            "qid": 583,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 584,
+            "retrieve": 229,
+            "category": "finance"
+        },
+        {
+            "qid": 585,
+            "retrieve": 11,
+            "category": "finance"
+        },
+        {
+            "qid": 586,
+            "retrieve": 200,
+            "category": "finance"
+        },
+        {
+            "qid": 587,
+            "retrieve": 491,
+            "category": "finance"
+        },
+        {
+            "qid": 588,
+            "retrieve": 322,
+            "category": "finance"
+        },
+        {
+            "qid": 589,
+            "retrieve": 440,
+            "category": "finance"
+        },
+        {
+            "qid": 590,
+            "retrieve": 308,
+            "category": "finance"
+        },
+        {
+            "qid": 591,
+            "retrieve": 101,
+            "category": "finance"
+        },
+        {
+            "qid": 592,
+            "retrieve": 198,
+            "category": "finance"
+        },
+        {
+            "qid": 593,
+            "retrieve": 826,
+            "category": "finance"
+        },
+        {
+            "qid": 594,
+            "retrieve": 64,
+            "category": "finance"
+        },
+        {
+            "qid": 595,
+            "retrieve": 547,
+            "category": "finance"
+        },
+        {
+            "qid": 596,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 597,
+            "retrieve": 326,
+            "category": "finance"
+        },
+        {
+            "qid": 598,
+            "retrieve": -1,
+            "category": "finance"
+        },
+        {
+            "qid": 599,
+            "retrieve": 117,
+            "category": "finance"
+        },
+        {
+            "qid": 600,
+            "retrieve": 747,
+            "category": "finance"
+        },
+        {
+            "qid": 601,
+            "retrieve": 34,
+            "category": "faq"
+        },
+        {
+            "qid": 602,
+            "retrieve": 166,
+            "category": "faq"
+        },
+        {
+            "qid": 603,
+            "retrieve": 109,
+            "category": "faq"
+        },
+        {
+            "qid": 604,
+            "retrieve": 202,
+            "category": "faq"
+        },
+        {
+            "qid": 605,
+            "retrieve": 249,
+            "category": "faq"
+        },
+        {
+            "qid": 606,
+            "retrieve": 401,
+            "category": "faq"
+        },
+        {
+            "qid": 607,
+            "retrieve": 49,
+            "category": "faq"
+        },
+        {
+            "qid": 608,
+            "retrieve": 43,
+            "category": "faq"
+        },
+        {
+            "qid": 609,
+            "retrieve": 323,
+            "category": "faq"
+        },
+        {
+            "qid": 610,
+            "retrieve": 507,
+            "category": "faq"
+        },
+        {
+            "qid": 611,
+            "retrieve": 480,
+            "category": "faq"
+        },
+        {
+            "qid": 612,
+            "retrieve": 541,
+            "category": "faq"
+        },
+        {
+            "qid": 613,
+            "retrieve": 386,
+            "category": "faq"
+        },
+        {
+            "qid": 614,
+            "retrieve": 354,
+            "category": "faq"
+        },
+        {
+            "qid": 615,
+            "retrieve": 302,
+            "category": "faq"
+        },
+        {
+            "qid": 616,
+            "retrieve": 340,
+            "category": "faq"
+        },
+        {
+            "qid": 617,
+            "retrieve": 134,
+            "category": "faq"
+        },
+        {
+            "qid": 618,
+            "retrieve": 361,
+            "category": "faq"
+        },
+        {
+            "qid": 619,
+            "retrieve": 280,
+            "category": "faq"
+        },
+        {
+            "qid": 620,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 621,
+            "retrieve": 346,
+            "category": "faq"
+        },
+        {
+            "qid": 622,
+            "retrieve": 442,
+            "category": "faq"
+        },
+        {
+            "qid": 623,
+            "retrieve": 245,
+            "category": "faq"
+        },
+        {
+            "qid": 624,
+            "retrieve": 496,
+            "category": "faq"
+        },
+        {
+            "qid": 625,
+            "retrieve": 330,
+            "category": "faq"
+        },
+        {
+            "qid": 626,
+            "retrieve": 448,
+            "category": "faq"
+        },
+        {
+            "qid": 627,
+            "retrieve": 117,
+            "category": "faq"
+        },
+        {
+            "qid": 628,
+            "retrieve": 458,
+            "category": "faq"
+        },
+        {
+            "qid": 629,
+            "retrieve": 493,
+            "category": "faq"
+        },
+        {
+            "qid": 630,
+            "retrieve": 10,
+            "category": "faq"
+        },
+        {
+            "qid": 631,
+            "retrieve": 146,
+            "category": "faq"
+        },
+        {
+            "qid": 632,
+            "retrieve": 241,
+            "category": "faq"
+        },
+        {
+            "qid": 633,
+            "retrieve": 68,
+            "category": "faq"
+        },
+        {
+            "qid": 634,
+            "retrieve": 124,
+            "category": "faq"
+        },
+        {
+            "qid": 635,
+            "retrieve": 111,
+            "category": "faq"
+        },
+        {
+            "qid": 636,
+            "retrieve": 154,
+            "category": "faq"
+        },
+        {
+            "qid": 637,
+            "retrieve": 133,
+            "category": "faq"
+        },
+        {
+            "qid": 638,
+            "retrieve": 180,
+            "category": "faq"
+        },
+        {
+            "qid": 639,
+            "retrieve": 336,
+            "category": "faq"
+        },
+        {
+            "qid": 640,
+            "retrieve": 567,
+            "category": "faq"
+        },
+        {
+            "qid": 641,
+            "retrieve": 431,
+            "category": "faq"
+        },
+        {
+            "qid": 642,
+            "retrieve": 402,
+            "category": "faq"
+        },
+        {
+            "qid": 643,
+            "retrieve": 545,
+            "category": "faq"
+        },
+        {
+            "qid": 644,
+            "retrieve": 497,
+            "category": "faq"
+        },
+        {
+            "qid": 645,
+            "retrieve": 116,
+            "category": "faq"
+        },
+        {
+            "qid": 646,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 647,
+            "retrieve": 539,
+            "category": "faq"
+        },
+        {
+            "qid": 648,
+            "retrieve": 118,
+            "category": "faq"
+        },
+        {
+            "qid": 649,
+            "retrieve": 381,
+            "category": "faq"
+        },
+        {
+            "qid": 650,
+            "retrieve": 494,
+            "category": "faq"
+        },
+        {
+            "qid": 651,
+            "retrieve": 69,
+            "category": "faq"
+        },
+        {
+            "qid": 652,
+            "retrieve": 609,
+            "category": "faq"
+        },
+        {
+            "qid": 653,
+            "retrieve": 162,
+            "category": "faq"
+        },
+        {
+            "qid": 654,
+            "retrieve": 514,
+            "category": "faq"
+        },
+        {
+            "qid": 655,
+            "retrieve": 31,
+            "category": "faq"
+        },
+        {
+            "qid": 656,
+            "retrieve": 572,
+            "category": "faq"
+        },
+        {
+            "qid": 657,
+            "retrieve": 460,
+            "category": "faq"
+        },
+        {
+            "qid": 658,
+            "retrieve": 454,
+            "category": "faq"
+        },
+        {
+            "qid": 659,
+            "retrieve": 246,
+            "category": "faq"
+        },
+        {
+            "qid": 660,
+            "retrieve": 362,
+            "category": "faq"
+        },
+        {
+            "qid": 661,
+            "retrieve": 378,
+            "category": "faq"
+        },
+        {
+            "qid": 662,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 663,
+            "retrieve": 275,
+            "category": "faq"
+        },
+        {
+            "qid": 664,
+            "retrieve": 335,
+            "category": "faq"
+        },
+        {
+            "qid": 665,
+            "retrieve": 435,
+            "category": "faq"
+        },
+        {
+            "qid": 666,
+            "retrieve": 342,
+            "category": "faq"
+        },
+        {
+            "qid": 667,
+            "retrieve": 195,
+            "category": "faq"
+        },
+        {
+            "qid": 668,
+            "retrieve": 586,
+            "category": "faq"
+        },
+        {
+            "qid": 669,
+            "retrieve": 252,
+            "category": "faq"
+        },
+        {
+            "qid": 670,
+            "retrieve": 525,
+            "category": "faq"
+        },
+        {
+            "qid": 671,
+            "retrieve": 175,
+            "category": "faq"
+        },
+        {
+            "qid": 672,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 673,
+            "retrieve": 468,
+            "category": "faq"
+        },
+        {
+            "qid": 674,
+            "retrieve": 492,
+            "category": "faq"
+        },
+        {
+            "qid": 675,
+            "retrieve": 278,
+            "category": "faq"
+        },
+        {
+            "qid": 676,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 677,
+            "retrieve": 71,
+            "category": "faq"
+        },
+        {
+            "qid": 678,
+            "retrieve": 250,
+            "category": "faq"
+        },
+        {
+            "qid": 679,
+            "retrieve": 397,
+            "category": "faq"
+        },
+        {
+            "qid": 680,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 681,
+            "retrieve": 568,
+            "category": "faq"
+        },
+        {
+            "qid": 682,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 683,
+            "retrieve": 606,
+            "category": "faq"
+        },
+        {
+            "qid": 684,
+            "retrieve": 580,
+            "category": "faq"
+        },
+        {
+            "qid": 685,
+            "retrieve": 417,
+            "category": "faq"
+        },
+        {
+            "qid": 686,
+            "retrieve": 522,
+            "category": "faq"
+        },
+        {
+            "qid": 687,
+            "retrieve": 271,
+            "category": "faq"
+        },
+        {
+            "qid": 688,
+            "retrieve": 615,
+            "category": "faq"
+        },
+        {
+            "qid": 689,
+            "retrieve": 253,
+            "category": "faq"
+        },
+        {
+            "qid": 690,
+            "retrieve": 295,
+            "category": "faq"
+        },
+        {
+            "qid": 691,
+            "retrieve": 56,
+            "category": "faq"
+        },
+        {
+            "qid": 692,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 693,
+            "retrieve": 350,
+            "category": "faq"
+        },
+        {
+            "qid": 694,
+            "retrieve": 46,
+            "category": "faq"
+        },
+        {
+            "qid": 695,
+            "retrieve": 247,
+            "category": "faq"
+        },
+        {
+            "qid": 696,
+            "retrieve": 321,
+            "category": "faq"
+        },
+        {
+            "qid": 697,
+            "retrieve": 199,
+            "category": "faq"
+        },
+        {
+            "qid": 698,
+            "retrieve": 364,
+            "category": "faq"
+        },
+        {
+            "qid": 699,
+            "retrieve": 513,
+            "category": "faq"
+        },
+        {
+            "qid": 700,
+            "retrieve": 143,
+            "category": "faq"
+        },
+        {
+            "qid": 701,
+            "retrieve": 217,
+            "category": "faq"
+        },
+        {
+            "qid": 702,
+            "retrieve": 273,
+            "category": "faq"
+        },
+        {
+            "qid": 703,
+            "retrieve": 548,
+            "category": "faq"
+        },
+        {
+            "qid": 704,
+            "retrieve": 489,
+            "category": "faq"
+        },
+        {
+            "qid": 705,
+            "retrieve": 523,
+            "category": "faq"
+        },
+        {
+            "qid": 706,
+            "retrieve": 126,
+            "category": "faq"
+        },
+        {
+            "qid": 707,
+            "retrieve": 589,
+            "category": "faq"
+        },
+        {
+            "qid": 708,
+            "retrieve": 413,
+            "category": "faq"
+        },
+        {
+            "qid": 709,
+            "retrieve": 208,
+            "category": "faq"
+        },
+        {
+            "qid": 710,
+            "retrieve": 616,
+            "category": "faq"
+        },
+        {
+            "qid": 711,
+            "retrieve": 237,
+            "category": "faq"
+        },
+        {
+            "qid": 712,
+            "retrieve": 345,
+            "category": "faq"
+        },
+        {
+            "qid": 713,
+            "retrieve": 427,
+            "category": "faq"
+        },
+        {
+            "qid": 714,
+            "retrieve": 313,
+            "category": "faq"
+        },
+        {
+            "qid": 715,
+            "retrieve": 47,
+            "category": "faq"
+        },
+        {
+            "qid": 716,
+            "retrieve": 383,
+            "category": "faq"
+        },
+        {
+            "qid": 717,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 718,
+            "retrieve": 264,
+            "category": "faq"
+        },
+        {
+            "qid": 719,
+            "retrieve": 605,
+            "category": "faq"
+        },
+        {
+            "qid": 720,
+            "retrieve": 239,
+            "category": "faq"
+        },
+        {
+            "qid": 721,
+            "retrieve": 172,
+            "category": "faq"
+        },
+        {
+            "qid": 722,
+            "retrieve": 223,
+            "category": "faq"
+        },
+        {
+            "qid": 723,
+            "retrieve": 251,
+            "category": "faq"
+        },
+        {
+            "qid": 724,
+            "retrieve": 571,
+            "category": "faq"
+        },
+        {
+            "qid": 725,
+            "retrieve": 443,
+            "category": "faq"
+        },
+        {
+            "qid": 726,
+            "retrieve": 186,
+            "category": "faq"
+        },
+        {
+            "qid": 727,
+            "retrieve": 506,
+            "category": "faq"
+        },
+        {
+            "qid": 728,
+            "retrieve": 598,
+            "category": "faq"
+        },
+        {
+            "qid": 729,
+            "retrieve": 363,
+            "category": "faq"
+        },
+        {
+            "qid": 730,
+            "retrieve": 33,
+            "category": "faq"
+        },
+        {
+            "qid": 731,
+            "retrieve": 161,
+            "category": "faq"
+        },
+        {
+            "qid": 732,
+            "retrieve": 408,
+            "category": "faq"
+        },
+        {
+            "qid": 733,
+            "retrieve": 59,
+            "category": "faq"
+        },
+        {
+            "qid": 734,
+            "retrieve": 233,
+            "category": "faq"
+        },
+        {
+            "qid": 735,
+            "retrieve": 191,
+            "category": "faq"
+        },
+        {
+            "qid": 736,
+            "retrieve": 257,
+            "category": "faq"
+        },
+        {
+            "qid": 737,
+            "retrieve": 272,
+            "category": "faq"
+        },
+        {
+            "qid": 738,
+            "retrieve": 16,
+            "category": "faq"
+        },
+        {
+            "qid": 739,
+            "retrieve": 26,
+            "category": "faq"
+        },
+        {
+            "qid": 740,
+            "retrieve": 18,
+            "category": "faq"
+        },
+        {
+            "qid": 741,
+            "retrieve": 389,
+            "category": "faq"
+        },
+        {
+            "qid": 742,
+            "retrieve": 575,
+            "category": "faq"
+        },
+        {
+            "qid": 743,
+            "retrieve": 44,
+            "category": "faq"
+        },
+        {
+            "qid": 744,
+            "retrieve": 205,
+            "category": "faq"
+        },
+        {
+            "qid": 745,
+            "retrieve": 551,
+            "category": "faq"
+        },
+        {
+            "qid": 746,
+            "retrieve": 100,
+            "category": "faq"
+        },
+        {
+            "qid": 747,
+            "retrieve": 140,
+            "category": "faq"
+        },
+        {
+            "qid": 748,
+            "retrieve": 555,
+            "category": "faq"
+        },
+        {
+            "qid": 749,
+            "retrieve": 479,
+            "category": "faq"
+        },
+        {
+            "qid": 750,
+            "retrieve": 466,
+            "category": "faq"
+        },
+        {
+            "qid": 751,
+            "retrieve": 103,
+            "category": "faq"
+        },
+        {
+            "qid": 752,
+            "retrieve": 306,
+            "category": "faq"
+        },
+        {
+            "qid": 753,
+            "retrieve": 422,
+            "category": "faq"
+        },
+        {
+            "qid": 754,
+            "retrieve": 297,
+            "category": "faq"
+        },
+        {
+            "qid": 755,
+            "retrieve": 36,
+            "category": "faq"
+        },
+        {
+            "qid": 756,
+            "retrieve": 93,
+            "category": "faq"
+        },
+        {
+            "qid": 757,
+            "retrieve": 491,
+            "category": "faq"
+        },
+        {
+            "qid": 758,
+            "retrieve": 576,
+            "category": "faq"
+        },
+        {
+            "qid": 759,
+            "retrieve": 406,
+            "category": "faq"
+        },
+        {
+            "qid": 760,
+            "retrieve": 281,
+            "category": "faq"
+        },
+        {
+            "qid": 761,
+            "retrieve": 434,
+            "category": "faq"
+        },
+        {
+            "qid": 762,
+            "retrieve": 60,
+            "category": "faq"
+        },
+        {
+            "qid": 763,
+            "retrieve": 285,
+            "category": "faq"
+        },
+        {
+            "qid": 764,
+            "retrieve": 596,
+            "category": "faq"
+        },
+        {
+            "qid": 765,
+            "retrieve": 464,
+            "category": "faq"
+        },
+        {
+            "qid": 766,
+            "retrieve": 437,
+            "category": "faq"
+        },
+        {
+            "qid": 767,
+            "retrieve": 453,
+            "category": "faq"
+        },
+        {
+            "qid": 768,
+            "retrieve": 531,
+            "category": "faq"
+        },
+        {
+            "qid": 769,
+            "retrieve": 438,
+            "category": "faq"
+        },
+        {
+            "qid": 770,
+            "retrieve": 66,
+            "category": "faq"
+        },
+        {
+            "qid": 771,
+            "retrieve": 349,
+            "category": "faq"
+        },
+        {
+            "qid": 772,
+            "retrieve": 201,
+            "category": "faq"
+        },
+        {
+            "qid": 773,
+            "retrieve": 291,
+            "category": "faq"
+        },
+        {
+            "qid": 774,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 775,
+            "retrieve": 41,
+            "category": "faq"
+        },
+        {
+            "qid": 776,
+            "retrieve": 7,
+            "category": "faq"
+        },
+        {
+            "qid": 777,
+            "retrieve": 148,
+            "category": "faq"
+        },
+        {
+            "qid": 778,
+            "retrieve": 562,
+            "category": "faq"
+        },
+        {
+            "qid": 779,
+            "retrieve": 462,
+            "category": "faq"
+        },
+        {
+            "qid": 780,
+            "retrieve": 338,
+            "category": "faq"
+        },
+        {
+            "qid": 781,
+            "retrieve": 532,
+            "category": "faq"
+        },
+        {
+            "qid": 782,
+            "retrieve": 256,
+            "category": "faq"
+        },
+        {
+            "qid": 783,
+            "retrieve": 121,
+            "category": "faq"
+        },
+        {
+            "qid": 784,
+            "retrieve": 314,
+            "category": "faq"
+        },
+        {
+            "qid": 785,
+            "retrieve": 84,
+            "category": "faq"
+        },
+        {
+            "qid": 786,
+            "retrieve": 90,
+            "category": "faq"
+        },
+        {
+            "qid": 787,
+            "retrieve": 583,
+            "category": "faq"
+        },
+        {
+            "qid": 788,
+            "retrieve": 222,
+            "category": "faq"
+        },
+        {
+            "qid": 789,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 790,
+            "retrieve": 588,
+            "category": "faq"
+        },
+        {
+            "qid": 791,
+            "retrieve": 412,
+            "category": "faq"
+        },
+        {
+            "qid": 792,
+            "retrieve": 200,
+            "category": "faq"
+        },
+        {
+            "qid": 793,
+            "retrieve": 38,
+            "category": "faq"
+        },
+        {
+            "qid": 794,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 795,
+            "retrieve": 446,
+            "category": "faq"
+        },
+        {
+            "qid": 796,
+            "retrieve": 299,
+            "category": "faq"
+        },
+        {
+            "qid": 797,
+            "retrieve": 135,
+            "category": "faq"
+        },
+        {
+            "qid": 798,
+            "retrieve": 274,
+            "category": "faq"
+        },
+        {
+            "qid": 799,
+            "retrieve": 352,
+            "category": "faq"
+        },
+        {
+            "qid": 800,
+            "retrieve": 206,
+            "category": "faq"
+        },
+        {
+            "qid": 801,
+            "retrieve": 593,
+            "category": "faq"
+        },
+        {
+            "qid": 802,
+            "retrieve": 505,
+            "category": "faq"
+        },
+        {
+            "qid": 803,
+            "retrieve": 388,
+            "category": "faq"
+        },
+        {
+            "qid": 804,
+            "retrieve": 13,
+            "category": "faq"
+        },
+        {
+            "qid": 805,
+            "retrieve": 574,
+            "category": "faq"
+        },
+        {
+            "qid": 806,
+            "retrieve": 40,
+            "category": "faq"
+        },
+        {
+            "qid": 807,
+            "retrieve": 35,
+            "category": "faq"
+        },
+        {
+            "qid": 808,
+            "retrieve": 533,
+            "category": "faq"
+        },
+        {
+            "qid": 809,
+            "retrieve": 305,
+            "category": "faq"
+        },
+        {
+            "qid": 810,
+            "retrieve": 97,
+            "category": "faq"
+        },
+        {
+            "qid": 811,
+            "retrieve": 269,
+            "category": "faq"
+        },
+        {
+            "qid": 812,
+            "retrieve": 32,
+            "category": "faq"
+        },
+        {
+            "qid": 813,
+            "retrieve": 98,
+            "category": "faq"
+        },
+        {
+            "qid": 814,
+            "retrieve": 212,
+            "category": "faq"
+        },
+        {
+            "qid": 815,
+            "retrieve": 341,
+            "category": "faq"
+        },
+        {
+            "qid": 816,
+            "retrieve": 142,
+            "category": "faq"
+        },
+        {
+            "qid": 817,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 818,
+            "retrieve": 408,
+            "category": "faq"
+        },
+        {
+            "qid": 819,
+            "retrieve": 86,
+            "category": "faq"
+        },
+        {
+            "qid": 820,
+            "retrieve": 461,
+            "category": "faq"
+        },
+        {
+            "qid": 821,
+            "retrieve": 483,
+            "category": "faq"
+        },
+        {
+            "qid": 822,
+            "retrieve": 74,
+            "category": "faq"
+        },
+        {
+            "qid": 823,
+            "retrieve": 67,
+            "category": "faq"
+        },
+        {
+            "qid": 824,
+            "retrieve": 259,
+            "category": "faq"
+        },
+        {
+            "qid": 825,
+            "retrieve": 591,
+            "category": "faq"
+        },
+        {
+            "qid": 826,
+            "retrieve": 535,
+            "category": "faq"
+        },
+        {
+            "qid": 827,
+            "retrieve": 236,
+            "category": "faq"
+        },
+        {
+            "qid": 828,
+            "retrieve": 534,
+            "category": "faq"
+        },
+        {
+            "qid": 829,
+            "retrieve": 2,
+            "category": "faq"
+        },
+        {
+            "qid": 830,
+            "retrieve": 404,
+            "category": "faq"
+        },
+        {
+            "qid": 831,
+            "retrieve": 145,
+            "category": "faq"
+        },
+        {
+            "qid": 832,
+            "retrieve": 81,
+            "category": "faq"
+        },
+        {
+            "qid": 833,
+            "retrieve": 326,
+            "category": "faq"
+        },
+        {
+            "qid": 834,
+            "retrieve": 542,
+            "category": "faq"
+        },
+        {
+            "qid": 835,
+            "retrieve": 268,
+            "category": "faq"
+        },
+        {
+            "qid": 836,
+            "retrieve": 374,
+            "category": "faq"
+        },
+        {
+            "qid": 837,
+            "retrieve": 214,
+            "category": "faq"
+        },
+        {
+            "qid": 838,
+            "retrieve": 357,
+            "category": "faq"
+        },
+        {
+            "qid": 839,
+            "retrieve": 451,
+            "category": "faq"
+        },
+        {
+            "qid": 840,
+            "retrieve": 168,
+            "category": "faq"
+        },
+        {
+            "qid": 841,
+            "retrieve": 58,
+            "category": "faq"
+        },
+        {
+            "qid": 842,
+            "retrieve": 490,
+            "category": "faq"
+        },
+        {
+            "qid": 843,
+            "retrieve": 120,
+            "category": "faq"
+        },
+        {
+            "qid": 844,
+            "retrieve": 230,
+            "category": "faq"
+        },
+        {
+            "qid": 845,
+            "retrieve": 307,
+            "category": "faq"
+        },
+        {
+            "qid": 846,
+            "retrieve": 112,
+            "category": "faq"
+        },
+        {
+            "qid": 847,
+            "retrieve": 457,
+            "category": "faq"
+        },
+        {
+            "qid": 848,
+            "retrieve": -1,
+            "category": "faq"
+        },
+        {
+            "qid": 849,
+            "retrieve": 77,
+            "category": "faq"
+        },
+        {
+            "qid": 850,
+            "retrieve": 429,
+            "category": "faq"
+        },
+        {
+            "qid": 851,
+            "retrieve": 164,
+            "category": "faq"
+        },
+        {
+            "qid": 852,
+            "retrieve": 8,
+            "category": "faq"
+        },
+        {
+            "qid": 853,
+            "retrieve": 322,
+            "category": "faq"
+        },
+        {
+            "qid": 854,
+            "retrieve": 528,
+            "category": "faq"
+        },
+        {
+            "qid": 855,
+            "retrieve": 165,
+            "category": "faq"
+        },
+        {
+            "qid": 856,
+            "retrieve": 484,
+            "category": "faq"
+        },
+        {
+            "qid": 857,
+            "retrieve": 612,
+            "category": "faq"
+        },
+        {
+            "qid": 858,
+            "retrieve": 343,
+            "category": "faq"
+        },
+        {
+            "qid": 859,
+            "retrieve": 65,
+            "category": "faq"
+        },
+        {
+            "qid": 860,
+            "retrieve": 136,
+            "category": "faq"
+        },
+        {
+            "qid": 861,
+            "retrieve": 344,
+            "category": "faq"
+        },
+        {
+            "qid": 862,
+            "retrieve": 254,
+            "category": "faq"
+        },
+        {
+            "qid": 863,
+            "retrieve": 445,
+            "category": "faq"
+        },
+        {
+            "qid": 864,
+            "retrieve": 311,
+            "category": "faq"
+        },
+        {
+            "qid": 865,
+            "retrieve": 581,
+            "category": "faq"
+        },
+        {
+            "qid": 866,
+            "retrieve": 107,
+            "category": "faq"
+        },
+        {
+            "qid": 867,
+            "retrieve": 584,
+            "category": "faq"
+        },
+        {
+            "qid": 868,
+            "retrieve": 425,
+            "category": "faq"
+        },
+        {
+            "qid": 869,
+            "retrieve": 296,
+            "category": "faq"
+        },
+        {
+            "qid": 870,
+            "retrieve": 157,
+            "category": "faq"
+        },
+        {
+            "qid": 871,
+            "retrieve": 196,
+            "category": "faq"
+        },
+        {
+            "qid": 872,
+            "retrieve": 159,
+            "category": "faq"
+        },
+        {
+            "qid": 873,
+            "retrieve": 244,
+            "category": "faq"
+        },
+        {
+            "qid": 874,
+            "retrieve": 594,
+            "category": "faq"
+        },
+        {
+            "qid": 875,
+            "retrieve": 601,
+            "category": "faq"
+        },
+        {
+            "qid": 876,
+            "retrieve": 353,
+            "category": "faq"
+        },
+        {
+            "qid": 877,
+            "retrieve": 55,
+            "category": "faq"
+        },
+        {
+            "qid": 878,
+            "retrieve": 407,
+            "category": "faq"
+        },
+        {
+            "qid": 879,
+            "retrieve": 300,
+            "category": "faq"
+        },
+        {
+            "qid": 880,
+            "retrieve": 78,
+            "category": "faq"
+        },
+        {
+            "qid": 881,
+            "retrieve": 488,
+            "category": "faq"
+        },
+        {
+            "qid": 882,
+            "retrieve": 521,
+            "category": "faq"
+        },
+        {
+            "qid": 883,
+            "retrieve": 503,
+            "category": "faq"
+        },
+        {
+            "qid": 884,
+            "retrieve": 560,
+            "category": "faq"
+        },
+        {
+            "qid": 885,
+            "retrieve": 64,
+            "category": "faq"
+        },
+        {
+            "qid": 886,
+            "retrieve": 502,
+            "category": "faq"
+        },
+        {
+            "qid": 887,
+            "retrieve": 529,
+            "category": "faq"
+        },
+        {
+            "qid": 888,
+            "retrieve": 371,
+            "category": "faq"
+        },
+        {
+            "qid": 889,
+            "retrieve": 595,
+            "category": "faq"
+        },
+        {
+            "qid": 890,
+            "retrieve": 231,
+            "category": "faq"
+        },
+        {
+            "qid": 891,
+            "retrieve": 518,
+            "category": "faq"
+        },
+        {
+            "qid": 892,
+            "retrieve": 75,
+            "category": "faq"
+        },
+        {
+            "qid": 893,
+            "retrieve": 384,
+            "category": "faq"
+        },
+        {
+            "qid": 894,
+            "retrieve": 106,
+            "category": "faq"
+        },
+        {
+            "qid": 895,
+            "retrieve": 416,
+            "category": "faq"
+        },
+        {
+            "qid": 896,
+            "retrieve": 235,
+            "category": "faq"
+        },
+        {
+            "qid": 897,
+            "retrieve": 85,
+            "category": "faq"
+        },
+        {
+            "qid": 898,
+            "retrieve": 613,
+            "category": "faq"
+        },
+        {
+            "qid": 899,
+            "retrieve": 420,
+            "category": "faq"
+        },
+        {
+            "qid": 900,
+            "retrieve": 391,
+            "category": "faq"
+        }
+    ]
+}

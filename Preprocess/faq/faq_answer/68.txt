@@ -1,0 +1,7 @@
+Question: 可以至玉山銀行臨櫃將 PayPal 款項提領出來嗎？
+Answers: 不可以
+Question: PayPal 提領服務可以透過哪些網路平台操作？
+Answers: [玉山個人網路銀行](https://ebank.esunbank.com.tw/index.jsp)
+Answers: [玉山行動銀行APP](https://event.esunbank.com.tw/mkt/iphone/itunesdown_track.htm)
+Answers: [玉山全球智匯網](https://gib.esunbank.com/)
+Answers: [跨行提領專區](https://cpp.esunbank.com.tw/pps/pps08000/PPS08000_Home.faces#a2)

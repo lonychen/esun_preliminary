@@ -1,0 +1,10 @@
+Question: 如何查詢歷史的消費明細?
+Answers: 網路銀行
+Answers: 行動銀行
+Answers: 玉山Wallet
+Question: 網路銀行可以查詢多久的消費明細?
+Answers: 近一年
+Question: 行動銀行查詢消費明細的路徑是什麼?
+Answers: 登入行動銀行→帳務服務→信用卡→刷卡明細
+Question: 玉山Wallet查詢消費明細的步驟是什麼?
+Answers: 登入玉山Wallet→帳務→查看明細

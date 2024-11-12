@@ -1,0 +1,8 @@
+Question: 網路投保時如何進行身分驗證?
+Answers: 採用「簡訊密碼」方式進行確認
+Question: 簡訊密碼有效期限是多久?
+Answers: 依規限制一定秒數內有效
+Question: 簡訊密碼發送到哪裡?
+Answers: 您於玉山銀行留存的手機號碼
+Question: 完成簡訊密碼驗證後可以做什麼?
+Answers: 進行後續網路投保作業

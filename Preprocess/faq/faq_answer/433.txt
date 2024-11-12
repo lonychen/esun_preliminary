@@ -1,0 +1,6 @@
+Question: 可以透過哪些方式開發信用狀？
+Answers: 臨櫃辦理
+Answers: 玉山收付通(CMS)
+Answers: 玉山全球智匯網
+Question: 玉山收付通(CMS)和玉山全球智匯網有什麼功能？
+Answers: 提供歷史資料查詢，方便進行開狀與修狀。

@@ -1,0 +1,8 @@
+Question: 申請網路金融卡收款需要哪些文件?
+Answers: [申請書。](~/link.aspx?_id=3BF4BFEA38964F9CAF448D3E900B51EF&_z=z?tabid=tab05#tab-E)
+Answers: 政府機關核准登記證照或核准設立文件。
+Answers: 代表人身分證正反面影本。
+Question: 辦理網路金融卡收款需要什麼條件?
+Answers: 需有本行臺幣帳戶之公司戶，攜帶公司大小章與上述文件至鄰近分行即可辦理。
+Question: 申請網路金融卡收款時，需要攜帶什麼?
+Answers: 公司大小章與上述文件

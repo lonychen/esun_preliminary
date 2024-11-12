@@ -1,0 +1,6 @@
+Question: 手機、Email驗證超過限制次數應如何處理?
+Answers: 請於隔日(逾24:00)再重新驗證。
+Question: 簡訊、Email驗證碼每日可發送幾次?
+Answers: 5次
+Question: 簡訊、Email驗證碼錯誤可嘗試幾次?
+Answers: 3次

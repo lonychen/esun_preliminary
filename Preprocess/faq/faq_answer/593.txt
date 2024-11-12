@@ -1,0 +1,8 @@
+Question: 小朋友的保險規劃需求有哪些?
+Answers: 教育基金、醫療保障
+Question: 玉山銀行提供哪些類型的保險產品?
+Answers: 傳統型保險、醫療保險、投資型保險
+Question: 如何獲得針對小朋友的保險規劃建議?
+Answers: 洽本行理財專員
+Question: 哪裡可以找到更多關於玉山銀行保險產品的資訊?
+Answers: [保險－產品櫥窗](https://www.esunbank.com.tw/bank/personal/insurance/product)

@@ -1,0 +1,18 @@
+Question: 投資海外債券需要考慮哪些風險?
+Answers: 信用風險 (Credit Risk)
+Answers: 流動性風險 (Liquidity Risk)
+Answers: 最低收益風險 (Minimum Return risk)
+Answers: 委託人兼受益人提前贖回的風險 (Early Redemption Risk)
+Answers: 利率/價格風險 (Interest Rate Risk)
+Answers: 匯率風險 (Exchange Rate Risk)
+Answers: 事件風險 (Event Risk)
+Answers: 國家風險 (Country Risk)
+Answers: 交割風險 (Settlement Risk)
+Answers: 通貨膨脹風險 (Inflation Risk)
+Answers: 再投資風險 (Reinvestment Risk)
+Question: 投資海外債券的匯率風險是什麼?
+Answers: 匯率風險 (Exchange Rate Risk)
+Question: 投資海外債券時，為何要考慮國家風險?
+Answers: 國家風險 (Country Risk)
+Question: 什麼是投資海外債券的流動性風險?
+Answers: 流動性風險 (Liquidity Risk)

@@ -1,0 +1,6 @@
+Question: 為什麼會收到數位帳戶補件通知？
+Answers: 因您申請時提供的證件照片反光、模糊或畫面顯示不完整，以致於無法清楚辨識；或您上傳的證件資料有誤
+Question: 收到數位帳戶補件通知後應該怎麼做？
+Answers: 請在3日內完成補件以維護您的權益，謝謝。
+Question: 數位帳戶補件的申請連結在哪裡？
+Answers: [補件申請](https://www.esunbank.com.tw/s/OpenAccount/?ven=faq)

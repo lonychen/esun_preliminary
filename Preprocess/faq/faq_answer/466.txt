@@ -1,0 +1,12 @@
+Question: 玉山e指信貸的最長借款期限是多久？
+Answers: 84期
+Question: 玉山e指信貸最高可以申請多少錢？
+Answers: 300萬元
+Question: 玉山e指信貸的貸款費用和利率是怎麼決定的？
+Answers: 依各專案內容而定
+Question: 實際借款額度是根據什麼來決定的？
+Answers: 顧客財力證明與信用狀況
+Question: 誰有最終決定是否核貸的權利？
+Answers: 本行
+Question: 玉山e指信貸的分期期數範圍是多少？
+Answers: 12~84期

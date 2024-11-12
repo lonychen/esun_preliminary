@@ -1,0 +1,8 @@
+Question: 是否必須申請網路銀行?
+Answers: 建議您申請網路銀行。
+Question: 為什麼要申請網路銀行?
+Answers: 為保障您的權益及隨時掌握帳戶資訊
+Question: 數位帳戶是否提供紙本存摺?
+Answers: 不提供紙本存摺
+Question: 簽帳金融卡的初始密碼如何獲得?
+Answers: 需透過網路銀行開卡來獲得初始密碼

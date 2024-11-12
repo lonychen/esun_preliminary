@@ -1,0 +1,10 @@
+Question: 旅行平安險有哪些商品?
+Answers: 國內旅遊 ETA（+EMR）
+Answers: 國外旅遊 SOTA（ETA+EMR+OHS）
+Question: 旅行平安險的國內旅遊商品包含哪些保險?
+Answers: 南山人壽網路投保旅行平安保險
+Answers: 南山人壽網路投保傷害醫療費用給付附加條款(可選擇附加)
+Question: 旅行平安險的國外旅遊商品包含哪些保險?
+Answers: 南山人壽網路投保旅行平安保險
+Answers: 南山人壽網路投保傷害醫療費用給付附加條款(可選擇附加)
+Answers: 南山人壽海外突發疾病醫療健康保險附加條款(可選擇附加)

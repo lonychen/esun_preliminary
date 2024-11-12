@@ -1,0 +1,6 @@
+Question: 如何進行退款給消費者？
+Answers: 透過玉山銀行兩岸支付通後臺或系統串接方式進行退款
+Question: 退款時使用的貨幣是什麼？
+Answers: 臺幣
+Question: 退款金額是如何計算的？
+Answers: 以臺幣金額自當期的交易金額中扣除

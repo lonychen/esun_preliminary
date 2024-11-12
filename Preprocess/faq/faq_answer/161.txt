@@ -1,0 +1,6 @@
+Question: MyData平台完成授權後沒收到成功通知，但收到補件通知的原因是什麼?
+Answers: 可能原因為政府機關的資料集維護中或系統傳輸問題
+Question: 若MyData平台取檔未成功，應如何處理?
+Answers: 再請您至信貸線上補件平台上傳相關財力文件即可
+Question: 使用MyData服務取得資料需要多久時間?
+Answers: 約需1-2小時

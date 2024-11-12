@@ -1,0 +1,7 @@
+Question: 信用貸款對保需要準備哪些資料?
+Answers: 身分證正本、第2證件（駕照或健保卡）及印鑑
+Question: 信用貸款對保可以透過哪些方式進行?
+Answers: 線上對保
+Answers: 至鄰近的分行對保
+Question: 線上對保需要準備哪些資料?
+Answers: 不用準備資料

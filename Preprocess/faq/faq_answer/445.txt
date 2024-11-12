@@ -1,0 +1,10 @@
+Question: 玉山Wallet電子支付綁定信用卡儲值付款可以使用信用卡紅利點數折抵嗎？
+Answers: 可以
+Question: 使用紅利點數折抵的比例是多少？
+Answers: 紅利每100點折抵6元消費
+Question: 紅利點數折抵的最高比例是多少？
+Answers: 最高折抵100%
+Question: 綁定信用卡儲值付款需要事先儲值嗎？
+Answers: 無須事先儲值
+Question: 使用紅利點數折抵後，消費或繳費是否接受部分退款？
+Answers: 恕不接受部分退款

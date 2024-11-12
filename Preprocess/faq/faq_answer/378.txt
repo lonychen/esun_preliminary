@@ -1,0 +1,6 @@
+Question: 撥款週期是多久?
+Answers: 交易日後五個工作天
+Question: 撥款幣別是什麼?
+Answers: 臺幣
+Question: 實際撥款週期是依據什麼決定?
+Answers: 雙方約定

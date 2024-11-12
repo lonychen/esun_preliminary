@@ -1,0 +1,5 @@
+Question: 什麼是「加入Siri」功能？
+Answers: 允許您透過Siri呼叫行動銀行的特定服務
+Question: 「加入Siri」功能可以用在哪些服務上？
+Answers: 臺幣轉帳
+Answers: 外匯匯率

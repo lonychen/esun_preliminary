@@ -1,0 +1,8 @@
+Question: 是否還會收到信用卡帳單?
+Answers: 會
+Question: 綜合對帳單是否包含信用卡帳單資訊?
+Answers: 未包含
+Question: 信用卡帳單和綜合對帳單是否一起寄送?
+Answers: 分開寄送
+Question: 信用卡帳單寄送方式是否會變更?
+Answers: 仍會依您原信用卡約定的方式寄送

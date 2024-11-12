@@ -1,0 +1,6 @@
+Question: 每月定額保險費的宣告利率與投保時的宣告利率是否相同?
+Answers: 不一定
+Question: 宣告利率是在什麼時候宣告?
+Answers: 本契約生效日或各保單週年日相當日之當月
+Question: 宣告利率是否為固定?
+Answers: 不是

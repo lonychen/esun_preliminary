@@ -1,0 +1,4 @@
+Question: 每人能申請幾個玉山臺幣數位帳戶？
+Answers: 兩個
+Question: 每人能申請幾個玉山外幣數位帳戶？
+Answers: 兩個

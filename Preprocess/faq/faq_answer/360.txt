@@ -1,0 +1,6 @@
+Question: 海外ETF/股票有哪些投資市場可提供選擇?
+Answers: 美國、香港、滬港通及深港通(限專業投資人)
+Question: 海外ETF/股票投資是否限定專業投資人?
+Answers: 深港通(限專業投資人)
+Question: 海外ETF/股票投資提供幾個市場選擇?
+Answers: 四個市場

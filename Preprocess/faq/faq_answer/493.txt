@@ -1,0 +1,8 @@
+Question: 是否可以委託他人代為開戶?
+Answers: 不可以
+Question: 開戶需要攜帶哪些文件?
+Answers: 身分證正本
+Answers: 第二證件正本
+Answers: 印鑑
+Question: 如果不能親自到分行開戶，有什麼其他辦法?
+Answers: 使用[線上開戶](https://www.esunbank.com.tw/event/OpenAccount/marketing/index.html?ven=account_faq#apply)服務

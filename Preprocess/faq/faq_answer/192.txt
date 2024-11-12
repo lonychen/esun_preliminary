@@ -1,0 +1,6 @@
+Question: 外幣結匯交易申報書電子簽章可以用哪些方式進行身分驗證?
+Answers: 「玉山銀行IXML憑證」、「自然人憑證」及「工商憑證」
+Question: 外幣結匯交易申報書電子簽章的身分驗證方式中，包含哪些憑證?
+Answers: 玉山銀行IXML憑證
+Answers: 自然人憑證
+Answers: 工商憑證

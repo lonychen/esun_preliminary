@@ -1,0 +1,8 @@
+Question: 旅行平安保險的投保流程包含哪些步驟?
+Answers: 玉山網路投保註冊&rarr;保費試算&rarr;要保資料填寫&rarr;要保資料確認&rarr;繳費資料填寫&rarr;隨機電話訪問&rarr;保險公司核保扣款成功&rarr;完成投保(出單)
+Question: 旅行平安保險投保後的最後一個步驟是什麼?
+Answers: 完成投保(出單)
+Question: 旅行平安保險投保過程中，哪個步驟涉及到隨機電話訪問?
+Answers: 隨機電話訪問
+Question: 旅行平安保險的詳細商品介紹在哪裡可以找到?
+Answers: [【詳細旅平險的商品介紹】](~/link.aspx?_id=1E8A16D5795C42D9926A5D358701BE20&_z=z)

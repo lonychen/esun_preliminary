@@ -1,0 +1,9 @@
+Question: 已有本行臨櫃帳戶是否可以再申請數位帳戶？
+Answers: 可以
+Question: 申請數位帳戶需要滿足哪些條件？
+Answers: 三個月內無本行銷戶記錄
+Question: 申請數位帳戶時可以使用哪些驗證方式？
+Answers: 自然人憑證
+Answers: 本行網銀(且簡訊密碼服務需為臨櫃申請)
+Answers: 他行臨櫃帳戶
+Answers: 玉山信用卡(持正卡滿半年)

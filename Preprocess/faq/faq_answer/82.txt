@@ -1,0 +1,8 @@
+Question: 辦理網路投保需要填寫e-mail嗎?
+Answers: 務必留存正確電子郵件信箱
+Question: 為什麼辦理網路投保需要提供e-mail?
+Answers: 本行或保險公司將透過e-mail寄送重要資訊
+Question: 辦理網路投保後需要注意什麼?
+Answers: 於投保後特別留意相關信件
+Question: 使用免費電子郵件信箱辦理網路投保需要注意什麼?
+Answers: 請特別留意是否誤判為垃圾郵件

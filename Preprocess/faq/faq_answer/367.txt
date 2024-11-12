@@ -1,0 +1,4 @@
+Question: 使用IE 11瀏覽WebATM時遇到的問題是什麼?
+Answers: 如果您的IE瀏覽器將 "esunbank.com.tw" 加入相容性檢視，將導致無法正常瀏覽玉山WebATM網頁
+Question: 如何檢查並解決IE 11瀏覽WebATM網頁的問題?
+Answers: IE瀏覽器右上角選取 [工具] → [相容性檢視設定] ，如"esunbank.com.tw"已被新增至 [相容性檢視]的網站，請移除或改用其他瀏覽器。

@@ -1,0 +1,8 @@
+Question: 玉山網路銀行何時可以開始使用?
+Answers: 本行存戶或信用卡卡友，可至本行官網申請網路銀行服務，並開始使用。
+Question: 若在臨櫃申請網路銀行，需要在多久內完成線上啟用?
+Answers: 請於申請後180天內透過存戶線上申請設定使用者名稱、使用者密碼。
+Question: 若臨櫃申請後未在180天內線上啟用會怎樣?
+Answers: 系統將自動暫停網路銀行會員資格，暫停後若需使用，請重新申請。
+Question: 如何註銷玉山網路銀行服務?
+Answers: 請於[訪客留言板](https://www.esunbank.com.tw/bank/about/services/customer/message-board)留言，將有專人為您服務。

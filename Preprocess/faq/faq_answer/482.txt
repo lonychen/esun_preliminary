@@ -1,0 +1,8 @@
+Question: 預借現金手續費如何計算?
+Answers: 參考以下國際組織品牌手續費率表
+Question: VISA國外以新臺幣交易的手續費率是多少?
+Answers: 1.5%(2016年10月14日(含)前為1.3%)
+Question: MasterCard適用國外刷卡之外幣交易的手續費率是多少?
+Answers: 1.5%
+Question: JCB國外以新臺幣交易的手續費率有變動嗎?
+Answers: 沒有，一直是1.5%

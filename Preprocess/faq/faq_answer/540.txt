@@ -1,0 +1,10 @@
+Question: 收到補件通知後應如何操作?
+Answers: 收到補件通知後3日內，點擊簡訊或Email內的連結，並於網頁中輸入申請時留存的身分證字號、出生年月日與手機號碼，便可依畫面指示完成補件。
+Question: 補件需要在多久內完成?
+Answers: 3日內
+Question: 補件時需要哪些資訊?
+Answers: 身分證字號
+Answers: 出生年月日
+Answers: 手機號碼
+Question: 補件的網頁連結在哪裡?
+Answers: [補件申請](https://www.esunbank.com.tw/s/OpenAccount/?ven=faq)

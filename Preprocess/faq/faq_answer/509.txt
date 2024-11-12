@@ -1,0 +1,9 @@
+Question: 如何開始使用玉山銀行的網路銀行服務？
+Answers: 存戶線上申請
+Answers: 信用卡線上申請
+Question: 存戶如何申請玉山銀行的網路銀行服務？
+Answers: 以本行「晶片金融卡 + 讀卡機」或「語音OTP」線上申請
+Answers: 持本行晶片金融卡至本行ATM點選「申請網銀/忘記密碼驗證碼」
+Answers: 使用[線上開戶](https://www.esunbank.com.tw/event/OpenAccount/marketing/index.html?ven=netbank_faq#apply)服務完成申請
+Question: 信用卡持有者如何申請玉山銀行的網路銀行服務？
+Answers: 以本行信用卡(正卡)線上申請，只要有 E-mail 並輸入個人驗證資料

@@ -1,0 +1,8 @@
+Question: 金融卡遺失後如何補換發?
+Answers: 請本人攜帶身分證、第二證件及印鑑至分行完成轉換一般存款帳戶後方可補換發金融卡，將酌收手續費100元。
+Question: 補換發金融卡需要哪些文件?
+Answers: 身分證
+Answers: 第二證件
+Answers: 印鑑
+Question: 補換發金融卡需要支付多少手續費?
+Answers: 100元

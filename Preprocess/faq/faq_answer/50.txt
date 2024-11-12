@@ -1,0 +1,6 @@
+Question: 每個身分證字號可以設定幾個LINE帳號?
+Answers: 一個
+Question: 如果想更換LINE帳號接收通知訊息，應該怎麼做?
+Answers: 重新設定個人化通知服務
+Question: 更換LINE帳號接收通知後，原帳號會發生什麼情況?
+Answers: 原設定之LINE帳號將無法再收到您的通知訊息

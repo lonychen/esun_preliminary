@@ -1,0 +1,8 @@
+Question: 如何得知基金的最新淨值報價？
+Answers: 顧客可透過[本行網頁](https://www.esunbank.com.tw/bank/personal/wealth/fund)、[行動銀行](https://www.esunbank.com.tw/bank/digital/life/mobile/mobile-bank)、相關網站、報紙刊登之資料查詢，或電詢基金公司。
+Question: 哪些渠道可以查詢基金最新淨值報價？
+Answers: [本行網頁](https://www.esunbank.com.tw/bank/personal/wealth/fund)
+Answers: [行動銀行](https://www.esunbank.com.tw/bank/digital/life/mobile/mobile-bank)
+Answers: 相關網站
+Answers: 報紙刊登之資料
+Answers: 電詢基金公司

@@ -1,0 +1,8 @@
+Question: 若作業系統/瀏覽器未達玉山銀行要求，應如何處理?
+Answers: 建議升級您的作業系統或是瀏覽器
+Question: 玉山銀行對Windows作業系統的最低要求是什麼?
+Answers: Windows 7 (含)以上版本之微軟作業系統。
+Question: 對於Mac作業系統，玉山銀行有何要求?
+Answers: Mac OS 10.11版本以上之作業系統。
+Question: 玉山銀行建議的瀏覽器版本有哪些?
+Answers: Microsoft IE 11以上 / Mozilla Firefox 68以上 / Google Chrome 65以上 / Safari 10以上。

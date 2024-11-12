@@ -1,0 +1,12 @@
+Question: 哪些電信商的用戶需要進行人工審核?
+Answers: 中華電信、台灣大哥大、台灣之星、遠傳電信、亞太電信以外電信商
+Question: 進行人工審核需要提供哪些資料?
+Answers: 身分證正、反面
+Answers: 本人持身分證正面合照
+Answers: 本人所使用之近三個月內任一期電信帳單（須包含姓名與手機號碼資訊）
+Question: 人工審核的資料應該如何提交?
+Answers: 郵寄至：ESUNPAY_cservice@esunbank.com
+Question: 人工審核的信件主旨應該是什麼?
+Answers: [玉山電子支付]行動電話驗證人工審核資料
+Question: 人工審核大約需要多久時間?
+Answers: 約5-7工作日

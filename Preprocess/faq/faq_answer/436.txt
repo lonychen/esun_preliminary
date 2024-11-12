@@ -1,0 +1,6 @@
+Question: 薪水多寡是否影響核貸額度?
+Answers: 是
+Question: 薪水與可貸額度的關係是什麼?
+Answers: 薪水高低與可貸額度成正比
+Question: DBR22倍規定是什麼?
+Answers: 個人無擔保負債（信貸、信用卡、現金卡）餘額不可以超過月薪的22倍

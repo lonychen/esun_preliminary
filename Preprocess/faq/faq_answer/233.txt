@@ -1,0 +1,5 @@
+Question: 玉山Wallet電子支付交易資訊保留多久？
+Answers: 近一年
+Question: 如何查詢玉山Wallet的交易資訊？
+Answers: 在玉山Wallet裡查詢
+Answers: 登入 [玉山電子支付網站](https://web.esunbank.com.tw/ECPay/WebPage/Login.aspx) 進行查詢

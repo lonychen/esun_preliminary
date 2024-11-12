@@ -1,0 +1,11 @@
+Question: 如何使用預借現金功能?
+Answers: 網路預借現金
+Answers: ATM預借現金
+Question: 網路預借現金需要多久時間完成申請?
+Answers: 3分鐘
+Question: 預借現金申請完成後，資金會撥入哪裡?
+Answers: 本人國內帳戶(限新臺幣)
+Question: ATM預借現金的服務時間是?
+Answers: 24小時
+Question: 預借現金功能的相關資訊在哪裡可以查看?
+Answers: [查看](https://www.esunbank.com.tw/bank/personal/credit-card/loan/cash-advance-atm)

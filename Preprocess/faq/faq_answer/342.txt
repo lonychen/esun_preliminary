@@ -1,0 +1,4 @@
+Question: 如何查詢 PayPal 跨行提領明細?
+Answers: 登入玉山全球通 PayPal 跨行提領專區，點選「提領明細查詢」，即可輸入查詢期間進行查詢。
+Question: 查詢 PayPal 跨行提領進度的查詢期間限制是什麼?
+Answers: 「其它期間」僅提供查詢起迄區間1年內的資料

@@ -1,0 +1,9 @@
+Question: 如何登錄道路救援服務?
+Answers: 網路銀行
+Answers: 信用卡官網
+Question: 道路救援服務登錄後多久生效?
+Answers: 約3個工作天
+Question: 道路救援服務的合作廠商是誰?
+Answers: 行遍天下
+Question: 需要救援時應該撥打哪個電話?
+Answers: 0800-011-885

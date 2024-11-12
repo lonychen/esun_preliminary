@@ -1,0 +1,10 @@
+Question: 玉山電子支付—跨境網購提供了什麼服務？
+Answers: 提供台灣消費者使用多元且熟悉的支付選項購買淘寶天貓、Google Play等跨境電商，顧客可依個人需求選擇以轉帳付款/超商繳費等多元方式付款，享受安全又便利的購物過程！
+Question: 玉山電子支付跨境網購支援哪些付款方式？
+Answers: 轉帳付款
+Answers: 超商繳費
+Question: 玉山電子支付跨境網購購物過程的特點是什麼？
+Answers: 安全又便利
+Question: 玉山電子支付跨境網購服務支援哪些跨境電商？
+Answers: 淘寶天貓
+Answers: Google Play

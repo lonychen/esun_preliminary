@@ -1,0 +1,6 @@
+Question: 如果有關於住宅補貼的其他問題，應該向哪裡詢問？
+Answers: 內政部營建署
+Question: 詢問住宅補貼問題的聯絡電話是多少？
+Answers: （02）8771-2345
+Question: 內政部營建署的官方網址是什麼？
+Answers: [內政部營建署網址](http://www.cpami.gov.tw/chinese/)

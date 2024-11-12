@@ -1,0 +1,12 @@
+Question: 信貸線上申請使用MyData服務會取得哪些資料?
+Answers: 1. 財政部財政資訊中心：個人所得資料。
+2. 衛福部健保署：個人投退保資料。
+3. 勞動部勞保局：勞工保險被保險人投保資料(明細)。
+Question: MyData服務可以取得哪些部門的資料?
+Answers: 財政部財政資訊中心
+Answers: 衛福部健保署
+Answers: 勞動部勞保局
+Question: 使用MyData服務申請信貸時，可以獲得個人哪些類型的資料?
+Answers: 個人所得資料
+Answers: 個人投退保資料
+Answers: 勞工保險被保險人投保資料(明細)

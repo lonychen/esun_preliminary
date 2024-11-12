@@ -1,0 +1,4 @@
+Question: 如何取消手機號碼轉帳服務?
+Answers: 若要取消「手機號碼收款服務」可至玉山行動銀行及個人網路銀行進行設定，相關操作流程請參考[說明頁面](https://www.esunbank.com.tw/event/member/phonetransfer/index.html#receive)。
+Question: 取消手機號碼轉帳服務後的影響是什麼?
+Answers: 註銷完成後，他人即無法透過此手機號碼轉入您設定的玉山帳號，若要重新申請，請至玉山行動銀行設定。

@@ -1,0 +1,6 @@
+Question: 已有銀行貸款還能再申請嗎？
+Answers: 可以的！
+Question: 申請再次貸款時，銀行會考慮哪些因素？
+Answers: 個人信用狀況
+Answers: 財資力狀況
+Answers: 還款能力

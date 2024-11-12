@@ -1,0 +1,8 @@
+Question: 個人信用貸款最高可以貸多少金額？
+Answers: 新臺幣300萬元
+Question: 個人信用貸款的最低利率是多少？
+Answers: 1.86%
+Question: 申請個人信用貸款需要哪些費用？
+Answers: 1,000元~8,000元
+Question: 個人信用貸款的最長期限是多久？
+Answers: 7年

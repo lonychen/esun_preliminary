@@ -1,0 +1,2 @@
+Question: 如何在Mac上安裝EZ-100PU讀卡機驅動程式?
+Answers: 請到虹堡科技網站下載Mac 驅動程式，依據說明(creadme.txt)執行ezusb_driver_setup安裝程式套件，重新開機後即可在Mac上使用這型讀卡機。

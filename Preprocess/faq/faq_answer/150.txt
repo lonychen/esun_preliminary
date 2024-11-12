@@ -1,0 +1,4 @@
+Question: 玉山電子支付帳戶提供哪些服務?
+Answers: 消費付款（含連結銀行帳戶付款、綁定信用卡儲值付款及餘額付款）、繳費、交易推播、跨境網購退款提領
+Question: 如何啟用玉山電子支付服務?
+Answers: 下載[玉山Wallet](Https://card.esunbank.com.tw/EsunCreditweb/txnservice/esunwallet/card?a=xxxx)並啟用電子支付服務

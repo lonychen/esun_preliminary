@@ -1,0 +1,4 @@
+Question: 如何將款項匯給國外親友？
+Answers: 提供受款人戶名、帳號、地址或電話、銀行名稱、分行代碼、地址、銀行 SWIFT CODE 等詳細英文資料。
+Question: 匯款至大陸地區需要提供哪些額外資料？
+Answers: 大額支付行號 CNAPS

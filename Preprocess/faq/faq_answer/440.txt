@@ -1,0 +1,2 @@
+Question: 如何查詢使用MyData服務提供玉山銀行取用個人資料的紀錄?
+Answers: 您可至MyData網站登入「我的個人專區」([https://mydata.nat.gov.tw/signin](https://mydata.nat.gov.tw/signin))，查詢個人資料使用紀錄。

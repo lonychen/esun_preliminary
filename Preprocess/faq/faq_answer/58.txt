@@ -1,0 +1,6 @@
+Question: 如何檢查讀卡機是否正常運作?
+Answers: 請將讀卡機插入電腦並於finder iconFinder中的應用程式->工具程式找到終端機，然後輸入 pcsctest 指令，如果所需的pcscd服務已經啟動，讀卡機驅動程式也正確安裝，將出現類似下面的畫面。
+Question: 執行哪個指令可以檢查讀卡機運作狀態?
+Answers: pcsctest
+Question: 讀卡機檢查指令執行後，如何確認讀卡機正常?
+Answers: 如果所需的pcscd服務已經啟動，讀卡機驅動程式也正確安裝，將出現類似下面的畫面。

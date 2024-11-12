@@ -1,0 +1,4 @@
+Question: 外幣定存有哪些期間選擇？
+Answers: 一個月、三個月、六個月、九個月、一年及畸零期一週、二週、三週
+Question: 外幣定存的利率如何查詢？
+Answers: 參閱[外幣存款利率表](~/link.aspx?_id=BBD82741F54F4D6DACC468CE99758B6A&_z=z)

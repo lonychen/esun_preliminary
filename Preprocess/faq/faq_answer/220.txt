@@ -1,0 +1,9 @@
+Question: 如何查詢信用卡繳款紀錄？
+Answers: 網路銀行
+Answers: 行動銀行
+Answers: 玉山Wallet
+Answers: 客服中心
+Question: 信用卡繳款紀錄可查詢的時間範圍是多久？
+Answers: 近半年
+Question: 透過客服中心查詢信用卡繳款紀錄需要什麼程序？
+Answers: 請點選[智能客服](https://esun.co/PfOKa)，輸入『信用卡繳款紀錄』，依指示輸入簡訊密碼驗證，驗證成功即可查詢

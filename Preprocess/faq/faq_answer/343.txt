@@ -1,0 +1,8 @@
+Question: 「玉山行動銀行」提供哪些服務條款?
+Answers: [玉山個人網路銀行暨行動銀行服務約定條款](/-/media/bf9188adede746a185467b01397d57c4.ashx)
+Answers: [個人資料運用法定告知事項](~/link.aspx?_id=77C4E9CC40044EE5984C81242CC0BCDF&_z=z)
+Answers: [顧客資料保密措施聲明](~/link.aspx?_id=4545ABEAA42A4444864626BCECFF5403&_z=z)
+Question: 「玉山行動銀行」的個人資料運用法定告知事項在哪裡可以找到?
+Answers: [個人資料運用法定告知事項](~/link.aspx?_id=77C4E9CC40044EE5984C81242CC0BCDF&_z=z)
+Question: 「玉山行動銀行」的顧客資料保密措施聲明有哪些內容?
+Answers: [顧客資料保密措施聲明](~/link.aspx?_id=4545ABEAA42A4444864626BCECFF5403&_z=z)

@@ -1,0 +1,12 @@
+Question: 信用卡受損或感應不良可以申請補換發嗎?
+Answers: 可以
+Question: 更改信用卡上的姓名需要提供什麼文件?
+Answers: 身分證或戶籍謄本影本
+Question: 信用卡補換發新卡的手續費是多少?
+Answers: 含電子票證功能之信用卡，換發手續費每卡 50 元。
+Question: 補換發新卡後，卡號會變動嗎?
+Answers: 毀損補發新卡卡號不變
+Question: 補換發新卡需要多久時間?
+Answers: 3~5 個工作天
+Question: 補換發新卡後，需要更新哪些資料?
+Answers: 卡片有效期、背後末 3 碼

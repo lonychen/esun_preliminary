@@ -1,0 +1,12 @@
+Question: 如何查詢信用卡的可用額度?
+Answers: 網路銀行
+Answers: 行動銀行
+Answers: 玉山Wallet
+Answers: 電話語音
+Answers: 客服中心
+Question: 撥打哪個電話號碼可以透過語音查詢信用卡的可用額度?
+Answers: (02)2182-1313
+Question: 查詢信用卡可用額度時需要哪些資訊?
+Answers: 正卡人信用卡卡號及身分證字號
+Question: 如何透過客服中心查詢信用卡的可用額度?
+Answers: 點選[智能客服](https://esun.co/PfOKa)，輸入『可用額度』，依指示輸入簡訊密碼驗證，驗證成功即可查詢可用額度。

@@ -1,0 +1,8 @@
+Question: 特店網站需要有什麼功能?
+Answers: 購物車功能
+Question: 特店網站有哪些不可以做為官網的平台?
+Answers: PChome、FB賣場等
+Question: 特店網站需要具備什麼技術能力?
+Answers: 網站串接能力
+Question: 特店網站需要有什麼網絡條件?
+Answers: 具有固定IP

@@ -1,0 +1,6 @@
+Question: 如何在LINE上查看通知訊息？
+Answers: 進入玉山LINE官方帳號，即可看到您的個人化通知訊息內容。
+Question: 查看LINE通知訊息的主要用途是什麼？
+Answers: 本服務僅為提醒之用
+Question: 如果需要查詢帳務相關資訊，應該去哪裡查詢？
+Answers: 請至本行[網路銀行](https://ebank.esunbank.com.tw/)或行動銀行查詢。

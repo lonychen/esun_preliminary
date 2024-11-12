@@ -1,0 +1,13 @@
+Question: 在Mac上使用玉山WebATM需要哪些基本條件?
+Answers: 1. Mac 作業系統：Mac OS X 10.11 以上版本之作業系統。
+2. 建議瀏覽器版本：使用Safari 10 以上 或 Mozilla Firefox 65版本。
+3. 讀卡機：相容於Mac OS X的晶片卡讀卡機，建議採用 CCID規格的讀卡機。
+4. 接妥讀卡機，並且在終端機用 pcsctest 指令確認讀卡機運作正常。
+Question: 使用玉山WebATM在Mac上需要哪個作業系統版本?
+Answers: Mac OS X 10.11 以上版本之作業系統
+Question: 玉山WebATM在Mac上推薦使用哪些瀏覽器版本?
+Answers: Safari 10 以上 或 Mozilla Firefox 65版本
+Question: 在Mac上使用玉山WebATM需要什麼樣的讀卡機?
+Answers: 相容於Mac OS X的晶片卡讀卡機，建議採用 CCID規格的讀卡機
+Question: 如何確認讀卡機在Mac上運作正常?
+Answers: 接妥讀卡機，並且在終端機用 pcsctest 指令確認讀卡機運作正常。

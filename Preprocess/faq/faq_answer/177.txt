@@ -1,0 +1,6 @@
+Question: 如何提領玉山電子支付帳戶餘額？
+Answers: 請下載[玉山Wallet](https://card.esunbank.com.tw/EsunCreditweb/txnservice/esunwallet/card?a=xxxx)並開通玉山電子支付服務，後續即可於玉山Wallet支付頁面點選「提領」，選擇已綁定提領帳戶，或選擇「其他帳戶」後直接輸入提領帳戶銀行及帳號進行提領，也歡迎直接使用電子支付帳戶中的餘項進行消費或繳費，詳見[可用通路](https://event.esunbank.com.tw/credit/1070425wallet/store.html)。
+Question: 提領玉山電子支付帳戶餘額需要哪些步驟？
+Answers: 下載玉山Wallet並開通玉山電子支付服務
+Answers: 於玉山Wallet支付頁面點選「提領」
+Answers: 選擇已綁定提領帳戶或「其他帳戶」並輸入提領帳戶銀行及帳號

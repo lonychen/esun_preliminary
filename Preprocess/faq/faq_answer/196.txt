@@ -1,0 +1,8 @@
+Question: 繳費交易的轉入帳號有什麼要求?
+Answers: 需為個人繳款之專屬帳號
+Question: 繳費交易對轉帳額度的影響是什麼?
+Answers: 不會佔用您的非約定轉帳額度
+Question: 轉出交易對轉帳額度有什麼影響?
+Answers: 將佔用您的轉帳額度
+Question: WebATM轉帳每日限額是多少?
+Answers: 非約定轉帳為3萬元，繳費交易為200萬元

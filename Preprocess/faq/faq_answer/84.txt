@@ -1,0 +1,8 @@
+Question: 玉山WebATM有轉帳金額限制嗎?
+Answers: 有
+Question: 玉山WebATM非約定小額轉帳的每日限額是多少?
+Answers: 3萬
+Question: 玉山WebATM約定轉帳的每日限額是多少?
+Answers: 200萬
+Question: 非約定小額轉帳的限額包括哪些通路?
+Answers: 所有通路(含自動櫃員機、於網路使用金融卡付款、MOD等)合併計算

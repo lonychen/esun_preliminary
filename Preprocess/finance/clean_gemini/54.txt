@@ -1,0 +1,178 @@
+**(二)尚未採用金管會認可之新發布、修正後國際財務報導準則之影響**
+
+下表彙列金管會認可之112 年適用之國際財務報導準則之新發布、修正及修訂之準則及解釋:
+
+- 國際會計準則第1號之修正「會計政策之揭露」：民國112年1月1日
+- 國際會計準則第8號之修正「會計估計之定義」：民國112年1月1日
+- 國際會計準則第12號之修正「與單一交易所產生之資產及負債有關之遞延所得稅」：民國112年1月1日
+
+本集團經評估上述準則及解釋對本集團財務狀況與財務績效並無重大影響。
+
+**(三)國際會計準則理事會已發布但尚未經金管會認可之國際財務報導準則之影響**
+
+下表彙列國際會計準則理事會已發布但尚未納入金管會認可之國際財務報導準則之新發布、修正及修訂之準則及解釋:
+
+- 國際財務報導準則第10號及國際會計準則第28號之修正「投資者與其關聯企業或合資間之資產出售或投入」：待國際會計準則理事會決定
+- 國際財務報導準則第16號之修正「售後租回中之租賃負債」：民國113年1月1日
+- 國際財務報導準則第17號「保險合約」：民國112年1月1日
+- 國際財務報導準則第17號之修正「初次適用國際財務報導準則第17號及國際財務報導準則第9號—比較資訊」：民國112年1月1日
+- 國際財務報導準則第17號「保險合約」之修正：民國112年1月1日
+- 國際會計準則第1號之修正「負債之流動或非流動分類」：民國112年1月1日
+
+本集團經評估上述準則及解釋對本集團財務狀況與財務績效並無重大影響。
+
+**四、重大會計政策之彙總說明**
+
+重大會計政策除遵循聲明、編製基礎、合併基礎及新增部分說明如下,餘與110年度合併財務報表附註四相同。除另有說明外,此等政策在所有報導期間一致地適用。
+
+**(一)遵循聲明**
+
+1. 本合併財務報告係依據證券發行人財務報告編製準則與金管會認可之國際會計準則第34號「期中財務報導」編製。
+2. 本合併財務報告應併同110 年度合併財務報告閱讀。
+
+**(二)編製基礎**
+
+1. 除下列重要項目外,本合併財務報告係按歷史成本編製:
+    (1)按公允價值衡量之按公允價值衡量之金融資產及負債(包括衍生工具)。
+    (2)按公允價值衡量之按公允價值衡量之金融資產。
+    (3)按退休基金資產減除確定福利義務現值之淨額認列之確定福利負債。
+2. 編製符合金管會認可之國際財務報導準則、國際會計準則、解釋及解釋公告(以下簡稱 IFRSs)之財務報告需要使用一些重要會計估計,在應用本集團的會計政策過程中亦需要管理階層運用其判斷,涉及高度判斷或複雜性之項目,或涉及合併財務報表之重大假設及估計之項目,請詳附註五說明。
+
+**(三)合併基礎**
+
+1. 合併財務報告編製原則
+    (1)本集團將所有子公司納入合併財務報告編製之個體。子公司指受本集團控制之個體(包括結構型個體),當本集團暴露於來自對該個體之參與之變動報酬或對該等變動報酬享有權利,且透過對該個體之權力有能力影響該等報酬時,本集團即控制該個體。子公司自本集團取得控制之日起納入合併財務報表,於喪失控制之日起終止合併。
+    (2)集團內公司間之交易、餘額及未實現損益業已銷除。子公司之會計政策與本集團採用之政策一致。
+    (3)損益及其他綜合損益各組成部分歸屬於母公司業主及非控制權益;綜合損益總額亦歸屬於母公司業主及非控制權益,即使因而導致非控制權益發生虧損餘額。
+    (4)對子公司持股之變動若未導致喪失控制(與非控制權益之交易),係作為權益交易處理,亦即視為與業主間進行之交易。非控制權益之調整金額與所支付或收取對價之公允價值間之差額係直接認列於權益。
+    (5)當集團喪失對子公司之控制,對前子公司之剩餘投資係按公允價值重新衡量,並作為原始認列金融資產之公允價值或原始認列投資關聯企業或合資之成本,公允價值與帳面金額之差額認列為當期損益。對於先前認列於其他綜合損益與該子公司有關之所有金額,其會計處理與本集團若直接處分相關資產或負債之基礎相同,亦即如先前認列為其他綜合損益之利益或損失,於處分相關資產或負債時將被重分類為損益,則當喪失對子公司之控制時,將該利益或損失自權益重分類為損益。
+
+
+2. 列入合併財務報告之子公司:
+
+- 111年9月30日 / 110年12月31日 / 110年9月30日
+以下列出各子公司名稱、業務性質以及母公司持股比例：
+
+1. 台達電子工業股份有限公司 → Delta International Holding Limited B. V. (DIH)：投資事業，100.00 / 100.00 / 100.00
+2.  → Delta Networks Holding Limited (DNH)：100.00 / 100.00 / 100.00
+3.  → Delta Electronics (Netherlands) B. V. (DEN)：經營電源、視訊、零組件、機電等產品及材料之買賣，100.00 / 100.00 / 100.00
+4.  → 乾坤科技股份有限公司(乾坤)：薄膜光電元件等之研究、開發、生產、製造與銷售，100.00 / 100.00 / 100.00
+5.  → 達爾生技股份有限公司(達爾)：醫療器材製造、批發與銷售，100.00 / 100.00 / 100.00 (註1)(註2)
+6.  → 台達資本股份有限公司(台達資本)：投資事業，100.00 / 100.00 / 100.00
+7.  → Delta Electronics Int'l (Singapore) Pte. Ltd. (DEIL-SG)：研發、經營及銷售電子產品，100.00 / 100.00 / 100.00
+8.  → 展茂光電股份有限公司(展茂)：租賃服務等，99.97 / 99.97 / - (註17)
+9. 台達電子工業股份有限公司、DEN → Delta America Ltd.(DAL)：投資事業，100.00 / 100.00 / 100.00
+10. DEN → Delta Electronics (H. K.) Ltd. (DHK)：投資事業及提供作業管理服務，100.00 / 100.00 / 100.00
+11. DIH → DEI Logistics(USA) Corp. (ALI)：提供海外發貨倉儲作業服務，100.00 / 100.00 / 100.00
+12. DIH → Delta Electronics (Japan), Inc. (DEJ)：經營電源、視訊、零組件、機電等產品及材料之買賣，100.00 / 100.00 / 100.00 (註1)(註2)
+13. DEN → Drake Investment (HK) Limited (Drake-HK)：投資事業，100.00 / 100.00 / 100.00
+14. DEIL-SG、Drake-HK、Boom → 中達電通股份有限公司(中達電通)：經營不斷電式電源供應器等電子產品之銷售業務，95.91 / 95.91 / 95.91
+15. DEN → Delta Greentech SGP Pte. Ltd. (DGSG)：投資事業，100.00 / 100.00 / 100.00
+16. DIH → Delta Electronics Europe Ltd. (DEU)：維修中心及提供支援服務，100.00 / 100.00 / 100.00 (註1)(註2)
+17. DEN → Boom Treasure Limited (Boom)：投資事業，100.00 / 100.00 / 100.00
+18. DHK → 台達電子(東莞)有限公司(台達電子東莞)：經營變壓器及散熱等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00
+19.  → 台達電子企業管理(上海)有限公司(台達企管)：產品外觀設計之技術服務及管理諮詢及各類電子產品分銷等業務，100.00 / 100.00 / 100.00
+20.  → 中達電子(江蘇)有限公司(中達江蘇)：經營變壓器及電源供應器等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00
+21.  → 中達電子(蕪湖)有限公司(中達蕪湖)：經營LED燈源及電源供應器等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00
+22. DHK → 台達電子(郴州)有限公司(台達電子郴州)：經營變壓器等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00
+23.  → 華豐電子科技(蕪湖)有限公司(華豐蕪湖)：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣;電子元器件製造;電子元器件批發;電子元器件零售;模具製造;模具銷售;鍛件及粉末冶金製品製造;鍛件及粉末冶金製品銷售、貨物進出口;技術進出口，100.00 / 100.00 / 100.00 (註2)
+24. DHK、DIH → Delta Electronics International Mexico S. A. DE C. V. (DEIL-MX)：工業自動化產品及通訊設備用電源管理系統之銷售，100.00 / 100.00 / 100.00 (註1)(註2)(註8)
+25. DHK → 達而泰(天津)實業有限公司(達而泰)：經營電壓控制器等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+26.  → 台達電子(平潭)有限公司(台達電子平潭)：電子產品、節能設備批發銷售等，100.00 / 100.00 / 100.00 (註1)(註2)
+27. DEJ → Addtron Technology (Japan), Inc. (AT Japan)：電腦網路及週邊設備之買賣，100.00 / 100.00 / 100.00 (註1)(註2)
+28.  → Delta Electronics (Korea), Inc. (Delta Korea)：經營電源、視訊、零組件、機電等產品及材料之買賣，100.00 / 100.00 / 100.00 (註1)(註2)
+29. 台達電子郴州 → 郴州台達科技有限公司(郴州台達科技)：經營變壓器等電子產品之製造及銷售業務，100.00 / 100.00 / 100.00
+30. 台達企管、中達電通 → 上海中達能源科技有限公司(上海中達能源)：合同能源管理、節能技術開發、節能設備及能源管理系統開發、諮詢服務及安裝銷售等，- / 100.00 / 100.00 (註2)(註18)
+31. DNH → Delta Networks, Inc. (DNI Cayman)：投資事業，100.00 / 100.00 / 100.00
+32. DNI Cayman → Delta Networks (HK) Limited (DNHK)：-，100.00 / 100.00 / 100.00
+33. DHK、DNHK/DNHK → 達創科技(東莞)有限公司(達創東莞)：其他無線電廣播接收器及寬頻接入網通信系統設備等產品製造及銷售業務，100.00 / 100.00 / 100.00 (註10)
+34. 乾坤 → Fairview Assets Ltd. (Fairview)：投資事業，100.00 / 100.00 / 100.00
+35. Fairview → Grandview Holding Ltd. (Grandview)：-，100.00 / 100.00 / 100.00
+36. Grandview → CYNTEC HOLDING (HK) LIMITED (CHK)：-，100.00 / 100.00 / 100.00
+37.  → Cyntec International Ltd. (CIL-Labuan)：貿易業，100.00 / 100.00 / 100.00
+38. CHK → 吳江華豐電子科技有限公司(華豐)：技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣,電子元器件製造,電子元器件批發,電子元器件零售,模具製造,模具銷售,鍛件及粉末冶金製品銷售，100.00 / 100.00 / 100.00 (註1)(註2)
+39. 達爾 → 蘇州爾達醫療設備有限公司(蘇州爾達)：醫療器材製造、批發與銷售，100.00 / 100.00 / 100.00 (註1)(註2)
+40. DIH → ELTEK AS：經營電源供應器等之研發及銷售業務，100.00 / 100.00 / 100.00
+41.  → Delta Controls Inc. (DCI)：提供樓宇管理與控制解決方案，100.00 / 100.00 / 100.00
+42.  → DELTA ELECTRONICS HOLDING (USA) INC.：投資事業，100.00 / 100.00 / 100.00 (註1)(註2)
+43. ELTEK AS → ELTEK PAKISTAN (PRIVATE) LIMITED：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+44.  → DELTA Electronics (Germany) GmbH：經營電源供應器等之銷售業務及系統建置業務，100.00 / 100.00 / 100.00 (註1)(註2)(註20)
+45. Delta Energy Systems (Singapore) PTE. LTD. → Delta Electronics (Australia) Pty Ltd：-，100.00 / 100.00 / 100.00 (註2)
+46. ELTEK AS → Eltek Egypt for Power Supply S. A. E.：經營電源供應器等之銷售業務，95.00 / 95.00 / 95.00 (註1)(註2)
+47. ELTEK AS、DELTA ELECTRONICS (USA) INC. → Eltek SGS Pvt Ltd.：經營電源供應器等之銷售業務及系統建置業務，100.00 / 100.00 / 100.00 (註1)(註2)
+48. ELTEK AS、Eltek SGS Pvt Ltd. → Eltek SGS Mechanics Pvt Ltd.：經營電源供應器等之銷售業務，51.00 / 51.00 / 51.00 (註1)(註2)
+49. ELTEK AS → ELTEK POWER FRANCE SAS：經營電源供應器等之銷售業務及系統建置業務，100.00 / 100.00 / 100.00 (註1)(註2)
+50.  → ELTEK LIMITED：投資及貿易業，100.00 / 100.00 / 100.00 (註2)(註6)
+51.  → ELTEK MEA DMCC：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+52. ELTEK MEA DMCC、ELTEK AS → ELTEK KENYA LIMITED：經營電源供應器之銷售業務，100.00 / 100.00 / - (註2)(註12)
+53.  → ELTEK WEST AFRICA LIMITED：-，100.00 / 100.00 / 100.00 (註1)(註2)
+54. ELTEK AS → Eltek Italia S. r. l.：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+55.  → Delta Electronics (Sweden) AB：-，100.00 / 100.00 / 100.00 (註1)(註2)
+56.  → DELTA ELECTRONICS (UK) LTD：-，100.00 / 100.00 / 100.00 (註1)(註2)(註19)
+57.  → 000 Eltek：經營電源供應器等之銷售業務及系統建置業務，100.00 / 100.00 / 100.00 (註1)(註2)
+58. DELTA Electronics (Germany) GmbH → DELTA Montage GmbH：經營電源供應器之安裝及維修服務業務，100.00 / 100.00 / 100.00 (註1)(註2)(註21)
+59. DEIL-SG → ELTEK POWER INCORPORATED：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+60.  → ELTEK POWER CO., LTD.：-，100.00 / 100.00 / 100.00 (註1)(註2)(註3)
+61.  → ELTEK POWER (CAMBODIA) LTD.：-，100.00 / 100.00 / 100.00 (註1)(註2)
+62.  → ELTEK POWER (MALAYSIA) SDN. BHD.：-，100.00 / 100.00 / 100.00 (註1)(註2)(註4)
+63. DHK → 易達電源科技(東莞)有限公司：開發、生產和銷售接入網路通訊配套智能化電源設備及系統,生產和銷售再生能源配套智能化電源設備，- / - / 100.00 (註2)(註7)
+64. DELTA ELECTRONICS HOLDING (USA) INC. → DELTA ELECTRONICS (USA) INC.：經營電源供應器等之製造及銷售業務，100.00 / 100.00 / 100.00
+65. DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. → DELTA ELECTRONICS (ARGENTINA) S. R. L.：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+66. DEN、DELTA ELECTRONICS (USA) INC. → ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA.：經營電源供應器等之製造及銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)(註13)
+67. DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. → DELTA ELECTRONICS (PERU) INC. S. R. L.：經營電源供應器等之銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+68. DELTA ELECTRONICS (USA) INC. → DELTA ELECTRONICS (COLOMBIA) S. A. S.：-，100.00 / 100.00 / 100.00 (註1)(註2)
+69. DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. → Eltekenergy Services, S. A. de C. V.：-，100.00 / 100.00 / 100.00 (註1)(註2)
+70. DHK、DIH/DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. → Eltekenergy International de México, S. de R. L. de C. V.：-，100.00 / 100.00 / 100.00 (註1)(註2)(註8)
+71. DAL → Delta Electronics (Americas) Ltd.：經營電子零組件之銷售業務，100.00 / 100.00 / 100.00
+72.  → Delta Solar Solutions LLC：投資事業，- / 100.00 / 100.00 (註2)(註14)
+73. Delta Solar Solutions LLC → DSS-USF LLC：經營太陽能發電系統出租，- / 100.00 / 100.00 (註2)(註14)
+74. 乾坤 → 力林科技股份有限公司(力林)：電源管理IC設計，100.00 / 100.00 / 100.00 (註1)(註2)
+75. 台達企管、中達電通/上海中達能源科技有限公司 → 上海浦環中達能源科技有限公司：能源科技、環保科技領域技術開發與諮詢及節能設備設計及銷售，- / 100.00 / 100.00 (註1)(註2)(註18)
+76. DEIL-SG → Loy Tec electronics GmbH (Loy Tec)：提供樓宇管理與控制解決方案，100.00 / 100.00 / 100.00 (註1)(註2)
+77. DHK → 台達智能科技(北京)有限公司：機電、電信及電路設備安裝，100.00 / 100.00 / 100.00 (註1)(註2)
+78.  → 台達電子(西安)有限公司：電腦及其週邊設備、軟體買賣，100.00 / 100.00 / 100.00 (註1)(註2)
+79. DIH → Delta Electronics (Switzerland) AG (DECH)：投資事業、經營電子產品之研發及買賣，100.00 / 100.00 / 100.00 (註2)
+80. DEN → Delta Greentech Electronics Industry LLC：經營電子產品之行銷及銷售業務，100.00 / 100.00 / 100.00 (註1)(註2)
+81. DEN、Delta Electronics (USA) INC. → DELTA GREENTECH (BRASIL) LTDA.：經營電子產品之製造及買賣，100.00 / 100.00 / 100.00 (註1)(註2)(註15)
+82. DECH → Delta Electronics (Czech Republic), spol. s. r. o.：經營電子產品之買賣，100.00 / 100.00 / 100.00 (註2)
+83.  → Delta Electronics (Italy) S. r. l.：-，100.00 / 100.00 / 100.00 (註2)
+84.  → Delta Electronics (Poland) Sp. z o.o.：-，100.00 / 100.00 / 100.00 (註2)
+85.  → Delta Solutions (Finland) Oy：-，100.00 / 100.00 / 100.00 (註2)
+86.  → Delta Electronics Solutions (Spain) SL：-，100.00 / 100.00 / 100.00 (註2)
+87. 台達電子工業股份有限公司 → 晶睿通訊股份有限公司(晶睿)：影音壓縮軟體及編碼、網路影音伺服器、網路攝影機及相關零組件之製造及銷售，56.75 / 55.09 / 54.10
+88. 晶睿 → Vivotek Holdings, Inc.：控股公司，100.00 / 100.00 / 100.00
+89.  → 睿盈投資股份有限公司(睿盈)：創投公司，100.00 / 100.00 / 100.00
+90.  → Vivotek Netherlands B. V.：銷售服務，100.00 / 100.00 / 100.00
+91.  → Vivotek (Japan) Inc.：-，100.00 / 100.00 / 100.00
+92. Vivotek Holdings, Inc. → Vivotek USA, Inc.：網路攝影機及相關零組件之銷售，100.00 / 100.00 / 100.00
+93. 睿盈 → Wellstates Investment, LLC：投資及商業不動產相關業務，100.00 / 100.00 / 100.00
+94. 晶睿 → 歐特斯股份有限公司(歐特斯)：網路攝影機及相關零組件之銷售，100.00 / 100.00 / 100.00
+95. 睿盈 → 高譽科技股份有限公司(高譽)：-，56.21 / 56.21 / 56.21
+96.  → 新思代科技股份有限公司(新思代)：照明設備之銷售，51.00 / 51.00 / 51.00
+97. DEN → DELTA ELECTRONICS BRASIL LTDA.：經營電子產品之製造及買賣，100.00 / 100.00 / 100.00 (註1)(註2)
+98. 台達電子工業股份有限公司、DEIL-SG、DIH → Delta Electronics (Thailand) Public Company Limited (DET)：電源供應器、其他電子設備及零組件之製造及出口，63.78 / 63.78 / 63.78
+99. DET → DET International Holding Limited：投資事業，100.00 / 100.00 / 100.00
+100. DET → Delta Energy Systems (Singapore) PTE. LTD.：投資事業、貿易、管理及諮詢業務，100.00 / 100.00 / 100.00
+101.  → Delta Green Industrial (Thailand) Co., Ltd.：不斷電式電源供應器、太陽能逆變器、電動車充電器、資料中心之整合、銷售、貿易、安裝及服務，100.00 / 100.00 / 100.00
+102.  → Delta Electronics (Vietnam) Company Limited：電子產品買賣，100.00 / 100.00 / 100.00
+103. DET、Delta Energy Systems (Singapore) PTE. LTD. → DELTA ELECTRONICS INDIA MANUFACTURING PRIVATE LIMITED：電子產品之製造及銷售，100.00 / 100.00 / 100.00 (註5)
+104. DET International Holding Limited → DET Logistics (USA) Corporation：提供美國境內物流服務，100.00 / 100.00 / 100.00
+105.  → Delta Energy Systems (Germany) GmbH：電子產品研發、行銷及銷售業務，100.00 / 100.00 / 100.00
+106.  → Delta Energy Systems (India) Private Ltd.：電子產品行銷及銷售業務，100.00 / 100.00 / 100.00
+107. DET International Holding Limited、Delta Energy Systems (Singapore) PTE. LTD. → Delta Electronics (Slovakia) s.r.o.：電源供應器、電源系統製造及銷售業務、OEM電源系統，100.00 / 100.00 / 100.00
+108. DET International Holding Limited → Delta Energy Systems (Romania) S. R. L.：研發，100.00 / 100.00 / 100.00
+109. Delta Energy Systems (Germany) GmbH → Delta Energy Systems (Germany) GmbH Property (Germany)：產權業務，100.00 / 100.00 / 100.00
+110. Delta Energy Systems (Singapore) PTE. LTD. → Delta Electronics (Holdings) Australia Pty Ltd：再生能源產品行銷及銷售業務，100.00 / 100.00 / 100.00
+111.  → Delta Electronics India Pvt. Ltd.：非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器，100.00 / 100.00 / 100.00
+112.  → Delta Electronics (Myanmar) Co., Ltd.：機械及運用於CMP製程之電子產品之製造，100.00 / 100.00 / 100.00
+113.  → Delta Energy Systems (UK) Ltd.：電子產品之研發，100.00 / 100.00 / 100.00
+114.  → Delta Greentech (Netherlands) Cooperatie U. A.：投資事業，- / 100.00 / 100.00 (註12)
+115. Delta Energy Systems (Singapore) PTE. LTD./Delta Greentech (Netherlands) Cooperatie U. A. → Delta Greentech (Netherlands) B. V.：-，100.00 / 100.00 / 100.00 (註16)
+116. Delta Greentech (Netherlands) B. V. → Delta Energy Systems LLC：電源系統之行銷及銷售，100.00 / 100.00 / 100.00
+117. Delta Greentech (Netherlands) B. V. → Eltek s. r. o.：製造通訊電源系統，100.00 / 100.00 / 100.00
+118.  → Delta Electronics (Automotive) Americas Inc.：研發汽車動力及牽引逆變器，100.00 / 100.00 / 100.00
+119. DEN → Amerlux, LLC (Amerlux)：專用照明系統及設施之設計及生產，100.00 / 100.00 / 100.00 (註1)(註2)
+120. Amerlux → Amerlux Lighting Asia, LLC：投資事業，100.00 / 100.00 / 100.00 (註1)(註2)
+121. Amerlux Lighting Asia, LLC → Amerlux Lighting Hong Kong Limited：-，100.00 / 100.00 / 100.00 (註1)(註2)
+122. Amerlux Lighting Hong Kong Limited → 廣州埃墨勒施照明器具有限公司：燈具、裝飾物品之批發，100.00 / 100.00 / 100.00 (註1)(註2)
+123. DIH → Digital Projection International Ltd. (DPI)：投資事業，100.00 / 100.00 / 100.00 (註

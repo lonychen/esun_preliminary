@@ -1,0 +1,7 @@
+Question: 購買基金時的單位數如何計算?
+Answers: TWD 50,000 ÷ @ 31.5 = USD 1,587.3
+USD 1,587.3 ÷ USD 0.3492 = 4,545.53 單位
+Question: 基金的報酬率如何計算?
+Answers: ( TWD 61,278 - TWD 51,000 ) ÷  TWD 51,000 × 100% = 20.15%
+Question: 基金投資現值是多少?
+Answers: TWD 61,278

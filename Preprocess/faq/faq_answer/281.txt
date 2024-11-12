@@ -1,0 +1,7 @@
+Question: 非約定轉帳可以使用行動銀行驗證碼嗎?
+Answers: 可以
+Question: 使用行動銀行驗證碼進行非約定轉帳需要哪些條件?
+Answers: 須完成裝置綁定
+Answers: 使用「身分證驗證」或「SIM卡認證」開啟功能
+Question: 如何查看行動銀行驗證碼非約定轉帳的使用教學?
+Answers: [行動銀行驗證碼非約定轉帳交易驗證教學](https://event.esunbank.com.tw/mkt/member/mobileotp/index.html#transfer)

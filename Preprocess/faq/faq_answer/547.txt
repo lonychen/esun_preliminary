@@ -1,0 +1,6 @@
+Question: 如何取得網路投保商品的詳細說明?
+Answers: 登入[玉山網路銀行](https://ebank.esunbank.com.tw/index.jsp#toTaskId=FIM01010)，點選**財富管理**的**網路投保**專區，再點選**商品總覽**。
+Answers: 至玉山官網的**保險**專區，選擇[網路投保](~/link.aspx?_id=58FC94119204436C8CF55DEE691FAE5F&_z=z)後，可詳閱商品介紹及相關規範。
+Question: 網路投保商品說明及保險條款可以在哪裡找到?
+Answers: 玉山網路銀行
+Answers: 玉山官網的保險專區

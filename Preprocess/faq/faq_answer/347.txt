@@ -1,0 +1,8 @@
+Question: 使用玉山電子支付跨境網購服務退款會退到哪裡？
+Answers: 退款款項將退至您的玉山電子支付帳戶餘額中。
+Question: 如何接收玉山電子支付的退款通知？
+Answers: 請下載[玉山Wallet](https://card.esunbank.com.tw/EsunCreditweb/txnservice/esunwallet/card?a=xxxx)並開通玉山電子支付服務，即可使用玉山Wallet接收即時退款入帳電子支付帳戶推播通知。
+Question: 退款後可以如何使用退款金額？
+Answers: 提領退款至本人銀行帳戶，也歡迎直接使用電子支付帳戶中的餘項進行消費或繳費。
+Question: 提領退款至他行帳戶需要手續費嗎？
+Answers: 若提領至他行帳戶，每筆酌收跨行提領手續費10元。

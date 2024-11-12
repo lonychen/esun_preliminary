@@ -1,0 +1,6 @@
+Question: 外幣現鈔可否存入外幣帳戶?
+Answers: 可以
+Question: 存入外幣現鈔時需要支付哪些費用?
+Answers: 匯差手續費
+Question: 匯差手續費的最低收取金額是多少?
+Answers: NTD 100

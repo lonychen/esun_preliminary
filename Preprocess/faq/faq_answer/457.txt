@@ -1,0 +1,8 @@
+Question: 申請通過後需要哪些步驟才能上線?
+Answers: 本行通知申請完成&rarr;特店進行資訊串接&rarr;交易連線測試&rarr;服務上線。
+Question: 在申請通過後，第一個需要完成的步驟是什麼?
+Answers: 本行通知申請完成
+Question: 在服務上線前，需要進行哪些測試?
+Answers: 交易連線測試
+Question: 特店在哪個步驟中需要進行資訊串接?
+Answers: 特店進行資訊串接

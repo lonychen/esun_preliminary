@@ -1,0 +1,8 @@
+Question: 什麼是玉山全球通服務?
+Answers: 提供顧客將 PayPal 款項提領至玉山銀行或其他銀行帳戶的服務，讓您在任何時間、地點都可以輕鬆申請提領。
+Question: 玉山全球通服務可以做什麼?
+Answers: 將 PayPal 款項提領至玉山銀行或其他銀行帳戶
+Question: 玉山全球通服務的相關資訊在哪裡可以找到?
+Answers: [玉山全球通](https://www.esunbank.com.tw/bank/digital/ecommerce/cross-border/paypal)
+Question: 玉山全球通服務提供哪些便利?
+Answers: 讓您在任何時間、地點都可以輕鬆申請提領。

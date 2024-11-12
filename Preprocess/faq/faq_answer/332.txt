@@ -1,0 +1,8 @@
+Question: 已有數位帳戶，能否開設臨櫃存款帳戶?
+Answers: 可以
+Question: 開設臨櫃存款帳戶需要哪些文件?
+Answers: 身分證
+Answers: 第二證件
+Answers: 印鑑
+Question: 開設臨櫃存款帳戶後，數位帳戶會怎麼處理?
+Answers: 轉換為一般存款帳戶

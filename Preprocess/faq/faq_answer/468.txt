@@ -1,0 +1,13 @@
+Question: 理財型房貸如何動用資金?
+Answers: 存摺、取款條
+Answers: 晶片金融卡
+Answers: 支存透支借款
+Answers: 網路銀行
+Answers: WebATM
+Question: 理財型房貸可以透過哪些方式提領現金?
+Answers: 存摺、取款條
+Answers: 晶片金融卡
+Question: 理財型房貸的網路銀行轉帳交易如何進行?
+Answers: 利用[本行網路銀行](https://ebank.esunbank.com.tw/)進行轉帳交易。
+Question: 理財型房貸使用WebATM進行轉帳需要什麼?
+Answers: 使用晶片金融卡及讀卡機

@@ -1,0 +1,4 @@
+Question: 如何開通無卡提款服務？
+Answers: 本行行動銀行或ATM皆可開通無卡提款服務，相關操作流程請參考[說明頁面](https://www.esunbank.com.tw/event/member/nocard_web/page.html)。
+Question: 開通無卡提款服務前需要完成什麼？
+Answers: 提醒：行動銀行開通無卡提款服務，須先完成行動銀行裝置綁定。

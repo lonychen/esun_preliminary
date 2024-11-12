@@ -1,0 +1,6 @@
+Question: 提領至本行帳戶需要多久?
+Answers: 即時完成入帳
+Question: 提領至他行帳戶需要多久?
+Answers: 3-5工作天完成入帳
+Question: 提領入帳結果如何通知?
+Answers: 以簡訊通知

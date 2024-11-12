@@ -1,0 +1,11 @@
+Question: Touch ID被鎖定後如何解鎖?
+Answers: 請於彈跳視窗點選「確定」後，點選「直接開始體驗」進入首頁。
+Answers: 請點選首頁之「選單」按鈕。
+Answers: 點選選單頁右下角的「登入」按鈕。
+Answers: 於以下頁面輸入您手機的簡易密碼後，即可重新啟用Touch ID登入服務。
+Question: 解鎖Touch ID需要哪個版本的行動銀行APP?
+Answers: 4.0.0以上 (僅限iOS系統)
+Question: 解鎖Touch ID的第一步是什麼?
+Answers: 請於彈跳視窗點選「確定」後，點選「直接開始體驗」進入首頁。
+Question: 解鎖Touch ID的最後一步是什麼?
+Answers: 於以下頁面輸入您手機的簡易密碼後，即可重新啟用Touch ID登入服務。

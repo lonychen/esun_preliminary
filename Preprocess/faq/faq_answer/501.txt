@@ -1,0 +1,6 @@
+Question: 辦理出口信用狀押匯是否需要申請授信額度?
+Answers: 需要
+Question: 辦理出口託收是否需要申請授信額度?
+Answers: 不需
+Question: 申請出口託收融資服務是否需要申請授信額度?
+Answers: 需申請信用額度

@@ -1,0 +1,5 @@
+Question: Android玉山銀行快捷功能支援的最低作業系統版本是多少?
+Answers: Android 7.0(含)以上
+Question: 如何在Android手機上加入玉山銀行快捷功能至小工具?
+Answers: 請於手機上方下拉快捷設定頁面，點選「編輯」按鈕。
+Answers: 將玉山銀行快捷功能拖曳至上方，即可加入小工具中。

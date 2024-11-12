@@ -1,0 +1,12 @@
+Question: 網路金融卡收款支援哪些瀏覽器?
+Answers: IE
+Answers: Chrome
+Answers: Firefox
+Answers: Safari
+Answers: Edge
+Question: 網路金融卡收款對IE的支援版本是多少?
+Answers: 11
+Question: Edge瀏覽器是否支援網路金融卡收款?
+Answers: 暫不支援
+Question: Safari瀏覽器支援網路金融卡收款的版本是多少?
+Answers: 10.12

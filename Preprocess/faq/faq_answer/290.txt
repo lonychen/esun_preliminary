@@ -1,0 +1,8 @@
+Question: 玉山Wallet電子支付「掃碼付」的操作步驟是什麼？
+Answers: 完成支付工具綁定後，於玉山Wallet支付頁面點選「掃碼付」，掃描店家或帳單上QR Code（支援台灣Pay QR Code），系統會自動辨識此QR Code可用之付款方式，也可自行於「玉山電子支付」中挑選付款方式，輸入付款金額，點選下一步即可完成付款。
+Question: 玉山Wallet電子支付支援哪些QR Code？
+Answers: 支援台灣Pay QR Code
+Question: 如何選擇付款方式進行「掃碼付」？
+Answers: 系統會自動辨識此QR Code可用之付款方式，也可自行於「玉山電子支付」中挑選付款方式
+Question: 玉山Wallet電子支付可綁定哪些支付工具？
+Answers: [玉山Wallet電子支付可綁定哪些支付工具呢？](https://www.esunbank.com/zh-tw/about/faq/content?q=crossboarding/016)

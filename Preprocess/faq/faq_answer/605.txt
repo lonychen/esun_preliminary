@@ -1,0 +1,6 @@
+Question: 什麼是兩岸支付通?
+Answers: 兩岸支付通允許大陸消費者使用支付寶在網站上購買台灣特店的商品或服務，交易款項由玉山銀行撥付臺幣金額至您的本行臺幣帳戶。詳情請見玉山銀行[【兩岸支付通】](https://www.esunbank.com.tw/bank/digital/ecommerce/cross-border/esuntrade)服務。
+Question: 兩岸支付通的交易款項是如何處理的?
+Answers: 交易款項由玉山銀行撥付臺幣金額至您的本行臺幣帳戶。
+Question: 大陸消費者使用什麼支付方式進行兩岸支付通交易?
+Answers: 使用支付寶

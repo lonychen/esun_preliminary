@@ -1,0 +1,11 @@
+Question: 如何開始設定LINE個人化通知服務?
+Answers: 點選「玉山LINE官方帳號」，於對話視窗輸入「個人化通知設定」並送出。
+Question: 設定LINE個人化通知服務需要哪些資訊?
+Answers: 身分證字號
+Answers: 生日
+Question: 設定LINE個人化通知服務後，如何進行身分驗證?
+Answers: 本行將寄送「簡訊密碼」至您留存於本行之手機號碼
+Question: 完成LINE個人化通知服務設定需要做什麼?
+Answers: 設定您欲收取之通知訊息，按確認後即可完成設定。
+Question: LINE個人化通知服務是否支援桌機版LINE?
+Answers: 不提供桌機版LINE使用。

@@ -1,0 +1,9 @@
+Question: 投資海外ETF/股票需要支付哪些稅負?
+Answers: 30%的稅額
+Answers: 應併同臺灣地區來源所得課徵所得稅
+Question: 美國股票或ETF的稅負是多少?
+Answers: 30%的稅額
+Question: 投資H股、滬港通及深港通股票的稅負如何計算?
+Answers: 應併同臺灣地區來源所得課徵所得稅，但可扣抵大陸地區已繳納之稅額
+Question: 非美國籍投資者在美國股市的稅負標準是什麼?
+Answers: 30%的稅額

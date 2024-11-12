@@ -1,0 +1,4 @@
+Question: 申請數位帳戶時，如果操作到一半斷線該怎麼辦?
+Answers: 為保障您的個資安全，請您重新申請。
+Question: 斷線後重新申請數位帳戶的連結在哪裡?
+Answers: [立即申請](https://www.esunbank.com.tw/s/OpenAccount/?ven=faq)

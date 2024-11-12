@@ -1,0 +1,2 @@
+Question: 甲的 PayPal 款項可以提領至乙的銀行帳戶嗎？
+Answers: 不可以。

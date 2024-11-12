@@ -1,0 +1,15 @@
+Question: 綜合對帳單的寄送方式有哪些?
+Answers: Email
+Answers: 簡訊
+Answers: 紙本(平信寄送)
+Question: 個人戶綜合對帳單的寄送方式有哪些?
+Answers: Email
+Answers: 簡訊
+Answers: 紙本(平信寄送)
+Question: 公司戶綜合對帳單的寄送方式有哪些?
+Answers: Email
+Answers: 紙本(平信寄送)
+Question: 若先前有對帳單以電子方式寄送，綜合對帳單將如何寄送?
+Answers: 統一以Email寄送
+Question: 申辦簡訊綜合對帳單需要什麼功能?
+Answers: 開通簡訊密碼功能

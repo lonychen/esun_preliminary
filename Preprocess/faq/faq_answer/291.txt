@@ -1,0 +1,6 @@
+Question: 玉山理財電子週報是什麼?
+Answers: 「玉山理財電子週報」為本行財富管理投資諮詢中心每週定期提供之專業市場分析
+Question: 誰可以免費訂閱玉山理財電子週報?
+Answers: 若為玉山的顧客可免費訂閱
+Question: 如何訂閱玉山理財電子週報?
+Answers: 訂閱網址：[https://ebank.esunbank.com.tw/fpo/fpo08004/FPO08004_Home.faces](https://ebank.esunbank.com.tw/fpo/fpo08004/FPO08004_Home.faces)

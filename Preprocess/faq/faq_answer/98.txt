@@ -1,0 +1,8 @@
+Question: 玉山Wallet電子支付可以在哪些地方使用?
+Answers: 全台「台灣 Pay」通路，包括實體商店、網購通路及帳單掃碼繳費
+Question: 使用玉山Wallet電子支付時，應如何選擇付款方式?
+Answers: 請於條碼付左上角選擇「玉山電子支付」，包含連結銀行帳戶付款、綁定信用卡儲值付款及餘額付款，或是開啟掃碼付掃描「台灣Pay」QR Code
+Question: 玉山Wallet電子支付的可用通路在哪裡查詢?
+Answers: [可用通路](https://www.esunbank.com.tw/event/credit/1070425wallet/store.html)
+Question: 玉山電子支付與玉山Wallet信用卡的可用通路有何不同?
+Answers: 部分玉山電子支付的可用通路與玉山Wallet信用卡通路不同，詳見[可用通路](https://www.esunbank.com.tw/event/credit/1070425wallet/store.html)，或辨識為台灣Pay標示即可使用玉山電子支付、為玉山Wallet標示即可使用玉山Wallet信用卡

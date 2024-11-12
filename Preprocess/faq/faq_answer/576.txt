@@ -1,0 +1,8 @@
+Question: TLS加密通訊協定調整的目的是什麼?
+Answers: 為持續提供您安全之交易作業環境，以提高網路傳輸資訊安全。
+Question: TLS加密通訊協定調整後不再支援哪些技術?
+Answers: TLS 1.0加密通訊協定、3DES加密演算法及IE 8（含）以下版本瀏覽器
+Question: 若使用IE瀏覽器，應如何因應TLS加密通訊協定的調整?
+Answers: 建議更新至IE 9以上版本，或改使用Chrome、Firefox等最新版本之瀏覽器，並啟用TLS 1.1以上之加密通訊協定
+Question: 如何查看TLS加密通訊協定調整的詳細教學?
+Answers: [說明](https://www.esunbank.com.tw/bank/about/faq/digital/netbank?list=33)

@@ -1,0 +1,2 @@
+Question: 如何變更Siri的呼叫語音？
+Answers: 點擊右上角「加入Siri」按鈕，並在When I Say欄位中輸入欲更改的字詞，如「外匯匯率」，即可變更呼叫語音。

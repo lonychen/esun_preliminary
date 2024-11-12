@@ -1,0 +1,8 @@
+Question: 如何使用玉山Wallet電子支付進行繳費？
+Answers: 開通玉山電子支付並綁定支付工具，進入「生活繳費」點選「立即掃碼」或直接使用「掃碼付」，掃描帳單上「台灣Pay 」或「台灣行動支付」QR Code，即可進行繳費。
+Question: 玉山Wallet電子支付可綁定哪些支付工具？
+Answers: [「玉山Wallet電子支付可綁定哪些支付工具呢？」](https://www.esunbank.com/zh-tw/about/faq/content?q=crossboarding/016)
+Question: 玉山Wallet電子支付支援哪些繳費項目？
+Answers: [「玉山Wallet電子支付支援哪些繳費項目呢？」](https://www.esunbank.com/zh-tw/about/faq/content?q=crossboarding/061)
+Question: 如何使用玉山Wallet電子支付綁定電號？
+Answers: [「如何使用玉山Wallet電子支付綁定電號，並設定台電繳款提醒通知？」](https://www.esunbank.com/zh-tw/about/faq/content?q=crossboarding/065)

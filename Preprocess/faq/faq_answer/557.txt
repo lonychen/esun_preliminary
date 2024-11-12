@@ -1,0 +1,8 @@
+Question: 撥款週期是什麼時候？
+Answers: 每月9、19、29日撥款(如遇假日順延至次營業日)
+Question: 如果撥款日遇到假日怎麼辦？
+Answers: 順延至次營業日
+Question: 撥款幣別是什麼？
+Answers: 臺幣
+Question: 款項會撥入哪裡？
+Answers: 特店在本行所開立的臺幣帳戶

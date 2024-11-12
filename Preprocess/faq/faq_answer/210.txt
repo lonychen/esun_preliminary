@@ -1,0 +1,10 @@
+Question: 當WebATM顯示「元件未更新」應如何處理?
+Answers: 1. 請檢查IE瀏覽器安全性設定，ActiveX篩選是否有「取消勾選」( IE > 右上角齒輪(工具) > 安全性 > ActiveX篩選 )
+
+2. 請改嘗試使用其他Chrome / FireFox/ Edge 瀏覽器
+Question: 解決WebATM「元件未更新」問題，需要檢查哪些設定?
+Answers: IE瀏覽器安全性設定，ActiveX篩選是否有「取消勾選」
+Question: 如果IE瀏覽器設定正確，還有哪些瀏覽器可以嘗試登入WebATM?
+Answers: Chrome
+Answers: FireFox
+Answers: Edge

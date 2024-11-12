@@ -1,0 +1,6 @@
+Question: 行動裝置的系統需求是什麼?
+Answers: Android版本需 Android.6以上。**(iOS版本開發中，敬請期待。)**
+Question: 如何下載玉山行動銀行APP?
+Answers: 請掃描下方QR Code進行下載。
+Answers: [下載玉山行動銀行APP](https://itunes.apple.com/tw/app/id405033836)
+Answers: [下載玉山行動銀行APP](https://play.google.com/store/apps/details?id=com.esunbank&hl=zh_TW)

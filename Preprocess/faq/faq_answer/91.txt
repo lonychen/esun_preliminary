@@ -1,0 +1,9 @@
+Question: 申請數位帳戶需要哪些基本設備?
+Answers: 電腦/手機
+Question: 申請數位帳戶時，需要哪些驗證工具?
+Answers: 自然人憑證+讀卡機
+Answers: 本行網銀
+Answers: 他行臨櫃帳戶
+Answers: 玉山信用卡正卡且滿半年
+Question: 申請數位帳戶需要哪些證件?
+Answers: 身分證+第二證件(健保卡/駕照/學生證)

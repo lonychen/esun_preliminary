@@ -1,0 +1,7 @@
+Question: 行程出發時還沒收到保單會影響保險效力嗎?
+Answers: 不會
+Question: 如何確認保險已生效?
+Answers: 收到投保完成通知
+Answers: 查詢保單狀態為已承保
+Question: 未收到保單前，如何查詢保險狀態?
+Answers: 網路投保記錄查詢

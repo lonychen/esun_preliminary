@@ -1,0 +1,6 @@
+Question: 什麼是行動銀行驗證碼?
+Answers: 「行動銀行驗證碼」為一組動態產生的交易驗證碼，完成設定後，您即可直接透過行動銀行接收交易驗證碼，無須透過簡訊。
+Question: 行動銀行驗證碼適用於哪些交易?
+Answers: 非約定轉帳交易
+Question: 如何開啟行動銀行驗證碼?
+Answers: [【「開啟行動銀行驗證碼」說明詳見第79題】](https://www.esunbank.com.tw/bank/about/faq/digital/mobile?list=79)

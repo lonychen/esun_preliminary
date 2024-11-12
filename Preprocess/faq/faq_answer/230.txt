@@ -1,0 +1,12 @@
+Question: 數位帳戶申辦需要多久時間?
+Answers: 3-5個工作日
+Question: 數位帳戶申辦需要哪些證件?
+Answers: 身分證正反面
+Answers: 第二證件正面
+Question: 數位帳戶申辦身分驗證方式有哪些?
+Answers: 自然人憑證
+Answers: 本行網銀
+Answers: 他行臨櫃帳戶
+Answers: 持玉山信用卡正卡滿半年
+Question: 數位帳戶申辦後如何得知審核結果?
+Answers: 於3-5個工作日以簡訊及Email通知審核結果

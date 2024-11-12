@@ -1,0 +1,8 @@
+Question: 申請數位帳戶後多久可以拿到金融卡?
+Answers: 審核通過後7個工作日內
+Question: 金融卡寄送後如何查詢進度?
+Answers: 使用簡訊中的掛號編號至中華郵政全球資訊網查詢
+Question: 金融卡寄送通知是如何發送的?
+Answers: 寄送金融卡時會發送通知簡訊
+Question: 查詢金融卡寄送進度的網址是什麼?
+Answers: [http://postserv.post.gov.tw/pstmail/main_mail.html](http://postserv.post.gov.tw/pstmail/main_mail.html)

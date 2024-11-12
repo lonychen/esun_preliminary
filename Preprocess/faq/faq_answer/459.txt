@@ -1,0 +1,2 @@
+Question: 進行驗證前是否需要安裝讀卡機?
+Answers: 需要

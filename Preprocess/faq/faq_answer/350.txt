@@ -1,0 +1,15 @@
+Question: 從國外匯款至玉山銀行需要哪些資料?
+Answers: 受款銀行：E.Sun Commercial Bank, Ltd., Taipei, Taiwan（玉山銀行）
+SWIFT Code：ESUNTWTP
+
+受款人戶名：(英文全名)
+
+受款人於玉山銀行之帳號：（共 13 碼）
+Question: 匯款至玉山銀行的SWIFT Code是什麼?
+Answers: ESUNTWTP
+Question: 匯款至玉山銀行需要提供受款人的什麼資訊?
+Answers: 受款人戶名：(英文全名)
+
+受款人於玉山銀行之帳號：（共 13 碼）
+Question: 如何查詢玉山銀行的分行資訊?
+Answers: 請參考[《服務據點一覽表》](https://www.esunbank.com.tw/bank/about/locations/branch-list)

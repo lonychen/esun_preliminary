@@ -1,0 +1,8 @@
+Question: 如何開始檢查讀卡機是否安裝成功?
+Answers: 請先確認讀卡機已插上電腦的USB槽，如果沒有，請插上並重新整理網頁。
+Question: 如何透過裝置管理員檢查讀卡機是否安裝成功?
+Answers: 請於Windows作業系統依照【控制台】>【系統】>【硬體】>【裝置管理員】路徑進入裝置管理員。
+Question: 讀卡機安裝成功的標誌是什麼?
+Answers: 智慧卡讀取裝置是否有EZUSB PC/SC Smart Card Reader
+Question: 如果讀卡機未安裝成功應該怎麼辦?
+Answers: 請重新安裝驅動程式。如安裝後依然看不到該選項，請您的電腦廠商檢查電腦的USB介面是否可正常運作。

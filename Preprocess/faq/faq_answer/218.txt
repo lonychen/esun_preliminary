@@ -1,0 +1,2 @@
+Question: 如何查詢推薦好友辦卡是否符合資格?
+Answers: 您可於官網一起揪辦卡[MGM推薦辦卡進度查詢](https://card.esunbank.com.tw/EsunCreditweb/txnservice/identify?PRJCD=MGMCRD#b)。

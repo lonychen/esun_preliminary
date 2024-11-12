@@ -1,0 +1,11 @@
+Question: 數位帳戶可以約定為代扣繳帳號嗎?
+Answers: 可以
+Question: 透過哪個平台可以約定數位帳戶的代扣繳?
+Answers: [個人網路銀行](https://j3x8a.app.goo.gl/Launch-App)
+Question: 數位帳戶可以約定哪些費用的代扣繳?
+Answers: 公共事業費、稅費
+Answers: 本人信用卡卡費
+Question: 約定公共事業費、稅費代扣繳需要進行哪些操作?
+Answers: 登入個人網路銀行 > 點選繳費繳稅 > 自動扣繳 > 自動扣繳辦理/查詢，約定代繳方式及項目
+Question: 約定本人信用卡卡費代扣繳需要進行哪些操作?
+Answers: 登入個人網路銀行 > 點選信用卡 > 信用卡繳費 > 自動扣繳卡費申請

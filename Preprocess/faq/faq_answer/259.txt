@@ -1,0 +1,8 @@
+Question: 數位帳戶簽帳金融卡可以連結行動支付嗎？
+Answers: 可以
+Question: 哪些數位帳戶簽帳金融卡可以直接連結行動支付？
+Answers: 以自然人憑證、本行網銀驗證之數位帳戶簽帳金融卡
+Question: 哪些數位帳戶簽帳金融卡無法直接連結行動支付，需進行什麼操作？
+Answers: 以他行臨櫃帳戶、玉山信用卡驗證之數位帳戶簽帳金融卡需本人攜帶身分證、第二證件及印鑑至任一鄰近分行轉換一般存款帳戶
+Question: 玉山銀行提供哪些行動支付連結服務的詳細說明？
+Answers: [https://www.esunbank.com/zh-tw/personal/credit-card/payment/phone-card](https://www.esunbank.com/zh-tw/personal/credit-card/payment/phone-card)

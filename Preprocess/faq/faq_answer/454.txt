@@ -1,0 +1,9 @@
+Question: 申請跨境手機掃碼支付是否需要技術人員?
+Answers: 進階版需要
+Question: 跨境手機掃碼支付有哪兩種方式?
+Answers: 基本版
+Answers: 進階版
+Question: 基本版跨境手機掃碼支付需要什麼準備?
+Answers: 可以上網之手機或平板並下載玉山掃碼通App
+Question: 進階版跨境手機掃碼支付需要什麼?
+Answers: POS整合軟體，由特店自行整合至POS系統

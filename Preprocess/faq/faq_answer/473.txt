@@ -1,0 +1,2 @@
+Question: 無法使用WebATM元件時應如何處理?
+Answers: 可以使用「[WebATM健檢小醫生](https://netbank.esunbank.com.tw/webatm/doctor/default.html)」幫您的電腦檢測玉山銀行晶片金融卡元件(WebATM元件)是否可正常使用，並依據您電腦的作業系統及瀏覽器設定，提供安裝使用上問題排除之參考建議。
